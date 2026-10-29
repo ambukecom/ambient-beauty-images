@@ -1,0 +1,11 @@
+{
+  "job_id": "2026-10-29-selftest",
+  "items": [],
+  "selftest": {
+    "source_px": "900x1100",
+    "method": "AI cut-out (birefnet-general)",
+    "upscale": 2.45,
+    "product_share_of_source": 0.17,
+    "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/_selftest/selftest.jpg"
+  }
+}
