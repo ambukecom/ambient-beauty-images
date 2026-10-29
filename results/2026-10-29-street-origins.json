@@ -1,0 +1,130 @@
+{
+  "job_id": "2026-10-29-street-origins",
+  "items": [
+    {
+      "barcode": "6298042001350",
+      "slug": "street-origins-auckland-craze-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.28,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001350/street-origins-auckland-craze-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001350/street-origins-auckland-craze-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.21,
+          "product_share_of_source": 0.62,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001350/street-origins-auckland-craze-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001350/street-origins-auckland-craze-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360379876",
+      "slug": "street-origins-bisous-bisous-paris-extrait-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.0,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379876/street-origins-bisous-bisous-paris-extrait-de-parfum-75ml.jpg",
+          "path": "images/6290360379876/street-origins-bisous-bisous-paris-extrait-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x1075",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.36,
+          "product_share_of_source": 0.46,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379876/street-origins-bisous-bisous-paris-extrait-de-parfum-75ml-with-box.jpg",
+          "path": "images/6290360379876/street-origins-bisous-bisous-paris-extrait-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001268",
+      "slug": "street-origins-hanoi-drizzle-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.19,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001268/street-origins-hanoi-drizzle-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001268/street-origins-hanoi-drizzle-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.23,
+          "product_share_of_source": 0.61,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001268/street-origins-hanoi-drizzle-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001268/street-origins-hanoi-drizzle-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001404",
+      "slug": "street-origins-hawaii-ting-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.18,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001404/street-origins-hawaii-ting-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001404/street-origins-hawaii-ting-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.21,
+          "product_share_of_source": 0.62,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001404/street-origins-hawaii-ting-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001404/street-origins-hawaii-ting-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360379807",
+      "slug": "street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.99,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379807/street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml.jpg",
+          "path": "images/6290360379807/street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x1075",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.34,
+          "product_share_of_source": 0.46,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379807/street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml-with-box.jpg",
+          "path": "images/6290360379807/street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
