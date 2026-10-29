@@ -1,0 +1,26 @@
+{
+  "job_id": "2026-10-29-street-origins",
+  "drive_root": "18basmN8GWnhplngT_Sb5gIvNp4v3lfCJ",
+  "items": [
+    {
+      "barcode": "6298042001350",
+      "slug": "street-origins-auckland-craze-eau-de-parfum-75ml"
+    },
+    {
+      "barcode": "6290360379876",
+      "slug": "street-origins-bisous-bisous-paris-extrait-de-parfum-75ml"
+    },
+    {
+      "barcode": "6298042001268",
+      "slug": "street-origins-hanoi-drizzle-eau-de-parfum-75ml"
+    },
+    {
+      "barcode": "6298042001404",
+      "slug": "street-origins-hawaii-ting-eau-de-parfum-75ml"
+    },
+    {
+      "barcode": "6290360379807",
+      "slug": "street-origins-i-do-i-do-vegas-extrait-de-parfum-75ml"
+    }
+  ]
+}
