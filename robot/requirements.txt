@@ -1,0 +1,6 @@
+pillow>=10.4
+numpy>=1.26
+scipy>=1.11
+rembg[cpu]>=2.0.59
+google-api-python-client>=2.140
+google-auth>=2.34

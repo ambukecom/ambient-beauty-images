@@ -1,0 +1,51 @@
+name: Process product images
+
+on:
+  push:
+    branches: [main]
+    paths: ["jobs/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: image-robot
+  cancel-in-progress: false
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: robot/requirements.txt
+
+      - name: Cache background-removal models
+        uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: rembg-models-v1
+
+      - name: Install
+        run: pip install -r robot/requirements.txt
+
+      - name: Process new jobs
+        env:
+          GDRIVE_SA_KEY: ${{ secrets.GDRIVE_SA_KEY }}
+        run: python robot/run_job.py
+
+      - name: Save results
+        run: |
+          git config user.name "image-robot"
+          git config user.email "image-robot@users.noreply.github.com"
+          git add images results
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Processed images: $(ls -t results | head -1)"
+          git pull --rebase origin main
+          git push origin HEAD:main
