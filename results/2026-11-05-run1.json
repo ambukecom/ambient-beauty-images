@@ -1,0 +1,241 @@
+{
+  "job_id": "2026-11-05-run1",
+  "items": [
+    {
+      "barcode": "0085715169914",
+      "slug": "abercrombie-fitch-away-tonight-woman-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 3.24,
+          "product_share_of_source": 0.47,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715169914/abercrombie-fitch-away-tonight-woman-eau-de-parfum-50ml.jpg",
+          "path": "images/0085715169914/abercrombie-fitch-away-tonight-woman-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.79,
+          "product_share_of_source": 0.59,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715169914/abercrombie-fitch-away-tonight-woman-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/0085715169914/abercrombie-fitch-away-tonight-woman-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360616339",
+      "slug": "ahmed-al-maghribi-blue-by-ahmed-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1118x1600",
+          "method": "white-background cut-out",
+          "upscale": 1.27,
+          "product_share_of_source": 0.39,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360616339/ahmed-al-maghribi-blue-by-ahmed-eau-de-parfum-100ml.jpg",
+          "path": "images/6290360616339/ahmed-al-maghribi-blue-by-ahmed-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1284x1272",
+          "method": "white-background cut-out",
+          "upscale": 1.61,
+          "product_share_of_source": 0.59,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360616339/ahmed-al-maghribi-blue-by-ahmed-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290360616339/ahmed-al-maghribi-blue-by-ahmed-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614272688346",
+      "slug": "biotherm-blue-therapy-amber-algae-revitalize-night-cream-50ml",
+      "images": {
+        "main": {
+          "source_px": "488x488",
+          "method": "white-background cut-out",
+          "upscale": 3.25,
+          "product_share_of_source": 0.84,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614272688346/biotherm-blue-therapy-amber-algae-revitalize-night-cream-50ml.jpg",
+          "path": "images/3614272688346/biotherm-blue-therapy-amber-algae-revitalize-night-cream-50ml.jpg"
+        },
+        "box": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.22,
+          "product_share_of_source": 0.38,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614272688346/biotherm-blue-therapy-amber-algae-revitalize-night-cream-50ml-with-box.jpg",
+          "path": "images/3614272688346/biotherm-blue-therapy-amber-algae-revitalize-night-cream-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8809416470047",
+      "slug": "cosrx-aha-7-whitehead-power-liquid-100ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.88,
+          "product_share_of_source": 0.15,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8809416470047/cosrx-aha-7-whitehead-power-liquid-100ml.jpg",
+          "path": "images/8809416470047/cosrx-aha-7-whitehead-power-liquid-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 3.03,
+          "product_share_of_source": 0.15,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8809416470047/cosrx-aha-7-whitehead-power-liquid-100ml-with-box.jpg",
+          "path": "images/8809416470047/cosrx-aha-7-whitehead-power-liquid-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0738678002445",
+      "slug": "american-crew-anti-hair-loss-shampoo-1000ml",
+      "images": {
+        "main": {
+          "source_px": "800x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.4,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678002445/american-crew-anti-hair-loss-shampoo-1000ml.jpg",
+          "path": "images/0738678002445/american-crew-anti-hair-loss-shampoo-1000ml.jpg"
+        },
+        "box": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 1.77,
+          "product_share_of_source": 0.34,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678002445/american-crew-anti-hair-loss-shampoo-1000ml-with-box.jpg",
+          "path": "images/0738678002445/american-crew-anti-hair-loss-shampoo-1000ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0738678000991",
+      "slug": "american-crew-classic-daily-shampoo-450ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.37,
+          "source_file": "main.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678000991/american-crew-classic-daily-shampoo-450ml.jpg",
+          "path": "images/0738678000991/american-crew-classic-daily-shampoo-450ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0738678000991"
+      ]
+    },
+    {
+      "barcode": "3605540569542",
+      "slug": "biotherm-beurre-de-levres-lip-balm-13ml",
+      "images": {
+        "main": {
+          "source_px": "214x777",
+          "method": "white-background cut-out",
+          "upscale": 2.38,
+          "product_share_of_source": 0.93,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3605540569542/biotherm-beurre-de-levres-lip-balm-13ml.jpg",
+          "path": "images/3605540569542/biotherm-beurre-de-levres-lip-balm-13ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3605540569542"
+      ]
+    },
+    {
+      "barcode": "3666057165573",
+      "slug": "clarins-ombre-skin-eyeshadow-03-pearly-gold-1-5g",
+      "images": {
+        "main": {
+          "source_px": "1589x1600",
+          "method": "white-background cut-out",
+          "upscale": 0.99,
+          "product_share_of_source": 0.95,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3666057165573/clarins-ombre-skin-eyeshadow-03-pearly-gold-1-5g.jpg",
+          "path": "images/3666057165573/clarins-ombre-skin-eyeshadow-03-pearly-gold-1-5g.jpg"
+        },
+        "box": {
+          "source_px": "1600x1546",
+          "method": "white-background cut-out",
+          "upscale": 1.15,
+          "product_share_of_source": 0.78,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3666057165573/clarins-ombre-skin-eyeshadow-03-pearly-gold-1-5g-with-box.jpg",
+          "path": "images/3666057165573/clarins-ombre-skin-eyeshadow-03-pearly-gold-1-5g-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616303459093",
+      "slug": "adidas-dynamic-pulse-shower-gel-400ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.92,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459093/adidas-dynamic-pulse-shower-gel-400ml.jpg",
+          "path": "images/3616303459093/adidas-dynamic-pulse-shower-gel-400ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.29,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459093/adidas-dynamic-pulse-shower-gel-400ml-with-box.jpg",
+          "path": "images/3616303459093/adidas-dynamic-pulse-shower-gel-400ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616303458973",
+      "slug": "adidas-ice-dive-shower-gel-400ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303458973/adidas-ice-dive-shower-gel-400ml.jpg",
+          "path": "images/3616303458973/adidas-ice-dive-shower-gel-400ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.29,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303458973/adidas-ice-dive-shower-gel-400ml-with-box.jpg",
+          "path": "images/3616303458973/adidas-ice-dive-shower-gel-400ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
