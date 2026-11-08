@@ -1,0 +1,302 @@
+{
+  "job_id": "2026-11-08-photos",
+  "items": [
+    {
+      "barcode": "6290360617305",
+      "slug": "ahmed-al-maghribi-peachy-peach-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.85,
+          "product_share_of_source": 0.26,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360617305/ahmed-al-maghribi-peachy-peach-eau-de-parfum-100ml.jpg",
+          "path": "images/6290360617305/ahmed-al-maghribi-peachy-peach-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.46,
+          "product_share_of_source": 0.68,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360617305/ahmed-al-maghribi-peachy-peach-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290360617305/ahmed-al-maghribi-peachy-peach-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616303459048",
+      "slug": "adidas-pure-game-shower-gel-400ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459048/adidas-pure-game-shower-gel-400ml.jpg",
+          "path": "images/3616303459048/adidas-pure-game-shower-gel-400ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.29,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459048/adidas-pure-game-shower-gel-400ml-with-box.jpg",
+          "path": "images/3616303459048/adidas-pure-game-shower-gel-400ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616305266293",
+      "slug": "adidas-uefa-champions-league-goal-shower-gel-400ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.49,
+          "product_share_of_source": 0.31,
+          "source_file": "main.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616305266293/adidas-uefa-champions-league-goal-shower-gel-400ml.jpg",
+          "path": "images/3616305266293/adidas-uefa-champions-league-goal-shower-gel-400ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3616305266293"
+      ]
+    },
+    {
+      "barcode": "6293708009329",
+      "slug": "ajmal-viola-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.18,
+          "product_share_of_source": 0.5,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708009329/ajmal-viola-eau-de-parfum-75ml.jpg",
+          "path": "images/6293708009329/ajmal-viola-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.82,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708009329/ajmal-viola-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6293708009329/ajmal-viola-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290361912348",
+      "slug": "arabiyat-prestige-marwa-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 4.78,
+          "product_share_of_source": 0.07,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361912348/arabiyat-prestige-marwa-eau-de-parfum-100ml.jpg",
+          "path": "images/6290361912348/arabiyat-prestige-marwa-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 1.8,
+          "product_share_of_source": 0.26,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361912348/arabiyat-prestige-marwa-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290361912348/arabiyat-prestige-marwa-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0812256028611",
+      "slug": "ariana-grande-cloud-2-0-intense-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "702x702",
+          "method": "white-background cut-out",
+          "upscale": 2.31,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0812256028611/ariana-grande-cloud-2-0-intense-eau-de-parfum-100ml.jpg",
+          "path": "images/0812256028611/ariana-grande-cloud-2-0-intense-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.47,
+          "product_share_of_source": 0.43,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0812256028611/ariana-grande-cloud-2-0-intense-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0812256028611/ariana-grande-cloud-2-0-intense-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015188165",
+      "slug": "armaf-check-mate-knight-black-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.35,
+          "product_share_of_source": 0.41,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015188165/armaf-check-mate-knight-black-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015188165/armaf-check-mate-knight-black-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "924x672",
+          "method": "white-background cut-out",
+          "upscale": 1.81,
+          "product_share_of_source": 0.92,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015188165/armaf-check-mate-knight-black-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015188165/armaf-check-mate-knight-black-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0738678001035",
+      "slug": "american-crew-daily-moisturizing-conditioner-450ml",
+      "images": {
+        "main": {
+          "source_px": "768x1024",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.24,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678001035/american-crew-daily-moisturizing-conditioner-450ml.jpg",
+          "path": "images/0738678001035/american-crew-daily-moisturizing-conditioner-450ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0738678001035"
+      ]
+    },
+    {
+      "barcode": "0738678002766",
+      "slug": "american-crew-grooming-hair-cream-85g",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.22,
+          "product_share_of_source": 0.44,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678002766/american-crew-grooming-hair-cream-85g.jpg",
+          "path": "images/0738678002766/american-crew-grooming-hair-cream-85g.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 5.32,
+          "product_share_of_source": 0.22,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678002766/american-crew-grooming-hair-cream-85g-with-box.jpg",
+          "path": "images/0738678002766/american-crew-grooming-hair-cream-85g-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614272277335",
+      "slug": "lancome-hypnose-drama-mascara-01-noir-hypnotic-4ml",
+      "images": {
+        "main": {
+          "source_px": "985x1313",
+          "method": "white-background cut-out",
+          "upscale": 2.49,
+          "product_share_of_source": 0.17,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614272277335/lancome-hypnose-drama-mascara-01-noir-hypnotic-4ml.jpg",
+          "path": "images/3614272277335/lancome-hypnose-drama-mascara-01-noir-hypnotic-4ml.jpg"
+        },
+        "box": {
+          "source_px": "133x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 5.36,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614272277335/lancome-hypnose-drama-mascara-01-noir-hypnotic-4ml-with-box.jpg",
+          "path": "images/3614272277335/lancome-hypnose-drama-mascara-01-noir-hypnotic-4ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614273855044",
+      "slug": "lancome-idole-ultra-precise-waterproof-eyeliner-03-aegean-blue-1ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.74,
+          "product_share_of_source": 0.27,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614273855044/lancome-idole-ultra-precise-waterproof-eyeliner-03-aegean-blue-1ml.jpg",
+          "path": "images/3614273855044/lancome-idole-ultra-precise-waterproof-eyeliner-03-aegean-blue-1ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3614273855044"
+      ]
+    },
+    {
+      "barcode": "3616303459147",
+      "slug": "adidas-victory-league-3-in-1-shower-gel-400ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.16,
+          "product_share_of_source": 0.35,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459147/adidas-victory-league-3-in-1-shower-gel-400ml.jpg",
+          "path": "images/3616303459147/adidas-victory-league-3-in-1-shower-gel-400ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.47,
+          "product_share_of_source": 0.31,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303459147/adidas-victory-league-3-in-1-shower-gel-400ml-with-box.jpg",
+          "path": "images/3616303459147/adidas-victory-league-3-in-1-shower-gel-400ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0737052120355",
+      "slug": "dunhill-london-shower-breeze-gel-50ml",
+      "images": {
+        "main": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.26,
+          "product_share_of_source": 0.41,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0737052120355/dunhill-london-shower-breeze-gel-50ml.jpg",
+          "path": "images/0737052120355/dunhill-london-shower-breeze-gel-50ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0737052120355"
+      ]
+    }
+  ]
+}
