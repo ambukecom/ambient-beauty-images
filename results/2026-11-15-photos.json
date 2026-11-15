@@ -1,0 +1,498 @@
+{
+  "job_id": "2026-11-15-photos",
+  "items": [
+    {
+      "barcode": "6294015166217",
+      "slug": "armaf-hunter-killer-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.1,
+          "product_share_of_source": 0.42,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015166217/armaf-hunter-killer-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015166217/armaf-hunter-killer-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.68,
+          "product_share_of_source": 0.56,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015166217/armaf-hunter-killer-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015166217/armaf-hunter-killer-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015102253",
+      "slug": "armaf-la-rosa-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.25,
+          "product_share_of_source": 0.57,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015102253/armaf-la-rosa-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015102253/armaf-la-rosa-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.96,
+          "product_share_of_source": 0.19,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015102253/armaf-la-rosa-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015102253/armaf-la-rosa-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015161496",
+      "slug": "armaf-le-parfait-azure-pour-femme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 5.4,
+          "product_share_of_source": 0.24,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161496/armaf-le-parfait-azure-pour-femme-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015161496/armaf-le-parfait-azure-pour-femme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.0,
+          "product_share_of_source": 0.88,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161496/armaf-le-parfait-azure-pour-femme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015161496/armaf-le-parfait-azure-pour-femme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015161502",
+      "slug": "armaf-le-parfait-panache-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.71,
+          "product_share_of_source": 0.21,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161502/armaf-le-parfait-panache-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015161502/armaf-le-parfait-panache-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "625x591",
+          "method": "white-background cut-out",
+          "upscale": 2.49,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161502/armaf-le-parfait-panache-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015161502/armaf-le-parfait-panache-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199800751",
+      "slug": "armaf-odyssey-limoni-fresh-eau-de-parfum-60ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 2.4,
+          "product_share_of_source": 0.25,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199800751/armaf-odyssey-limoni-fresh-eau-de-parfum-60ml.jpg",
+          "path": "images/6295199800751/armaf-odyssey-limoni-fresh-eau-de-parfum-60ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.66,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199800751/armaf-odyssey-limoni-fresh-eau-de-parfum-60ml-with-box.jpg",
+          "path": "images/6295199800751/armaf-odyssey-limoni-fresh-eau-de-parfum-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6085010093543",
+      "slug": "armaf-opus-femme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "194x350",
+          "method": "white-background cut-out",
+          "upscale": 7.83,
+          "product_share_of_source": 0.6,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6085010093543/armaf-opus-femme-eau-de-parfum-100ml.jpg",
+          "path": "images/6085010093543/armaf-opus-femme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.17,
+          "product_share_of_source": 0.81,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6085010093543/armaf-opus-femme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6085010093543/armaf-opus-femme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474636476602",
+      "slug": "loreal-professionnel-infinium-pure-strong-hairspray-300ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.73,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636476602/loreal-professionnel-infinium-pure-strong-hairspray-300ml.jpg",
+          "path": "images/3474636476602/loreal-professionnel-infinium-pure-strong-hairspray-300ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3474636476602"
+      ]
+    },
+    {
+      "barcode": "3474636977307",
+      "slug": "loreal-professionnel-serie-expert-pro-longer-10-in-1-cream-150ml",
+      "images": {
+        "main": {
+          "source_px": "1600x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.44,
+          "product_share_of_source": 0.2,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636977307/loreal-professionnel-serie-expert-pro-longer-10-in-1-cream-150ml.jpg",
+          "path": "images/3474636977307/loreal-professionnel-serie-expert-pro-longer-10-in-1-cream-150ml.jpg"
+        },
+        "box": {
+          "source_px": "1600x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.35,
+          "product_share_of_source": 0.47,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636977307/loreal-professionnel-serie-expert-pro-longer-10-in-1-cream-150ml-with-box.jpg",
+          "path": "images/3474636977307/loreal-professionnel-serie-expert-pro-longer-10-in-1-cream-150ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5056307347053",
+      "slug": "espa-bergamot-jasmine-bath-shower-gel-250ml",
+      "images": {
+        "main": {
+          "source_px": "820x820",
+          "method": "white-background cut-out",
+          "upscale": 2.15,
+          "product_share_of_source": 0.34,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307347053/espa-bergamot-jasmine-bath-shower-gel-250ml.jpg",
+          "path": "images/5056307347053/espa-bergamot-jasmine-bath-shower-gel-250ml.jpg"
+        },
+        "box": {
+          "source_px": "820x820",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.29,
+          "product_share_of_source": 0.71,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307347053/espa-bergamot-jasmine-bath-shower-gel-250ml-with-box.jpg",
+          "path": "images/5056307347053/espa-bergamot-jasmine-bath-shower-gel-250ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5056307347015",
+      "slug": "espa-body-smoothing-shower-gel-200ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.02,
+          "product_share_of_source": 0.26,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307347015/espa-body-smoothing-shower-gel-200ml.jpg",
+          "path": "images/5056307347015/espa-body-smoothing-shower-gel-200ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.02,
+          "product_share_of_source": 0.26,
+          "source_file": "box (1).jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307347015/espa-body-smoothing-shower-gel-200ml-with-box.jpg",
+          "path": "images/5056307347015/espa-body-smoothing-shower-gel-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6085010041056",
+      "slug": "armaf-tag-him-prestige-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "421x450",
+          "method": "white-background cut-out",
+          "upscale": 3.64,
+          "product_share_of_source": 0.96,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6085010041056/armaf-tag-him-prestige-eau-de-toilette-100ml.jpg",
+          "path": "images/6085010041056/armaf-tag-him-prestige-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "542x369",
+          "method": "white-background cut-out",
+          "upscale": 3.05,
+          "product_share_of_source": 0.98,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6085010041056/armaf-tag-him-prestige-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/6085010041056/armaf-tag-him-prestige-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015180985",
+      "slug": "armaf-the-pride-of-armaf-rose-oud-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.74,
+          "product_share_of_source": 0.17,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015180985/armaf-the-pride-of-armaf-rose-oud-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015180985/armaf-the-pride-of-armaf-rose-oud-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "397x379",
+          "method": "white-background cut-out",
+          "upscale": 4.04,
+          "product_share_of_source": 0.89,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015180985/armaf-the-pride-of-armaf-rose-oud-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015180985/armaf-the-pride-of-armaf-rose-oud-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015161526",
+      "slug": "armaf-voyage-hawaii-pour-femme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.28,
+          "product_share_of_source": 0.34,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161526/armaf-voyage-hawaii-pour-femme-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015161526/armaf-voyage-hawaii-pour-femme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.3,
+          "product_share_of_source": 0.81,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161526/armaf-voyage-hawaii-pour-femme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015161526/armaf-voyage-hawaii-pour-femme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015161519",
+      "slug": "armaf-voyage-titan-pour-homme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1110x1110",
+          "method": "white-background cut-out",
+          "upscale": 2.12,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161519/armaf-voyage-titan-pour-homme-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015161519/armaf-voyage-titan-pour-homme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.66,
+          "product_share_of_source": 0.55,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015161519/armaf-voyage-titan-pour-homme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015161519/armaf-voyage-titan-pour-homme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199819272",
+      "slug": "armaf-wheel-of-odyssey-mandarin-sky-gift-set-3-x-30ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.33,
+          "product_share_of_source": 0.57,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199819272/armaf-wheel-of-odyssey-mandarin-sky-gift-set-3-x-30ml.jpg",
+          "path": "images/6295199819272/armaf-wheel-of-odyssey-mandarin-sky-gift-set-3-x-30ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.21,
+          "product_share_of_source": 0.4,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199819272/armaf-wheel-of-odyssey-mandarin-sky-gift-set-3-x-30ml-with-box.jpg",
+          "path": "images/6295199819272/armaf-wheel-of-odyssey-mandarin-sky-gift-set-3-x-30ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000775",
+      "slug": "bujairami-executor-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.71,
+          "product_share_of_source": 0.49,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000775/bujairami-executor-extrait-de-parfum-100ml.jpg",
+          "path": "images/9362014000775/bujairami-executor-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.24,
+          "product_share_of_source": 0.3,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000775/bujairami-executor-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000775/bujairami-executor-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474637106409",
+      "slug": "loreal-professionnel-serioxyl-advanced-densifying-shampoo-300ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.55,
+          "product_share_of_source": 0.12,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637106409/loreal-professionnel-serioxyl-advanced-densifying-shampoo-300ml.jpg",
+          "path": "images/3474637106409/loreal-professionnel-serioxyl-advanced-densifying-shampoo-300ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.26,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637106409/loreal-professionnel-serioxyl-advanced-densifying-shampoo-300ml-with-box.jpg",
+          "path": "images/3474637106409/loreal-professionnel-serioxyl-advanced-densifying-shampoo-300ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474637269029",
+      "slug": "loreal-professionnel-vitamino-color-spectrum-deep-conditioner-200ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.43,
+          "product_share_of_source": 0.34,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637269029/loreal-professionnel-vitamino-color-spectrum-deep-conditioner-200ml.jpg",
+          "path": "images/3474637269029/loreal-professionnel-vitamino-color-spectrum-deep-conditioner-200ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.8,
+          "product_share_of_source": 0.58,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637269029/loreal-professionnel-vitamino-color-spectrum-deep-conditioner-200ml-with-box.jpg",
+          "path": "images/3474637269029/loreal-professionnel-vitamino-color-spectrum-deep-conditioner-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5056307346803",
+      "slug": "espa-energising-bath-shower-gel-250ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.47,
+          "product_share_of_source": 0.22,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307346803/espa-energising-bath-shower-gel-250ml.jpg",
+          "path": "images/5056307346803/espa-energising-bath-shower-gel-250ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.47,
+          "product_share_of_source": 0.21,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5056307346803/espa-energising-bath-shower-gel-250ml-with-box.jpg",
+          "path": "images/5056307346803/espa-energising-bath-shower-gel-250ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616302498567",
+      "slug": "hugo-boss-boss-bottled-shower-gel-150ml",
+      "images": {
+        "main": {
+          "source_px": "528x528",
+          "method": "white-background cut-out",
+          "upscale": 3.39,
+          "product_share_of_source": 0.47,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302498567/hugo-boss-boss-bottled-shower-gel-150ml.jpg",
+          "path": "images/3616302498567/hugo-boss-boss-bottled-shower-gel-150ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.26,
+          "product_share_of_source": 0.71,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302498567/hugo-boss-boss-bottled-shower-gel-150ml-with-box.jpg",
+          "path": "images/3616302498567/hugo-boss-boss-bottled-shower-gel-150ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
