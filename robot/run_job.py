@@ -77,8 +77,10 @@ def run(job_path):
         bc, slug = it["barcode"], it["slug"]
         r = {"barcode": bc, "slug": slug, "images": {}, "problems": []}
         try:
-            folders = q(svc, f"'{job['drive_root']}' in parents and name = '{bc}' and "
-                             "mimeType = 'application/vnd.google-apps.folder' and trashed = false")
+            # Ready folders are named by the barcode only; tolerate stray spaces and a dropped leading zero.
+            found = q(svc, f"'{job['drive_root']}' in parents and name contains '{bc.lstrip('0')}' and "
+                           "mimeType = 'application/vnd.google-apps.folder' and trashed = false")
+            folders = [f for f in found if f["name"].strip().lstrip("0") == bc.lstrip("0")]
             if not folders:
                 r["problems"].append(f"no Drive folder named {bc}")
                 res["items"].append(r)
