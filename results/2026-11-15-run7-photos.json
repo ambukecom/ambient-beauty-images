@@ -1,0 +1,248 @@
+{
+  "job_id": "2026-11-15-run7-photos",
+  "items": [
+    {
+      "barcode": "9362014000140",
+      "slug": "bujairami-gladiator-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.93,
+          "product_share_of_source": 0.25,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.71,
+          "product_share_of_source": 0.48,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000157",
+      "slug": "bujairami-hectic-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.64,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000157/bujairami-hectic-extrait-de-parfum-100ml.jpg",
+          "path": "images/9362014000157/bujairami-hectic-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.46,
+          "product_share_of_source": 0.55,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000157/bujairami-hectic-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000157/bujairami-hectic-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000881",
+      "slug": "bujairami-psycho-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 3.99,
+          "product_share_of_source": 0.19,
+          "source_file": "main'.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000881/bujairami-psycho-extrait-de-parfum-100ml.jpg",
+          "path": "images/9362014000881/bujairami-psycho-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.31,
+          "product_share_of_source": 0.58,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000881/bujairami-psycho-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000881/bujairami-psycho-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423478452558",
+      "slug": "dolce-gabbana-the-only-one-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.3,
+          "product_share_of_source": 0.49,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478452558/dolce-gabbana-the-only-one-eau-de-parfum-50ml.jpg",
+          "path": "images/3423478452558/dolce-gabbana-the-only-one-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.4,
+          "product_share_of_source": 0.55,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478452558/dolce-gabbana-the-only-one-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/3423478452558/dolce-gabbana-the-only-one-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3760060761279",
+      "slug": "dumont-nitro-green-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "225x225",
+          "method": "white-background cut-out",
+          "upscale": 10.62,
+          "product_share_of_source": 0.36,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml.jpg",
+          "path": "images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "397x351",
+          "method": "white-background cut-out",
+          "upscale": 4.11,
+          "product_share_of_source": 0.9,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423473987956",
+      "slug": "elie-saab-essence-no-4-oud-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.56,
+          "product_share_of_source": 0.28,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml.jpg",
+          "path": "images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.79,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474637268527",
+      "slug": "loreal-professionnel-vitamino-color-spectrum-shampoo-300ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.76,
+          "product_share_of_source": 0.37,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637268527/loreal-professionnel-vitamino-color-spectrum-shampoo-300ml.jpg",
+          "path": "images/3474637268527/loreal-professionnel-vitamino-color-spectrum-shampoo-300ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.8,
+          "product_share_of_source": 0.58,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637268527/loreal-professionnel-vitamino-color-spectrum-shampoo-300ml-with-box.jpg",
+          "path": "images/3474637268527/loreal-professionnel-vitamino-color-spectrum-shampoo-300ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474636976096",
+      "slug": "loreal-professionnel-serie-expert-absolut-repair-gold-conditioner-200ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.44,
+          "product_share_of_source": 0.24,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976096/loreal-professionnel-serie-expert-absolut-repair-gold-conditioner-200ml.jpg",
+          "path": "images/3474636976096/loreal-professionnel-serie-expert-absolut-repair-gold-conditioner-200ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.44,
+          "product_share_of_source": 0.24,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976096/loreal-professionnel-serie-expert-absolut-repair-gold-conditioner-200ml-with-box.jpg",
+          "path": "images/3474636976096/loreal-professionnel-serie-expert-absolut-repair-gold-conditioner-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616301786467",
+      "slug": "hugo-boss-hugo-shower-gel-200ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.17,
+          "product_share_of_source": 0.36,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616301786467/hugo-boss-hugo-shower-gel-200ml.jpg",
+          "path": "images/3616301786467/hugo-boss-hugo-shower-gel-200ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3616301786467"
+      ]
+    },
+    {
+      "barcode": "8435415082921",
+      "slug": "jean-paul-gaultier-divine-shower-gel-200ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 6.45,
+          "product_share_of_source": 0.08,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml.jpg",
+          "path": "images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 8.19,
+          "product_share_of_source": 0.06,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml-with-box.jpg",
+          "path": "images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
