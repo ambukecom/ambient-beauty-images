@@ -1,0 +1,334 @@
+{
+  "job_id": "2026-11-16-run8-photos",
+  "items": [
+    {
+      "barcode": "6294015156096",
+      "slug": "hamidi-maison-luxe-patchouli-imperial-parfum-110ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.31,
+          "product_share_of_source": 0.32,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015156096/hamidi-maison-luxe-patchouli-imperial-parfum-110ml.jpg",
+          "path": "images/6294015156096/hamidi-maison-luxe-patchouli-imperial-parfum-110ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.32,
+          "product_share_of_source": 0.45,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015156096/hamidi-maison-luxe-patchouli-imperial-parfum-110ml-with-box.jpg",
+          "path": "images/6294015156096/hamidi-maison-luxe-patchouli-imperial-parfum-110ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290362349129",
+      "slug": "lattafa-eclaire-pistache-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "374x913",
+          "method": "white-background cut-out",
+          "upscale": 1.88,
+          "product_share_of_source": 1.0,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362349129/lattafa-eclaire-pistache-eau-de-parfum-100ml.jpg",
+          "path": "images/6290362349129/lattafa-eclaire-pistache-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1427",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.26,
+          "product_share_of_source": 0.92,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362349129/lattafa-eclaire-pistache-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290362349129/lattafa-eclaire-pistache-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199793930",
+      "slug": "lattafa-yara-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "373x800",
+          "method": "white-background cut-out",
+          "upscale": 6.12,
+          "product_share_of_source": 0.2,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199793930/lattafa-yara-eau-de-parfum-50ml.jpg",
+          "path": "images/6295199793930/lattafa-yara-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "692x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.36,
+          "product_share_of_source": 0.48,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199793930/lattafa-yara-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/6295199793930/lattafa-yara-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298043160421",
+      "slug": "maison-alhambra-jean-lowe-fantasme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.77,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298043160421/maison-alhambra-jean-lowe-fantasme-eau-de-parfum-100ml.jpg",
+          "path": "images/6298043160421/maison-alhambra-jean-lowe-fantasme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.75,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298043160421/maison-alhambra-jean-lowe-fantasme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6298043160421/maison-alhambra-jean-lowe-fantasme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298043160407",
+      "slug": "maison-alhambra-jean-lowe-summer-vibes-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.65,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298043160407/maison-alhambra-jean-lowe-summer-vibes-eau-de-parfum-100ml.jpg",
+          "path": "images/6298043160407/maison-alhambra-jean-lowe-summer-vibes-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.65,
+          "product_share_of_source": 0.47,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298043160407/maison-alhambra-jean-lowe-summer-vibes-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6298043160407/maison-alhambra-jean-lowe-summer-vibes-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6291108735626",
+      "slug": "maison-alhambra-the-myth-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "300x250",
+          "method": "white-background cut-out",
+          "upscale": 7.17,
+          "product_share_of_source": 0.31,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108735626/maison-alhambra-the-myth-eau-de-parfum-100ml.jpg",
+          "path": "images/6291108735626/maison-alhambra-the-myth-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "397x397",
+          "method": "white-background cut-out",
+          "upscale": 4.5,
+          "product_share_of_source": 0.73,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108735626/maison-alhambra-the-myth-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6291108735626/maison-alhambra-the-myth-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474636976133",
+      "slug": "loreal-professionnel-serie-expert-silver-conditioner-200ml",
+      "images": {
+        "main": {
+          "source_px": "536x536",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.32,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976133/loreal-professionnel-serie-expert-silver-conditioner-200ml.jpg",
+          "path": "images/3474636976133/loreal-professionnel-serie-expert-silver-conditioner-200ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3474636976133"
+      ]
+    },
+    {
+      "barcode": "3474637153502",
+      "slug": "loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.9,
+          "product_share_of_source": 0.23,
+          "source_file": "main",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637153502/loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml.jpg",
+          "path": "images/3474637153502/loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.98,
+          "product_share_of_source": 0.53,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474637153502/loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml-with-box.jpg",
+          "path": "images/3474637153502/loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8435415007573",
+      "slug": "jean-paul-gaultier-scandal-shower-gel-200ml",
+      "images": {
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.15,
+          "product_share_of_source": 0.79,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8435415007573/jean-paul-gaultier-scandal-shower-gel-200ml-with-box.jpg",
+          "path": "images/8435415007573/jean-paul-gaultier-scandal-shower-gel-200ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 8435415007573"
+      ]
+    },
+    {
+      "barcode": "8005610477084",
+      "slug": "lacoste-eau-de-lacoste-l-12-12-blanc-shower-gel-150ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.17,
+          "product_share_of_source": 0.73,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8005610477084/lacoste-eau-de-lacoste-l-12-12-blanc-shower-gel-150ml.jpg",
+          "path": "images/8005610477084/lacoste-eau-de-lacoste-l-12-12-blanc-shower-gel-150ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 8005610477084"
+      ]
+    },
+    {
+      "barcode": "9362014000140",
+      "slug": "bujairami-gladiator-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.93,
+          "product_share_of_source": 0.25,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.71,
+          "product_share_of_source": 0.48,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3760060761279",
+      "slug": "dumont-nitro-green-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "225x225",
+          "method": "white-background cut-out",
+          "upscale": 10.62,
+          "product_share_of_source": 0.36,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml.jpg",
+          "path": "images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "397x351",
+          "method": "white-background cut-out",
+          "upscale": 4.11,
+          "product_share_of_source": 0.9,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3760060761279/dumont-nitro-green-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423473987956",
+      "slug": "elie-saab-essence-no-4-oud-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.56,
+          "product_share_of_source": 0.28,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml.jpg",
+          "path": "images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.79,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3423473987956/elie-saab-essence-no-4-oud-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8435415082921",
+      "slug": "jean-paul-gaultier-divine-shower-gel-200ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 6.45,
+          "product_share_of_source": 0.08,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml.jpg",
+          "path": "images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 8.19,
+          "product_share_of_source": 0.06,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml-with-box.jpg",
+          "path": "images/8435415082921/jean-paul-gaultier-divine-shower-gel-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
