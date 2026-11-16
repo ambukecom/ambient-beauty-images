@@ -1,0 +1,338 @@
+{
+  "job_id": "2026-11-16-run9-10-photos",
+  "items": [
+    {
+      "barcode": "6295138426585",
+      "slug": "paris-corner-indomitable-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.21,
+          "product_share_of_source": 0.56,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295138426585/paris-corner-indomitable-eau-de-parfum-100ml.jpg",
+          "path": "images/6295138426585/paris-corner-indomitable-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 2.96,
+          "product_share_of_source": 0.79,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295138426585/paris-corner-indomitable-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295138426585/paris-corner-indomitable-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001343",
+      "slug": "street-origins-amsterdam-red-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "435x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.32,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001343/street-origins-amsterdam-red-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001343/street-origins-amsterdam-red-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.68,
+          "product_share_of_source": 0.34,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001343/street-origins-amsterdam-red-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001343/street-origins-amsterdam-red-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001220",
+      "slug": "street-origins-auckland-rush-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.39,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001220/street-origins-auckland-rush-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001220/street-origins-auckland-rush-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "225x225",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 8.4,
+          "product_share_of_source": 0.62,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001220/street-origins-auckland-rush-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001220/street-origins-auckland-rush-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001367",
+      "slug": "street-origins-bangkok-guilt-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.6,
+          "product_share_of_source": 0.24,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001367/street-origins-bangkok-guilt-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001367/street-origins-bangkok-guilt-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 3.31,
+          "product_share_of_source": 0.49,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001367/street-origins-bangkok-guilt-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001367/street-origins-bangkok-guilt-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001374",
+      "slug": "street-origins-berlin-bash-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.6,
+          "product_share_of_source": 0.24,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001374/street-origins-berlin-bash-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001374/street-origins-berlin-bash-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "342x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 4.55,
+          "product_share_of_source": 0.98,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001374/street-origins-berlin-bash-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001374/street-origins-berlin-bash-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001244",
+      "slug": "street-origins-berlin-rave-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.62,
+          "product_share_of_source": 0.39,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.81,
+          "product_share_of_source": 0.9,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3349668637669",
+      "slug": "paco-rabanne-fame-hair-mist-30ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 8.64,
+          "product_share_of_source": 0.07,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3349668637669/paco-rabanne-fame-hair-mist-30ml.jpg",
+          "path": "images/3349668637669/paco-rabanne-fame-hair-mist-30ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.13,
+          "product_share_of_source": 0.45,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3349668637669/paco-rabanne-fame-hair-mist-30ml-with-box.jpg",
+          "path": "images/3349668637669/paco-rabanne-fame-hair-mist-30ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810912033665",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-295ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033665"
+      ]
+    },
+    {
+      "barcode": "5030805002782",
+      "slug": "molton-brown-orange-bergamot-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.45,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002782/molton-brown-orange-bergamot-bath-shower-gel-300ml.jpg",
+          "path": "images/5030805002782/molton-brown-orange-bergamot-bath-shower-gel-300ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 5030805002782"
+      ]
+    },
+    {
+      "barcode": "8011003864102",
+      "slug": "moschino-toy-2-bubble-gum-bath-shower-gel-200ml",
+      "images": {
+        "main": {
+          "source_px": "71x90",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 19.11,
+          "product_share_of_source": 0.52,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8011003864102/moschino-toy-2-bubble-gum-bath-shower-gel-200ml.jpg",
+          "path": "images/8011003864102/moschino-toy-2-bubble-gum-bath-shower-gel-200ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.69,
+          "product_share_of_source": 0.45,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8011003864102/moschino-toy-2-bubble-gum-bath-shower-gel-200ml-with-box.jpg",
+          "path": "images/8011003864102/moschino-toy-2-bubble-gum-bath-shower-gel-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085040417",
+      "slug": "surrati-lateefa-eau-de-parfum-100ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6281085040417"
+      ]
+    },
+    {
+      "barcode": "6281085019758",
+      "slug": "surrati-ameer-al-oud-eau-de-parfum-100ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6281085019758"
+      ]
+    },
+    {
+      "barcode": "6295124048494",
+      "slug": "swiss-arabian-soul-of-bali-extrait-de-parfum-100ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6295124048494"
+      ]
+    },
+    {
+      "barcode": "0022548055373",
+      "slug": "tommy-hilfiger-tommy-eau-de-toilette-30ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0022548055373"
+      ]
+    },
+    {
+      "barcode": "6290360379791",
+      "slug": "street-origins-hot-drip-dubai-extrait-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6290360379791"
+      ]
+    },
+    {
+      "barcode": "6298042001275",
+      "slug": "street-origins-hawaii-beau-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001275"
+      ]
+    },
+    {
+      "barcode": "0810912033696",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-conditioner-295ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033696"
+      ]
+    },
+    {
+      "barcode": "0810912033689",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-conditioner-90ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033689"
+      ]
+    },
+    {
+      "barcode": "5030805002683",
+      "slug": "molton-brown-re-charge-black-pepper-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "600x800",
+          "method": "white-background cut-out",
+          "upscale": 3.04,
+          "product_share_of_source": 0.29,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002683/molton-brown-re-charge-black-pepper-bath-shower-gel-300ml.jpg",
+          "path": "images/5030805002683/molton-brown-re-charge-black-pepper-bath-shower-gel-300ml.jpg"
+        },
+        "box": {
+          "source_px": "600x800",
+          "method": "white-background cut-out",
+          "upscale": 3.75,
+          "product_share_of_source": 0.3,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002683/molton-brown-re-charge-black-pepper-bath-shower-gel-300ml-with-box.jpg",
+          "path": "images/5030805002683/molton-brown-re-charge-black-pepper-bath-shower-gel-300ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5030805003321",
+      "slug": "molton-brown-rose-dunes-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "600x800",
+          "method": "white-background cut-out",
+          "upscale": 3.01,
+          "product_share_of_source": 0.3,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805003321/molton-brown-rose-dunes-bath-shower-gel-300ml.jpg",
+          "path": "images/5030805003321/molton-brown-rose-dunes-bath-shower-gel-300ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 5030805003321"
+      ]
+    }
+  ]
+}
