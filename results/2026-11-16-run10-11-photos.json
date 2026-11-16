@@ -1,0 +1,260 @@
+{
+  "job_id": "2026-11-16-run10-11-photos",
+  "items": [
+    {
+      "barcode": "0810912033665",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-295ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033665"
+      ]
+    },
+    {
+      "barcode": "6281085040417",
+      "slug": "surrati-lateefa-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "375x500",
+          "method": "transparent source",
+          "upscale": 3.67,
+          "product_share_of_source": 0.43,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040417/surrati-lateefa-eau-de-parfum-100ml.jpg",
+          "path": "images/6281085040417/surrati-lateefa-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.06,
+          "product_share_of_source": 0.46,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040417/surrati-lateefa-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6281085040417/surrati-lateefa-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085019758",
+      "slug": "surrati-ameer-al-oud-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "375x375",
+          "method": "white-background cut-out",
+          "upscale": 5.18,
+          "product_share_of_source": 0.41,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085019758/surrati-ameer-al-oud-eau-de-parfum-100ml.jpg",
+          "path": "images/6281085019758/surrati-ameer-al-oud-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.05,
+          "product_share_of_source": 0.31,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085019758/surrati-ameer-al-oud-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6281085019758/surrati-ameer-al-oud-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124048494",
+      "slug": "swiss-arabian-soul-of-bali-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 2.5,
+          "product_share_of_source": 0.24,
+          "source_file": "main.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124048494/swiss-arabian-soul-of-bali-extrait-de-parfum-100ml.jpg",
+          "path": "images/6295124048494/swiss-arabian-soul-of-bali-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.99,
+          "product_share_of_source": 0.58,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124048494/swiss-arabian-soul-of-bali-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295124048494/swiss-arabian-soul-of-bali-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0022548055373",
+      "slug": "tommy-hilfiger-tommy-eau-de-toilette-30ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0022548055373"
+      ]
+    },
+    {
+      "barcode": "6290360379791",
+      "slug": "street-origins-hot-drip-dubai-extrait-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 3.69,
+          "product_share_of_source": 0.19,
+          "source_file": "main.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379791/street-origins-hot-drip-dubai-extrait-de-parfum-75ml.jpg",
+          "path": "images/6290360379791/street-origins-hot-drip-dubai-extrait-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 2.57,
+          "product_share_of_source": 0.5,
+          "source_file": "box.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379791/street-origins-hot-drip-dubai-extrait-de-parfum-75ml-with-box.jpg",
+          "path": "images/6290360379791/street-origins-hot-drip-dubai-extrait-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001275",
+      "slug": "street-origins-hawaii-beau-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "808x743",
+          "method": "white-background cut-out",
+          "upscale": 3.13,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001275/street-origins-hawaii-beau-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001275/street-origins-hawaii-beau-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "920x842",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.0,
+          "product_share_of_source": 0.72,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001275/street-origins-hawaii-beau-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001275/street-origins-hawaii-beau-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810912033696",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-conditioner-295ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033696"
+      ]
+    },
+    {
+      "barcode": "0810912033689",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-conditioner-90ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033689"
+      ]
+    },
+    {
+      "barcode": "6298042001398",
+      "slug": "street-origins-hanoi-sizzle-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001398"
+      ]
+    },
+    {
+      "barcode": "6298042001282",
+      "slug": "street-origins-ibiza-boom-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "733x691",
+          "method": "white-background cut-out",
+          "upscale": 3.97,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001282/street-origins-ibiza-boom-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001282/street-origins-ibiza-boom-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "743x712",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.53,
+          "product_share_of_source": 0.64,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001282/street-origins-ibiza-boom-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001282/street-origins-ibiza-boom-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001411",
+      "slug": "street-origins-ibiza-trap-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001411"
+      ]
+    },
+    {
+      "barcode": "6298042001435",
+      "slug": "street-origins-mauritius-tease-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001435"
+      ]
+    },
+    {
+      "barcode": "6298042001305",
+      "slug": "street-origins-mauritius-touch-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001305"
+      ]
+    },
+    {
+      "barcode": "6298042001312",
+      "slug": "street-origins-miami-magic-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001312"
+      ]
+    },
+    {
+      "barcode": "6298042001442",
+      "slug": "street-origins-miami-mama-eau-de-parfum-75ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 6298042001442"
+      ]
+    },
+    {
+      "barcode": "0810912033672",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-90ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 0810912033672"
+      ]
+    },
+    {
+      "barcode": "5030805002829",
+      "slug": "molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml",
+      "images": {},
+      "problems": [
+        "no Drive folder named 5030805002829"
+      ]
+    },
+    {
+      "barcode": "5030805015027",
+      "slug": "molton-brown-wild-mint-lavandin-bath-shower-gel-300ml",
+      "images": {},
+      "problems": [
+        "no main photo in folder 5030805015027",
+        "no box photo in folder 5030805015027"
+      ]
+    }
+  ]
+}
