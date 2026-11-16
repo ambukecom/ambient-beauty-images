@@ -1,0 +1,173 @@
+{
+  "job_id": "2026-11-16-run11b-photos",
+  "items": [
+    {
+      "barcode": "6298042001398",
+      "slug": "street-origins-hanoi-sizzle-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "435x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.32,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001398/street-origins-hanoi-sizzle-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001398/street-origins-hanoi-sizzle-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "750x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.07,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001398/street-origins-hanoi-sizzle-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001398/street-origins-hanoi-sizzle-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001411",
+      "slug": "street-origins-ibiza-trap-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.53,
+          "product_share_of_source": 0.24,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001411/street-origins-ibiza-trap-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001411/street-origins-ibiza-trap-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "860x860",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.2,
+          "product_share_of_source": 0.62,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001411/street-origins-ibiza-trap-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001411/street-origins-ibiza-trap-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001435",
+      "slug": "street-origins-mauritius-tease-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "435x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.32,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001435/street-origins-mauritius-tease-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001435/street-origins-mauritius-tease-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "750x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.07,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001435/street-origins-mauritius-tease-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001435/street-origins-mauritius-tease-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001305",
+      "slug": "street-origins-mauritius-touch-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "435x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.32,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001305/street-origins-mauritius-touch-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001305/street-origins-mauritius-touch-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "750x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.07,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001305/street-origins-mauritius-touch-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001305/street-origins-mauritius-touch-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001312",
+      "slug": "street-origins-miami-magic-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.58,
+          "product_share_of_source": 0.39,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001312/street-origins-miami-magic-eau-de-parfum-75ml.jpg",
+          "path": "images/6298042001312/street-origins-miami-magic-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1600x1467",
+          "method": "white-background cut-out",
+          "upscale": 0.98,
+          "product_share_of_source": 0.98,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001312/street-origins-miami-magic-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6298042001312/street-origins-miami-magic-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810912033672",
+      "slug": "sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-90ml",
+      "images": {
+        "main": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 3.41,
+          "product_share_of_source": 0.38,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810912033672/sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-90ml.jpg",
+          "path": "images/0810912033672/sol-de-janeiro-brazilian-joia-strengthening-smoothing-shampoo-90ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0810912033672"
+      ]
+    },
+    {
+      "barcode": "5030805002829",
+      "slug": "molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "600x800",
+          "method": "white-background cut-out",
+          "upscale": 3.04,
+          "product_share_of_source": 0.29,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml.jpg",
+          "path": "images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml.jpg"
+        },
+        "box": {
+          "source_px": "600x800",
+          "method": "white-background cut-out",
+          "upscale": 3.76,
+          "product_share_of_source": 0.33,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml-with-box.jpg",
+          "path": "images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
