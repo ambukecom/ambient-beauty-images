@@ -1,0 +1,459 @@
+{
+  "job_id": "2026-11-17-b4-photos",
+  "items": [
+    {
+      "barcode": "6290360617756",
+      "slug": "ahmed-al-maghribi-kaaf-noir-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.05,
+          "product_share_of_source": 0.25,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360617756/ahmed-al-maghribi-kaaf-noir-extrait-de-parfum-100ml.jpg",
+          "path": "images/6290360617756/ahmed-al-maghribi-kaaf-noir-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.03,
+          "product_share_of_source": 0.5,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360617756/ahmed-al-maghribi-kaaf-noir-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290360617756/ahmed-al-maghribi-kaaf-noir-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6293708007479",
+      "slug": "ajmal-cuir-musc-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 9.15,
+          "product_share_of_source": 0.07,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708007479/ajmal-cuir-musc-eau-de-parfum-100ml.jpg",
+          "path": "images/6293708007479/ajmal-cuir-musc-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.81,
+          "product_share_of_source": 0.56,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708007479/ajmal-cuir-musc-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6293708007479/ajmal-cuir-musc-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6293708019458",
+      "slug": "ajmal-patchouli-wood-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.37,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708019458/ajmal-patchouli-wood-eau-de-parfum-50ml.jpg",
+          "path": "images/6293708019458/ajmal-patchouli-wood-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 2.93,
+          "product_share_of_source": 0.92,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708019458/ajmal-patchouli-wood-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/6293708019458/ajmal-patchouli-wood-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290361917183",
+      "slug": "arabiyat-prestige-aristo-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.6,
+          "product_share_of_source": 0.34,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361917183/arabiyat-prestige-aristo-eau-de-parfum-100ml.jpg",
+          "path": "images/6290361917183/arabiyat-prestige-aristo-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.51,
+          "product_share_of_source": 0.71,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361917183/arabiyat-prestige-aristo-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290361917183/arabiyat-prestige-aristo-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295156400222",
+      "slug": "arabiyat-prestige-marasi-for-her-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x902",
+          "method": "white-background cut-out",
+          "upscale": 2.28,
+          "product_share_of_source": 0.25,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295156400222/arabiyat-prestige-marasi-for-her-eau-de-parfum-100ml.jpg",
+          "path": "images/6295156400222/arabiyat-prestige-marasi-for-her-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "960x881",
+          "method": "white-background cut-out",
+          "upscale": 2.1,
+          "product_share_of_source": 0.64,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295156400222/arabiyat-prestige-marasi-for-her-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295156400222/arabiyat-prestige-marasi-for-her-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295156400215",
+      "slug": "arabiyat-prestige-marasi-for-him-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x417",
+          "method": "white-background cut-out",
+          "upscale": 6.75,
+          "product_share_of_source": 0.16,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295156400215/arabiyat-prestige-marasi-for-him-eau-de-parfum-100ml.jpg",
+          "path": "images/6295156400215/arabiyat-prestige-marasi-for-him-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x417",
+          "method": "white-background cut-out",
+          "upscale": 5.05,
+          "product_share_of_source": 0.37,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295156400215/arabiyat-prestige-marasi-for-him-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295156400215/arabiyat-prestige-marasi-for-him-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474636976058",
+      "slug": "loreal-professionnel-serie-expert-vitamino-color-mask-250ml",
+      "images": {
+        "main": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.61,
+          "product_share_of_source": 0.62,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml.jpg",
+          "path": "images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml.jpg"
+        },
+        "box": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.65,
+          "product_share_of_source": 0.6,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-with-box.jpg",
+          "path": "images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3666057157417",
+      "slug": "clarins-wonder-perfect-mascara-4d-waterproof-8ml-01-perfect-black",
+      "images": {
+        "main": {
+          "source_px": "90x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 5.34,
+          "product_share_of_source": 1.0,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3666057157417/clarins-wonder-perfect-mascara-4d-waterproof-8ml-01-perfect-black.jpg",
+          "path": "images/3666057157417/clarins-wonder-perfect-mascara-4d-waterproof-8ml-01-perfect-black.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3666057157417"
+      ]
+    },
+    {
+      "barcode": "8005610477053",
+      "slug": "lacoste-l1212-pour-elle-sparkling-shower-gel-150ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.4,
+          "product_share_of_source": 0.43,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8005610477053/lacoste-l1212-pour-elle-sparkling-shower-gel-150ml.jpg",
+          "path": "images/8005610477053/lacoste-l1212-pour-elle-sparkling-shower-gel-150ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 8005610477053"
+      ]
+    },
+    {
+      "barcode": "0008080151445",
+      "slug": "molton-brown-heavenly-gingerlily-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "549x823",
+          "method": "white-background cut-out",
+          "upscale": 2.59,
+          "product_share_of_source": 0.58,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0008080151445/molton-brown-heavenly-gingerlily-bath-shower-gel-300ml.jpg",
+          "path": "images/0008080151445/molton-brown-heavenly-gingerlily-bath-shower-gel-300ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0008080151445"
+      ]
+    },
+    {
+      "barcode": "6290361916964",
+      "slug": "arabiyat-prestige-sugar-coconut-chiffon-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.37,
+          "product_share_of_source": 0.5,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916964/arabiyat-prestige-sugar-coconut-chiffon-eau-de-parfum-100ml.jpg",
+          "path": "images/6290361916964/arabiyat-prestige-sugar-coconut-chiffon-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "310x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 4.93,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916964/arabiyat-prestige-sugar-coconut-chiffon-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290361916964/arabiyat-prestige-sugar-coconut-chiffon-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290361916933",
+      "slug": "arabiyat-prestige-sugar-lemon-sorbet-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "504x504",
+          "method": "white-background cut-out",
+          "upscale": 3.78,
+          "product_share_of_source": 0.33,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916933/arabiyat-prestige-sugar-lemon-sorbet-eau-de-parfum-100ml.jpg",
+          "path": "images/6290361916933/arabiyat-prestige-sugar-lemon-sorbet-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.72,
+          "product_share_of_source": 0.78,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916933/arabiyat-prestige-sugar-lemon-sorbet-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290361916933/arabiyat-prestige-sugar-lemon-sorbet-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290361916902",
+      "slug": "arabiyat-prestige-sugar-matcha-latte-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1464x2000",
+          "method": "white-background cut-out",
+          "upscale": 0.86,
+          "product_share_of_source": 1.0,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916902/arabiyat-prestige-sugar-matcha-latte-eau-de-parfum-100ml.jpg",
+          "path": "images/6290361916902/arabiyat-prestige-sugar-matcha-latte-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "2000x1530",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 0.81,
+          "product_share_of_source": 1.0,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361916902/arabiyat-prestige-sugar-matcha-latte-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290361916902/arabiyat-prestige-sugar-matcha-latte-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199791189",
+      "slug": "ard-al-zaafaran-i-am-the-queen-ana-al-malikah-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "375x500",
+          "method": "transparent source",
+          "upscale": 3.69,
+          "product_share_of_source": 0.62,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199791189/ard-al-zaafaran-i-am-the-queen-ana-al-malikah-eau-de-parfum-100ml.jpg",
+          "path": "images/6295199791189/ard-al-zaafaran-i-am-the-queen-ana-al-malikah-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "493x493",
+          "method": "white-background cut-out",
+          "upscale": 3.49,
+          "product_share_of_source": 0.76,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199791189/ard-al-zaafaran-i-am-the-queen-ana-al-malikah-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295199791189/ard-al-zaafaran-i-am-the-queen-ana-al-malikah-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6438585524675",
+      "slug": "ard-al-zaafaran-layalina-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.11,
+          "product_share_of_source": 0.32,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6438585524675/ard-al-zaafaran-layalina-eau-de-parfum-100ml.jpg",
+          "path": "images/6438585524675/ard-al-zaafaran-layalina-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.75,
+          "product_share_of_source": 0.7,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6438585524675/ard-al-zaafaran-layalina-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6438585524675/ard-al-zaafaran-layalina-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199790397",
+      "slug": "ard-al-zaafaran-mousuf-azure-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1300x1300",
+          "method": "white-background cut-out",
+          "upscale": 1.95,
+          "product_share_of_source": 0.2,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199790397/ard-al-zaafaran-mousuf-azure-eau-de-parfum-100ml.jpg",
+          "path": "images/6295199790397/ard-al-zaafaran-mousuf-azure-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.5,
+          "product_share_of_source": 0.55,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199790397/ard-al-zaafaran-mousuf-azure-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295199790397/ard-al-zaafaran-mousuf-azure-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295199790380",
+      "slug": "ard-al-zaafaran-mousuf-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "217x500",
+          "method": "white-background cut-out",
+          "upscale": 3.55,
+          "product_share_of_source": 0.81,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199790380/ard-al-zaafaran-mousuf-eau-de-parfum-100ml.jpg",
+          "path": "images/6295199790380/ard-al-zaafaran-mousuf-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "391x500",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.89,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295199790380/ard-al-zaafaran-mousuf-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295199790380/ard-al-zaafaran-mousuf-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5030805002942",
+      "slug": "molton-brown-tobacco-absolute-bath-shower-gel-300ml",
+      "images": {
+        "main": {
+          "source_px": "1640x1640",
+          "method": "white-background cut-out",
+          "upscale": 1.08,
+          "product_share_of_source": 0.51,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002942/molton-brown-tobacco-absolute-bath-shower-gel-300ml.jpg",
+          "path": "images/5030805002942/molton-brown-tobacco-absolute-bath-shower-gel-300ml.jpg"
+        },
+        "box": {
+          "source_px": "820x820",
+          "method": "white-background cut-out",
+          "upscale": 1.87,
+          "product_share_of_source": 0.98,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002942/molton-brown-tobacco-absolute-bath-shower-gel-300ml-with-box.jpg",
+          "path": "images/5030805002942/molton-brown-tobacco-absolute-bath-shower-gel-300ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060412678889",
+      "slug": "ted-baker-fusion-cosmic-crush-body-hair-mist-200ml",
+      "images": {
+        "main": {
+          "source_px": "1280x1280",
+          "method": "white-background cut-out",
+          "upscale": 1.42,
+          "product_share_of_source": 0.23,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412678889/ted-baker-fusion-cosmic-crush-body-hair-mist-200ml.jpg",
+          "path": "images/5060412678889/ted-baker-fusion-cosmic-crush-body-hair-mist-200ml.jpg"
+        },
+        "box": {
+          "source_px": "1280x1280",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.34,
+          "product_share_of_source": 0.79,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412678889/ted-baker-fusion-cosmic-crush-body-hair-mist-200ml-with-box.jpg",
+          "path": "images/5060412678889/ted-baker-fusion-cosmic-crush-body-hair-mist-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
