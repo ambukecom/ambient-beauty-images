@@ -21,6 +21,7 @@ PUBLICATIONS = ["211750551892", "211750322516", "211750519124", "214562865492",
 COL = {
     "all1": "636660580692", "all2": "667912405332", "new": "636867641684",
     "Fragrances": "636468625748", "Haircare": "636468756820", "Bath & Body": "667722383700",
+    "Makeup": "636468789588",
     "Men": "636542714196", "Women": "636636594516", "Unisex": "636637053268",
 }
 # Skincare / Makeup category collections: look up by title the first time and add here.
@@ -30,13 +31,15 @@ BRAND_COL = {
     "Paco Rabanne": "715110711636", "Molton Brown": "670228054356", "Moschino": "711213711700",
     "Paris Corner": "675531129172", "Street Origins": "735309398356", "Surrati": "720731210068",
     "Swiss Arabian": "693164081492", "Tommy Hilfiger": "669659431252", "Sol de Janeiro": "737218396500",
-    "Dumont": "737079165268",
+    "Dumont": "737079165268", "Clarins": "715842715988", "Ajmal": "707767140692",
+    "Arabiyat Prestige": "711639204180", "Ahmed Al Maghribi": "688564437332",
 }
 
 # ---- taxonomy + Google product category ----
 TAXON = {"perfume": "hb-3-2-8", "hair-perfume": "hb-3-2-8-6", "body-wash": "hb-3-2-1-5",
-         "shampoo": "hb-3-10-13-3", "conditioner": "hb-3-10-13-1", "hair-treatment": "hb-3-10-14"}
-GPC = {"fragrance": 479, "shampoo": 543615, "conditioner": 543616, "body-wash": 2747, "hair-care": 486}
+         "shampoo": "hb-3-10-13-3", "conditioner": "hb-3-10-13-1", "hair-treatment": "hb-3-10-14",
+         "hair-mask": "hb-3-10-14-1", "mascara": "hb-3-2-6-3-8"}
+GPC = {"fragrance": 479, "shampoo": 543615, "conditioner": 543616, "body-wash": 2747, "hair-care": 486, "mascara": 2834}
 
 # ---- metaobject IDs (category metafields) ----
 MO = {
@@ -46,15 +49,18 @@ MO = {
     "dispenser-type": {"Spray": "151079813460"},
     "package-type": {"Bottle": "652385583444"},
     "suitable-for-hair-type": {"Fine": "660165460308", "Damaged": "186959921492", "Colored": "186959855956"},
-    "conditioner-effect": {"Shine": "186961658196", "Detangling": "186961592660", "Strengthening": "660039237972"},
+    "conditioner-effect": {"Color protection": "186961559892", "Shine": "186961658196", "Detangling": "186961592660", "Strengthening": "660039237972"},
     "olfactory-family": {"Gourmand": "513199505748", "Citrus": "652353372500", "Spicy": "652353405268",
                          "Woody": "652353438036", "Musky": "652353470804", "Floral": "652383224148",
                          "Fruity": "652383256916", "Oriental": "652383289684", "Aromatic": "652383322452",
-                         "Fresh": "652383355220", "Aquatic": "660039336276"},
+                         "Fresh": "652383355220", "Aquatic": "660039336276", "Leather": "652383387988",
+                         "Powdery": "660039369044", "Fougere": "660165493076"},
     "fragrance": {"Floral": "148512866644", "Spicy": "148512932180", "Citrus": "652353536340",
                   "Woody": "652353601876", "Fruity": "652383420756", "Vanilla": "652383453524",
                   "Jasmine": "652383486292", "Fresh": "652383519060", "Rose": "652383551828",
-                  "Lavender": "652383584596", "Sandalwood": "652383617364", "Aquatic": "660039303508"},
+                  "Lavender": "652383584596", "Sandalwood": "652383617364", "Aquatic": "660039303508",
+                  "Oriental": "148512899412"},
+    "color-pattern": {"Black": "652384010580"},
 }
 GG = {"Men": "male", "Women": "female", "Unisex": "unisex"}
 TYPE = {"Men": "Men's Fragrance", "Women": "Women's Fragrance", "Unisex": "Unisex Fragrances"}
@@ -71,6 +77,8 @@ def body(hook, intro, blocks, details, love, qs):
             + "<h2>FAQ</h2>" + "".join(f"<h3>{q}</h3><p>{a}</p>" for q, a in qs))
 
 def handle(title):
+    import unicodedata
+    title = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode().replace("'", "")
     h = title.lower().replace(" & ", "-").replace("&", "and").replace("+", "")
     h = re.sub(r"[^a-z0-9]+", "-", h.replace(".", ""))
     return re.sub(r"-+", "-", h).strip("-")
@@ -150,7 +158,8 @@ def metafields(p_json, ids, path="."):
             if ref:
                 L.append({"ownerId": pid, "namespace": "shopify", "key": key,
                           "type": "list.metaobject_reference", "value": json.dumps(ref)})
-        s("target-gender", [p["gender"]])
+        if p["cat"] != TAXON["mascara"]:  # mascara category has no target-gender attribute
+            s("target-gender", [p["gender"]])
         for key, labels in p.get("mf", {}).items():
             s(key, labels)
         L.append({"ownerId": pid, "namespace": "mm-google-shopping", "key": "google_product_category",
