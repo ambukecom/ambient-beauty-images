@@ -33,6 +33,7 @@ BRAND_COL = {
     "Swiss Arabian": "693164081492", "Tommy Hilfiger": "669659431252", "Sol de Janeiro": "737218396500",
     "Dumont": "737079165268", "Clarins": "715842715988", "Ajmal": "707767140692",
     "Arabiyat Prestige": "711639204180", "Ahmed Al Maghribi": "688564437332",
+    "Ard Al Zaafaran": "667485077844", "Ted Baker": "713988473172",
 }
 
 # ---- taxonomy + Google product category ----
