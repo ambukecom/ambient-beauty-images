@@ -35,6 +35,7 @@ BRAND_COL = {
     "Arabiyat Prestige": "711639204180", "Ahmed Al Maghribi": "688564437332",
     "Ard Al Zaafaran": "667485077844", "Ted Baker": "713988473172",
     "Armaf": "668574646612", "French Avenue": "672815546708", "Gulf Orchid": "713790980436",
+    "Rasasi": "672893305172", "Rue Broca": "676211622228",
 }
 
 # ---- taxonomy + Google product category ----
