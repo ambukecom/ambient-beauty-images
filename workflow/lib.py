@@ -34,6 +34,7 @@ BRAND_COL = {
     "Dumont": "737079165268", "Clarins": "715842715988", "Ajmal": "707767140692",
     "Arabiyat Prestige": "711639204180", "Ahmed Al Maghribi": "688564437332",
     "Ard Al Zaafaran": "667485077844", "Ted Baker": "713988473172",
+    "Armaf": "668574646612", "French Avenue": "672815546708", "Gulf Orchid": "713790980436",
 }
 
 # ---- taxonomy + Google product category ----
