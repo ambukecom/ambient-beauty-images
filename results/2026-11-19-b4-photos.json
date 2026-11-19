@@ -1,0 +1,100 @@
+{
+  "job_id": "2026-11-19-b4-photos",
+  "items": [
+    {
+      "barcode": "0085715169570",
+      "slug": "abercrombie-fitch-fierce-eau-de-cologne-50ml",
+      "images": {
+        "main": {
+          "source_px": "553x769",
+          "method": "white-background cut-out",
+          "upscale": 14.13,
+          "product_share_of_source": 0.03,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715169570/abercrombie-fitch-fierce-eau-de-cologne-50ml.jpg",
+          "path": "images/0085715169570/abercrombie-fitch-fierce-eau-de-cologne-50ml.jpg"
+        },
+        "box": {
+          "source_px": "553x769",
+          "method": "white-background cut-out",
+          "upscale": 3.33,
+          "product_share_of_source": 0.53,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715169570/abercrombie-fitch-fierce-eau-de-cologne-50ml-with-box.jpg",
+          "path": "images/0085715169570/abercrombie-fitch-fierce-eau-de-cologne-50ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "0085715166517",
+      "slug": "abercrombie-fitch-authentic-woman-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "553x553",
+          "method": "white-background cut-out",
+          "upscale": 3.72,
+          "product_share_of_source": 0.32,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715166517/abercrombie-fitch-authentic-woman-eau-de-parfum-100ml.jpg",
+          "path": "images/0085715166517/abercrombie-fitch-authentic-woman-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "553x553",
+          "method": "white-background cut-out",
+          "upscale": 3.82,
+          "product_share_of_source": 0.51,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715166517/abercrombie-fitch-authentic-woman-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0085715166517/abercrombie-fitch-authentic-woman-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6293708005352",
+      "slug": "ajmal-silver-shade-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1600x1600",
+          "method": "white-background cut-out",
+          "upscale": 1.29,
+          "product_share_of_source": 0.3,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708005352/ajmal-silver-shade-eau-de-parfum-100ml.jpg",
+          "path": "images/6293708005352/ajmal-silver-shade-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "309x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 4.93,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6293708005352/ajmal-silver-shade-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6293708005352/ajmal-silver-shade-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640171193403",
+      "slug": "bentley-for-men-silverlake-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "1536x1536",
+          "method": "white-background cut-out",
+          "upscale": 1.53,
+          "product_share_of_source": 0.42,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171193403/bentley-for-men-silverlake-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640171193403/bentley-for-men-silverlake-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 7640171193403"
+      ]
+    }
+  ]
+}
