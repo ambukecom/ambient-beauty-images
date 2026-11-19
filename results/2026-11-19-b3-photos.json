@@ -1,0 +1,116 @@
+{
+  "job_id": "2026-11-19-b3-photos",
+  "items": [
+    {
+      "barcode": "6290171010487",
+      "slug": "rue-broca-penthouse-ginza-eau-de-parfum-80ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.19,
+          "product_share_of_source": 0.38,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171010487/rue-broca-penthouse-ginza-eau-de-parfum-80ml.jpg",
+          "path": "images/6290171010487/rue-broca-penthouse-ginza-eau-de-parfum-80ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.35,
+          "product_share_of_source": 0.61,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171010487/rue-broca-penthouse-ginza-eau-de-parfum-80ml-with-box.jpg",
+          "path": "images/6290171010487/rue-broca-penthouse-ginza-eau-de-parfum-80ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085715166494",
+      "slug": "abercrombie-fitch-100-passion-woman-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.12,
+          "product_share_of_source": 0.35,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715166494/abercrombie-fitch-100-passion-woman-eau-de-parfum-100ml.jpg",
+          "path": "images/0085715166494/abercrombie-fitch-100-passion-woman-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.99,
+          "product_share_of_source": 0.5,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715166494/abercrombie-fitch-100-passion-woman-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0085715166494/abercrombie-fitch-100-passion-woman-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085715163394",
+      "slug": "abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.83,
+          "product_share_of_source": 0.48,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash.jpg",
+          "path": "images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0085715163394"
+      ]
+    },
+    {
+      "barcode": "0085715064752",
+      "slug": "anna-sui-sky-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.2,
+          "product_share_of_source": 0.36,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715064752/anna-sui-sky-eau-de-toilette-75ml.jpg",
+          "path": "images/0085715064752/anna-sui-sky-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.74,
+          "product_share_of_source": 0.64,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715064752/anna-sui-sky-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/0085715064752/anna-sui-sky-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8411061044995",
+      "slug": "antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm",
+      "images": {
+        "main": {
+          "source_px": "445x275",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.71,
+          "product_share_of_source": 1.0,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8411061044995/antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm.jpg",
+          "path": "images/8411061044995/antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 8411061044995"
+      ]
+    }
+  ]
+}
