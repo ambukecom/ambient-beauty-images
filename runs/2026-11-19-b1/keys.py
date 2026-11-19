@@ -1,0 +1,7 @@
+K=[("Daisy","Marc Jacobs"),("Camouflage","Police"),
+("Passion","Abercrombie"),("Passion","Abercrombie"),("Authentic Night","Abercrombie"),("Authentic","Abercrombie"),("Away","Abercrombie"),("Away Tonight","Abercrombie"),("Fierce","Abercrombie"),("Fierce","Abercrombie"),("Fierce","Abercrombie"),("Extreme","Abercrombie"),("Blue","Abercrombie"),("First Instinct","Abercrombie"),
+("Chill Zone",""),("Energy Drive",""),("Full Recharge",""),("Get Comfy",""),("Pure Game",""),("Spark Up",""),
+("Stellar","Ajmal"),("Silver Shade",""),("Sky","Anna Sui"),("Sui Dreams",""),("Blue Seduction",""),("Blue Seduction",""),("Diavolo",""),("Essence of Success",""),("Her Secret",""),("King of Seduction",""),("Queen of Seduction",""),
+("Turab",""),("Mod Blush",""),("Parfum Intense","Armaf"),("Signature True",""),("Chrome Azure",""),("Chrome Legend",""),("Silverlake",""),("Infinite","Bentley"),("Circus Fantasy",""),("Midnight Sky",""),
+("Agha",""),("Boujee",""),("Candy Crush",""),("Daddy Issues",""),("Sheikh","Bujairami"),("Unforgettable",""),("V-Luxe",""),("Vanilla Dream",""),("Wicked","Bujairami"),
+("Burberry","for Men"),("Hero","Burberry"),("Rain Essence",""),("Blossom Delight",""),("Anais",""),("Ella Ella",""),("Obsession","Calvin"),("Forever Young",""),("Cobalt",""),("1881",""),("1881","Femme"),("K","Dolce"),("K Intense",""),("Desire Platinum",""),("Girl of Now",""),("Lumi","Elie Saab"),("Sunflowers","")]
