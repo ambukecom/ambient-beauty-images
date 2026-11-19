@@ -36,7 +36,7 @@ BRAND_COL = {
     "Ard Al Zaafaran": "667485077844", "Ted Baker": "713988473172",
     "Armaf": "668574646612", "French Avenue": "672815546708", "Gulf Orchid": "713790980436",
     "Rasasi": "672893305172", "Rue Broca": "676211622228",
-    "Abercrombie & Fitch": "709036835156", "Marc Jacobs": "710321733972", "Police": "711536705876",
+    "Abercrombie & Fitch": "709036835156", "Marc Jacobs": "710321733972", "Police": "711536705876", "Adidas": "715892785492",
 }
 
 # ---- taxonomy + Google product category ----
