@@ -37,6 +37,7 @@ BRAND_COL = {
     "Armaf": "668574646612", "French Avenue": "672815546708", "Gulf Orchid": "713790980436",
     "Rasasi": "672893305172", "Rue Broca": "676211622228",
     "Abercrombie & Fitch": "709036835156", "Marc Jacobs": "710321733972", "Police": "711536705876", "Adidas": "715892785492",
+    "Anna Sui": "715893637460", "Antonio Banderas": "709039128916",
 }
 
 # ---- taxonomy + Google product category ----
