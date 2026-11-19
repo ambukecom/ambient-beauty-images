@@ -1,0 +1,11 @@
+Antonio Banderas Queen of Seduction Eau de Toilette 80ml | 44 139
+Ard Al Zaafaran Turab Al Dhahab Eau de Parfum 100ml Gift Set with 250ml Body Mist and 300ml Air Freshener | 58 121
+Ariana Grande MOD Blush Eau de Parfum 100ml | 43 128
+Armaf L'Homme Parfum Intense Eau de Parfum 100ml | 48 137
+Armaf Signature True Eau de Parfum 100ml | 40 125
+Azzaro Chrome Azure Eau de Toilette 100ml | 41 110
+Azzaro Chrome Legend Eau de Toilette 100ml | 42 126
+Bentley For Men Silverlake Eau de Parfum 100ml | 46 133
+Bentley Infinite Intense Eau de Parfum 100ml | 44 130
+Britney Spears Circus Fantasy Eau de Parfum 100ml | 49 137
+productSet mutation: mutation($i1:ProductSetInput!,$i2:ProductSetInput!,$i3:ProductSetInput!,$i4:ProductSetInput!,$i5:ProductSetInput!,$i6:ProductSetInput!,$i7:ProductSetInput!,$i8:ProductSetInput!,$i9:ProductSetInput!,$i10:ProductSetInput!){p1: productSet(synchronous:true, input:$i1){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p2: productSet(synchronous:true, input:$i2){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p3: productSet(synchronous:true, input:$i3){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p4: productSet(synchronous:true, input:$i4){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p5: productSet(synchronous:true, input:$i5){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p6: productSet(synchronous:true, input:$i6){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p7: productSet(synchronous:true, input:$i7){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p8: productSet(synchronous:true, input:$i8){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p9: productSet(synchronous:true, input:$i9){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p10: productSet(synchronous:true, input:$i10){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } }}

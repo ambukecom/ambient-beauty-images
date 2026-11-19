@@ -38,6 +38,7 @@ BRAND_COL = {
     "Rasasi": "672893305172", "Rue Broca": "676211622228",
     "Abercrombie & Fitch": "709036835156", "Marc Jacobs": "710321733972", "Police": "711536705876", "Adidas": "715892785492",
     "Anna Sui": "715893637460", "Antonio Banderas": "709039128916",
+    "Ariana Grande": "708990763348", "Azzaro": "669576757588", "Bentley": "709021696340", "Britney Spears": "709118689620",
 }
 
 # ---- taxonomy + Google product category ----
