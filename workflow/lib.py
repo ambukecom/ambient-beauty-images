@@ -41,6 +41,7 @@ BRAND_COL = {
     "Ariana Grande": "708990763348", "Azzaro": "669576757588", "Bentley": "709021696340", "Britney Spears": "709118689620",
     "Dolce & Gabbana": "669610017108", "Elie Saab": "709054103892", "Elizabeth Arden": "716106465620",
     "Estée Lauder": "668571795796", "Gisada": "709062918484", "Hermès": "737778991444", "Hugo Boss": "636872098132",
+    "Issey Miyake": "669725557076", "Jimmy Choo": "714162897236",
 }
 
 # ---- taxonomy + Google product category ----
