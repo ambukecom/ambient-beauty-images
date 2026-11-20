@@ -1,0 +1,646 @@
+{
+  "job_id": "2026-11-20-b4-photos",
+  "items": [
+    {
+      "barcode": "4051395412110",
+      "slug": "bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1400x1401",
+          "method": "white-background cut-out",
+          "upscale": 1.64,
+          "product_share_of_source": 0.23,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/4051395412110/bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml.jpg",
+          "path": "images/4051395412110/bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 4051395412110"
+      ]
+    },
+    {
+      "barcode": "9362014000621",
+      "slug": "bujairami-boujee-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 3.97,
+          "product_share_of_source": 0.21,
+          "source_file": "MAIN.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000621/bujairami-boujee-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014000621/bujairami-boujee-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 3.23,
+          "product_share_of_source": 0.35,
+          "source_file": "BOX.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000621/bujairami-boujee-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000621/bujairami-boujee-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000072",
+      "slug": "bujairami-candy-crush-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 2.9,
+          "product_share_of_source": 0.5,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000072/bujairami-candy-crush-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000072/bujairami-candy-crush-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 9362014000072"
+      ]
+    },
+    {
+      "barcode": "9362014002083",
+      "slug": "bujairami-daddy-issues-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.94,
+          "product_share_of_source": 0.3,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014002083/bujairami-daddy-issues-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014002083/bujairami-daddy-issues-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.53,
+          "product_share_of_source": 0.51,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014002083/bujairami-daddy-issues-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014002083/bujairami-daddy-issues-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000669",
+      "slug": "bujairami-the-sheikh-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 3.39,
+          "product_share_of_source": 0.48,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000669/bujairami-the-sheikh-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000669/bujairami-the-sheikh-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 9362014000669"
+      ]
+    },
+    {
+      "barcode": "9362014000423",
+      "slug": "bujairami-unforgettable-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "620x620",
+          "method": "white-background cut-out",
+          "upscale": 3.52,
+          "product_share_of_source": 0.32,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000423/bujairami-unforgettable-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014000423/bujairami-unforgettable-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "620x620",
+          "method": "white-background cut-out",
+          "upscale": 2.78,
+          "product_share_of_source": 0.73,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000423/bujairami-unforgettable-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000423/bujairami-unforgettable-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014012501",
+      "slug": "bujairami-v-luxe-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.29,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014012501/bujairami-v-luxe-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014012501/bujairami-v-luxe-eau-de-parfum-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 9362014012501"
+      ]
+    },
+    {
+      "barcode": "9362014000430",
+      "slug": "bujairami-vanilla-dream-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.37,
+          "product_share_of_source": 0.5,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000430/bujairami-vanilla-dream-eau-de-parfum-100ml.jpg",
+          "path": "images/9362014000430/bujairami-vanilla-dream-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.1,
+          "product_share_of_source": 0.89,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000430/bujairami-vanilla-dream-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000430/bujairami-vanilla-dream-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "9362014000829",
+      "slug": "bujairami-wicked-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 3.41,
+          "product_share_of_source": 0.48,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000829/bujairami-wicked-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/9362014000829/bujairami-wicked-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 9362014000829"
+      ]
+    },
+    {
+      "barcode": "3614226905758",
+      "slug": "burberry-for-men-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 4.84,
+          "product_share_of_source": 0.15,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614226905758/burberry-for-men-eau-de-toilette-100ml.jpg",
+          "path": "images/3614226905758/burberry-for-men-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.81,
+          "product_share_of_source": 0.6,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614226905758/burberry-for-men-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3614226905758/burberry-for-men-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8054754400618",
+      "slug": "dolce-gabbana-k-eau-de-parfum-100ml-gift-set-with-after-shave-balm-and-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.93,
+          "product_share_of_source": 0.75,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8054754400618/dolce-gabbana-k-eau-de-parfum-100ml-gift-set-with-after-shave-balm-and-shower-gel-with-box.jpg",
+          "path": "images/8054754400618/dolce-gabbana-k-eau-de-parfum-100ml-gift-set-with-after-shave-balm-and-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 8054754400618"
+      ]
+    },
+    {
+      "barcode": "8054754400625",
+      "slug": "dolce-gabbana-k-eau-de-parfum-intense-100ml-gift-set-with-10ml-travel-spray",
+      "images": {
+        "box": {
+          "source_px": "424x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.82,
+          "product_share_of_source": 1.0,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8054754400625/dolce-gabbana-k-eau-de-parfum-intense-100ml-gift-set-with-10ml-travel-spray-with-box.jpg",
+          "path": "images/8054754400625/dolce-gabbana-k-eau-de-parfum-intense-100ml-gift-set-with-10ml-travel-spray-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 8054754400625"
+      ]
+    },
+    {
+      "barcode": "7640233340561",
+      "slug": "elie-saab-girl-of-now-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "main": {
+          "source_px": "640x642",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.73,
+          "source_file": "MAIN'.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340561/elie-saab-girl-of-now-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion.jpg",
+          "path": "images/7640233340561/elie-saab-girl-of-now-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion.jpg"
+        },
+        "box": {
+          "source_px": "640x642",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.41,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340561/elie-saab-girl-of-now-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/7640233340561/elie-saab-girl-of-now-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640233340745",
+      "slug": "elie-saab-le-parfum-lumiere-eau-de-parfum-50ml-gift-set-with-10ml-eau-de-parfum",
+      "images": {
+        "main": {
+          "source_px": "640x642",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.55,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340745/elie-saab-le-parfum-lumiere-eau-de-parfum-50ml-gift-set-with-10ml-eau-de-parfum.jpg",
+          "path": "images/7640233340745/elie-saab-le-parfum-lumiere-eau-de-parfum-50ml-gift-set-with-10ml-eau-de-parfum.jpg"
+        },
+        "box": {
+          "source_px": "640x642",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340745/elie-saab-le-parfum-lumiere-eau-de-parfum-50ml-gift-set-with-10ml-eau-de-parfum-with-box.jpg",
+          "path": "images/7640233340745/elie-saab-le-parfum-lumiere-eau-de-parfum-50ml-gift-set-with-10ml-eau-de-parfum-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085805255824",
+      "slug": "elizabeth-arden-sunflowers-eau-de-toilette-100ml-gift-set-with-100ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.69,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085805255824/elizabeth-arden-sunflowers-eau-de-toilette-100ml-gift-set-with-100ml-body-lotion-with-box.jpg",
+          "path": "images/0085805255824/elizabeth-arden-sunflowers-eau-de-toilette-100ml-gift-set-with-100ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0085805255824"
+      ]
+    },
+    {
+      "barcode": "0887167697232",
+      "slug": "estee-lauder-beautiful-eau-de-parfum-75ml-gift-set-with-10ml-eau-de-parfum-and-75ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "445x221",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.79,
+          "product_share_of_source": 1.0,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0887167697232/estee-lauder-beautiful-eau-de-parfum-75ml-gift-set-with-10ml-eau-de-parfum-and-75ml-body-lotion-with-box.jpg",
+          "path": "images/0887167697232/estee-lauder-beautiful-eau-de-parfum-75ml-gift-set-with-10ml-eau-de-parfum-and-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0887167697232"
+      ]
+    },
+    {
+      "barcode": "6291106484434",
+      "slug": "french-avenue-black-kabul-eau-de-parfum-60ml",
+      "images": {
+        "main": {
+          "source_px": "260x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291106484434/french-avenue-black-kabul-eau-de-parfum-60ml.jpg",
+          "path": "images/6291106484434/french-avenue-black-kabul-eau-de-parfum-60ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.91,
+          "product_share_of_source": 0.83,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291106484434/french-avenue-black-kabul-eau-de-parfum-60ml-with-box.jpg",
+          "path": "images/6291106484434/french-avenue-black-kabul-eau-de-parfum-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640164030616",
+      "slug": "gisada-ambassador-women-eau-de-parfum-50ml-gift-set-with-100ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "445x292",
+          "method": "white-background cut-out",
+          "upscale": 3.71,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640164030616/gisada-ambassador-women-eau-de-parfum-50ml-gift-set-with-100ml-shower-gel-with-box.jpg",
+          "path": "images/7640164030616/gisada-ambassador-women-eau-de-parfum-50ml-gift-set-with-100ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 7640164030616"
+      ]
+    },
+    {
+      "barcode": "3346130010630",
+      "slug": "hermes-terre-dhermes-eau-de-toilette-100ml-gift-set-with-80ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "445x275",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.71,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3346130010630/hermes-terre-dhermes-eau-de-toilette-100ml-gift-set-with-80ml-shower-gel-with-box.jpg",
+          "path": "images/3346130010630/hermes-terre-dhermes-eau-de-toilette-100ml-gift-set-with-80ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3346130010630"
+      ]
+    },
+    {
+      "barcode": "3616304198007",
+      "slug": "hugo-boss-the-scent-for-her-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.45,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304198007/hugo-boss-the-scent-for-her-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion.jpg",
+          "path": "images/3616304198007/hugo-boss-the-scent-for-her-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.74,
+          "product_share_of_source": 0.6,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304198007/hugo-boss-the-scent-for-her-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/3616304198007/hugo-boss-the-scent-for-her-eau-de-parfum-50ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222047955",
+      "slug": "issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-2-x-50ml-hand-cream",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.34,
+          "product_share_of_source": 0.36,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222047955/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-2-x-50ml-hand-cream.jpg",
+          "path": "images/3423222047955/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-2-x-50ml-hand-cream.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.69,
+          "product_share_of_source": 0.76,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222047955/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-2-x-50ml-hand-cream-with-box.jpg",
+          "path": "images/3423222047955/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-2-x-50ml-hand-cream-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423478501058",
+      "slug": "issey-miyake-leau-dissey-eau-de-toilette-100ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.99,
+          "product_share_of_source": 0.42,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478501058/issey-miyake-leau-dissey-eau-de-toilette-100ml-gift-set-with-75ml-body-lotion.jpg",
+          "path": "images/3423478501058/issey-miyake-leau-dissey-eau-de-toilette-100ml-gift-set-with-75ml-body-lotion.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.74,
+          "product_share_of_source": 0.72,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478501058/issey-miyake-leau-dissey-eau-de-toilette-100ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/3423478501058/issey-miyake-leau-dissey-eau-de-toilette-100ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222092894",
+      "slug": "issey-miyake-leau-dissey-eau-de-toilette-50ml-gift-set-with-body-lotion-and-shower-cream",
+      "images": {
+        "box": {
+          "source_px": "415x322",
+          "method": "white-background cut-out",
+          "upscale": 3.9,
+          "product_share_of_source": 1.0,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092894/issey-miyake-leau-dissey-eau-de-toilette-50ml-gift-set-with-body-lotion-and-shower-cream-with-box.jpg",
+          "path": "images/3423222092894/issey-miyake-leau-dissey-eau-de-toilette-50ml-gift-set-with-body-lotion-and-shower-cream-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423222092894"
+      ]
+    },
+    {
+      "barcode": "3423222092870",
+      "slug": "issey-miyake-leau-dissey-pivoine-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-body-lotion",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.15,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092870/issey-miyake-leau-dissey-pivoine-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-body-lotion.jpg",
+          "path": "images/3423222092870/issey-miyake-leau-dissey-pivoine-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-body-lotion.jpg"
+        },
+        "box": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.5,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092870/issey-miyake-leau-dissey-pivoine-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-body-lotion-with-box.jpg",
+          "path": "images/3423222092870/issey-miyake-leau-dissey-pivoine-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222028589",
+      "slug": "issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-gift-set-with-50ml-shower-gel",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 7.68,
+          "product_share_of_source": 0.0,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222028589/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-gift-set-with-50ml-shower-gel.jpg",
+          "path": "images/3423222028589/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-gift-set-with-50ml-shower-gel.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.8,
+          "product_share_of_source": 0.6,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222028589/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-gift-set-with-50ml-shower-gel-with-box.jpg",
+          "path": "images/3423222028589/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-gift-set-with-50ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "3423473131359",
+      "slug": "issey-miyake-leau-super-majeure-dissey-eau-de-toilette-intense-50ml-gift-set-with-100ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 3.38,
+          "product_share_of_source": 0.47,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473131359/issey-miyake-leau-super-majeure-dissey-eau-de-toilette-intense-50ml-gift-set-with-100ml-shower-gel-with-box.jpg",
+          "path": "images/3423473131359/issey-miyake-leau-super-majeure-dissey-eau-de-toilette-intense-50ml-gift-set-with-100ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423473131359"
+      ]
+    },
+    {
+      "barcode": "3423222106577",
+      "slug": "issey-miyake-le-sel-dissey-eau-de-toilette-50ml-gift-set-with-50ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "900x900",
+          "method": "white-background cut-out",
+          "upscale": 1.77,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222106577/issey-miyake-le-sel-dissey-eau-de-toilette-50ml-gift-set-with-50ml-shower-gel-with-box.jpg",
+          "path": "images/3423222106577/issey-miyake-le-sel-dissey-eau-de-toilette-50ml-gift-set-with-50ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423222106577"
+      ]
+    },
+    {
+      "barcode": "3423222092818",
+      "slug": "issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-shower-gel",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.8,
+          "product_share_of_source": 0.64,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092818/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-shower-gel.jpg",
+          "path": "images/3423222092818/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-shower-gel.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.39,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092818/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-shower-gel-with-box.jpg",
+          "path": "images/3423222092818/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-gift-set-with-2-x-50ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460148443",
+      "slug": "jimmy-choo-man-aqua-eau-de-toilette-50ml-gift-set-with-100ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.02,
+          "product_share_of_source": 0.52,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460148443/jimmy-choo-man-aqua-eau-de-toilette-50ml-gift-set-with-100ml-shower-gel-with-box.jpg",
+          "path": "images/3386460148443/jimmy-choo-man-aqua-eau-de-toilette-50ml-gift-set-with-100ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3386460148443"
+      ]
+    },
+    {
+      "barcode": "3616305181473",
+      "slug": "marc-jacobs-perfect-eau-de-parfum-100ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 5.85,
+          "product_share_of_source": 0.03,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616305181473/marc-jacobs-perfect-eau-de-parfum-100ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/3616305181473/marc-jacobs-perfect-eau-de-parfum-100ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3616305181473",
+        "box: product is tiny in the source photo, check the result"
+      ]
+    }
+  ]
+}
