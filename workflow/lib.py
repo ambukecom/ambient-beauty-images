@@ -39,6 +39,8 @@ BRAND_COL = {
     "Abercrombie & Fitch": "709036835156", "Marc Jacobs": "710321733972", "Police": "711536705876", "Adidas": "715892785492",
     "Anna Sui": "715893637460", "Antonio Banderas": "709039128916",
     "Ariana Grande": "708990763348", "Azzaro": "669576757588", "Bentley": "709021696340", "Britney Spears": "709118689620",
+    "Dolce & Gabbana": "669610017108", "Elie Saab": "709054103892", "Elizabeth Arden": "716106465620",
+    "Estée Lauder": "668571795796", "Gisada": "709062918484", "Hermès": "737778991444", "Hugo Boss": "636872098132",
 }
 
 # ---- taxonomy + Google product category ----
