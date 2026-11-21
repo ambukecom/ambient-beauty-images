@@ -1,0 +1,11 @@
+Salvatore Ferragamo Signorina Misteriosa Eau de Parfum 100ml Gift Set with Body Lotion and 10ml Travel Spray | 57 159
+Street Origins Skin, Sand and Santorini Extrait de Parfum 75ml | 60 132
+Surrati 1929 Collection 1 Extrait de Parfum Discovery Set 5 x 10ml | 56 135
+Surrati Arabian Jackpot Eau de Parfum 100ml | 43 129
+Surrati Gray Oud Extrait de Parfum 150ml | 40 108
+Surrati Honey Oud Eau de Parfum 140ml | 37 112
+Surrati Miss World Charisma Extrait de Parfum 150ml | 51 134
+Surrati Miss World Extrait de Parfum 150ml | 42 113
+Surrati Hamrah Eau de Parfum 100ml | 34 115
+Surrati Royal 777 Eau de Parfum 100ml | 37 108
+productSet mutation: mutation($i1:ProductSetInput!,$i2:ProductSetInput!,$i3:ProductSetInput!,$i4:ProductSetInput!,$i5:ProductSetInput!,$i6:ProductSetInput!,$i7:ProductSetInput!,$i8:ProductSetInput!,$i9:ProductSetInput!,$i10:ProductSetInput!){p1: productSet(synchronous:true, input:$i1){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p2: productSet(synchronous:true, input:$i2){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p3: productSet(synchronous:true, input:$i3){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p4: productSet(synchronous:true, input:$i4){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p5: productSet(synchronous:true, input:$i5){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p6: productSet(synchronous:true, input:$i6){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p7: productSet(synchronous:true, input:$i7){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p8: productSet(synchronous:true, input:$i8){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p9: productSet(synchronous:true, input:$i9){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } } p10: productSet(synchronous:true, input:$i10){ product{ id variants(first:1){nodes{id inventoryItem{id}}} } userErrors{ field message } }}
