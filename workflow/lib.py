@@ -44,6 +44,7 @@ BRAND_COL = {
     "Issey Miyake": "669725557076", "Jimmy Choo": "714162897236",
     "Michael Kors": "710499959124", "Missoni": "710500811092", "Mont Blanc": "668574548308",
     "Ford Mustang": "713734259028", "Narciso Rodriguez": "711329939796",
+    "Reebok": "713726230868", "Rochas": "713807626580", "Salvatore Ferragamo": "714017997140",
 }
 
 # ---- taxonomy + Google product category ----
