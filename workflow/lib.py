@@ -46,6 +46,8 @@ BRAND_COL = {
     "Ford Mustang": "713734259028", "Narciso Rodriguez": "711329939796",
     "Versace": "713749037396", "Zimaya": "672813580628",
     "Reebok": "713726230868", "Rochas": "713807626580", "Salvatore Ferragamo": "714017997140",
+    "Burberry": "669620142420", "Bvlgari": "738036285780", "Cacharel": "709361992020",
+    "Calvin Klein": "669662576980", "Carolina Herrera": "668571205972", "Cerruti": "715956060500",
 }
 
 # ---- taxonomy + Google product category ----
