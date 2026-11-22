@@ -1,0 +1,370 @@
+{
+  "job_id": "2026-11-22-b4-photos",
+  "items": [
+    {
+      "barcode": "6290171010470",
+      "slug": "rue-broca-penthouse-larvotto-eau-de-parfum-80ml",
+      "images": {
+        "box": {
+          "source_px": "500x333",
+          "method": "white-background cut-out",
+          "upscale": 5.72,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171010470/rue-broca-penthouse-larvotto-eau-de-parfum-80ml-with-box.jpg",
+          "path": "images/6290171010470/rue-broca-penthouse-larvotto-eau-de-parfum-80ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 6290171010470"
+      ]
+    },
+    {
+      "barcode": "6295124042799",
+      "slug": "swiss-arabian-spirit-of-valencia-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.64,
+          "product_share_of_source": 0.31,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124042799/swiss-arabian-spirit-of-valencia-extrait-de-parfum-100ml.jpg",
+          "path": "images/6295124042799/swiss-arabian-spirit-of-valencia-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.38,
+          "product_share_of_source": 0.6,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124042799/swiss-arabian-spirit-of-valencia-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295124042799/swiss-arabian-spirit-of-valencia-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124049910",
+      "slug": "swiss-arabian-vanilla-01-extrait-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.64,
+          "product_share_of_source": 0.31,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124049910/swiss-arabian-vanilla-01-extrait-de-parfum-50ml.jpg",
+          "path": "images/6295124049910/swiss-arabian-vanilla-01-extrait-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.38,
+          "product_share_of_source": 0.6,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124049910/swiss-arabian-vanilla-01-extrait-de-parfum-50ml-with-box.jpg",
+          "path": "images/6295124049910/swiss-arabian-vanilla-01-extrait-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124031298",
+      "slug": "swiss-arabian-wajd-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "300x250",
+          "method": "white-background cut-out",
+          "upscale": 6.88,
+          "product_share_of_source": 0.41,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124031298/swiss-arabian-wajd-eau-de-parfum-50ml.jpg",
+          "path": "images/6295124031298/swiss-arabian-wajd-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "397x397",
+          "method": "white-background cut-out",
+          "upscale": 4.49,
+          "product_share_of_source": 0.68,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124031298/swiss-arabian-wajd-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/6295124031298/swiss-arabian-wajd-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060523019397",
+      "slug": "ted-baker-celeste-eau-de-toilette-50ml-gift-set-with-100ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 3.11,
+          "product_share_of_source": 0.35,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523019397/ted-baker-celeste-eau-de-toilette-50ml-gift-set-with-100ml-body-lotion-with-box.jpg",
+          "path": "images/5060523019397/ted-baker-celeste-eau-de-toilette-50ml-gift-set-with-100ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 5060523019397"
+      ]
+    },
+    {
+      "barcode": "5060523018031",
+      "slug": "ted-baker-kasia-eau-de-toilette-15ml-cracker-gift-set-with-lip-gloss",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.61,
+          "product_share_of_source": 0.26,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523018031/ted-baker-kasia-eau-de-toilette-15ml-cracker-gift-set-with-lip-gloss.jpg",
+          "path": "images/5060523018031/ted-baker-kasia-eau-de-toilette-15ml-cracker-gift-set-with-lip-gloss.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.06,
+          "product_share_of_source": 0.35,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523018031/ted-baker-kasia-eau-de-toilette-15ml-cracker-gift-set-with-lip-gloss-with-box.jpg",
+          "path": "images/5060523018031/ted-baker-kasia-eau-de-toilette-15ml-cracker-gift-set-with-lip-gloss-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060523017997",
+      "slug": "ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.6,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-with-box.jpg",
+          "path": "images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 5060523017997"
+      ]
+    },
+    {
+      "barcode": "5060412679169",
+      "slug": "ted-baker-m-eau-de-toilette-30ml-active-essentials-gift-set-with-gym-towel",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.26,
+          "product_share_of_source": 0.44,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412679169/ted-baker-m-eau-de-toilette-30ml-active-essentials-gift-set-with-gym-towel.jpg",
+          "path": "images/5060412679169/ted-baker-m-eau-de-toilette-30ml-active-essentials-gift-set-with-gym-towel.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.99,
+          "product_share_of_source": 0.32,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412679169/ted-baker-m-eau-de-toilette-30ml-active-essentials-gift-set-with-gym-towel-with-box.jpg",
+          "path": "images/5060412679169/ted-baker-m-eau-de-toilette-30ml-active-essentials-gift-set-with-gym-towel-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060523017973",
+      "slug": "ted-baker-original-woman-eau-de-toilette-100ml-gift-set-with-15ml-eau-de-toilette-and-150ml-body-wash",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.32,
+          "product_share_of_source": 0.59,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523017973/ted-baker-original-woman-eau-de-toilette-100ml-gift-set-with-15ml-eau-de-toilette-and-150ml-body-wash.jpg",
+          "path": "images/5060523017973/ted-baker-original-woman-eau-de-toilette-100ml-gift-set-with-15ml-eau-de-toilette-and-150ml-body-wash.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 5060523017973"
+      ]
+    },
+    {
+      "barcode": "8011003900077",
+      "slug": "versace-eros-energy-eau-de-parfum-50ml-gift-set-with-shower-gel-and-after-shave-balm",
+      "images": {
+        "main": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 2.41,
+          "product_share_of_source": 0.58,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8011003900077/versace-eros-energy-eau-de-parfum-50ml-gift-set-with-shower-gel-and-after-shave-balm.jpg",
+          "path": "images/8011003900077/versace-eros-energy-eau-de-parfum-50ml-gift-set-with-shower-gel-and-after-shave-balm.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 8011003900077"
+      ]
+    },
+    {
+      "barcode": "6290171075080",
+      "slug": "zimaya-abadi-saga-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "transparent source",
+          "upscale": 3.67,
+          "product_share_of_source": 0.6,
+          "source_file": "MAIN.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171075080/zimaya-abadi-saga-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171075080/zimaya-abadi-saga-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "transparent source",
+          "upscale": 3.29,
+          "product_share_of_source": 0.84,
+          "source_file": "BOX.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171075080/zimaya-abadi-saga-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171075080/zimaya-abadi-saga-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290171074847",
+      "slug": "zimaya-al-embratur-intense-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.7,
+          "product_share_of_source": 0.26,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074847/zimaya-al-embratur-intense-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171074847/zimaya-al-embratur-intense-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.78,
+          "product_share_of_source": 0.56,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074847/zimaya-al-embratur-intense-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171074847/zimaya-al-embratur-intense-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290171074885",
+      "slug": "zimaya-anhaar-valley-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1046x2000",
+          "method": "white-background cut-out",
+          "upscale": 1.49,
+          "product_share_of_source": 0.46,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074885/zimaya-anhaar-valley-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171074885/zimaya-anhaar-valley-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "2000x1999",
+          "method": "white-background cut-out",
+          "upscale": 0.81,
+          "product_share_of_source": 0.72,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074885/zimaya-anhaar-valley-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171074885/zimaya-anhaar-valley-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290171074991",
+      "slug": "zimaya-awatif-blue-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.15,
+          "product_share_of_source": 0.38,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074991/zimaya-awatif-blue-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171074991/zimaya-awatif-blue-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.99,
+          "product_share_of_source": 0.69,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074991/zimaya-awatif-blue-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171074991/zimaya-awatif-blue-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290171074151",
+      "slug": "zimaya-khafaya-blue-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "296x800",
+          "method": "white-background cut-out",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074151/zimaya-khafaya-blue-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171074151/zimaya-khafaya-blue-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "756x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.18,
+          "product_share_of_source": 0.82,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074151/zimaya-khafaya-blue-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171074151/zimaya-khafaya-blue-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290171074168",
+      "slug": "zimaya-khafaya-pink-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "549x823",
+          "method": "white-background cut-out",
+          "upscale": 3.46,
+          "product_share_of_source": 0.33,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074168/zimaya-khafaya-pink-eau-de-parfum-100ml.jpg",
+          "path": "images/6290171074168/zimaya-khafaya-pink-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "549x823",
+          "method": "white-background cut-out",
+          "upscale": 3.1,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290171074168/zimaya-khafaya-pink-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290171074168/zimaya-khafaya-pink-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
