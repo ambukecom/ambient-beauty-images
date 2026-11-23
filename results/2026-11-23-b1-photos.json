@@ -1,0 +1,406 @@
+{
+  "job_id": "2026-11-23-b1-photos",
+  "items": [
+    {
+      "barcode": "3616304679483",
+      "slug": "burberry-hero-eau-de-toilette-200ml-refill",
+      "images": {
+        "main": {
+          "source_px": "922x1048",
+          "method": "white-background cut-out",
+          "upscale": 2.01,
+          "product_share_of_source": 0.27,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304679483/burberry-hero-eau-de-toilette-200ml-refill.jpg",
+          "path": "images/3616304679483/burberry-hero-eau-de-toilette-200ml-refill.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.61,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304679483/burberry-hero-eau-de-toilette-200ml-refill-with-box.jpg",
+          "path": "images/3616304679483/burberry-hero-eau-de-toilette-200ml-refill-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0783320421211",
+      "slug": "bvlgari-man-rain-essence-eau-de-parfum-100ml-gift-set-with-15ml-eau-de-parfum",
+      "images": {
+        "box": {
+          "source_px": "493x493",
+          "method": "white-background cut-out",
+          "upscale": 3.78,
+          "product_share_of_source": 0.41,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0783320421211/bvlgari-man-rain-essence-eau-de-parfum-100ml-gift-set-with-15ml-eau-de-parfum-with-box.jpg",
+          "path": "images/0783320421211/bvlgari-man-rain-essence-eau-de-parfum-100ml-gift-set-with-15ml-eau-de-parfum-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0783320421211"
+      ]
+    },
+    {
+      "barcode": "0783320422393",
+      "slug": "bvlgari-rose-goldea-blossom-delight-eau-de-parfum-50ml-gift-set-with-75ml-body-milk",
+      "images": {
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.67,
+          "product_share_of_source": 0.55,
+          "source_file": "box.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0783320422393/bvlgari-rose-goldea-blossom-delight-eau-de-parfum-50ml-gift-set-with-75ml-body-milk-with-box.jpg",
+          "path": "images/0783320422393/bvlgari-rose-goldea-blossom-delight-eau-de-parfum-50ml-gift-set-with-75ml-body-milk-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0783320422393"
+      ]
+    },
+    {
+      "barcode": "3614273843195",
+      "slug": "cacharel-anais-anais-loriginal-eau-de-toilette-100ml-gift-set-with-2-x-50ml-body-lotion",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 3.02,
+          "product_share_of_source": 0.34,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614273843195/cacharel-anais-anais-loriginal-eau-de-toilette-100ml-gift-set-with-2-x-50ml-body-lotion.jpg",
+          "path": "images/3614273843195/cacharel-anais-anais-loriginal-eau-de-toilette-100ml-gift-set-with-2-x-50ml-body-lotion.jpg"
+        },
+        "box": {
+          "source_px": "900x900",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.06,
+          "product_share_of_source": 0.53,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614273843195/cacharel-anais-anais-loriginal-eau-de-toilette-100ml-gift-set-with-2-x-50ml-body-lotion-with-box.jpg",
+          "path": "images/3614273843195/cacharel-anais-anais-loriginal-eau-de-toilette-100ml-gift-set-with-2-x-50ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614274026511",
+      "slug": "cacharel-ella-ella-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "338x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 4.6,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3614274026511"
+      ]
+    },
+    {
+      "barcode": "3616303455309",
+      "slug": "calvin-klein-obsession-for-men-eau-de-toilette-125ml-gift-set-with-aftershave-balm-and-deodorant-stick",
+      "images": {
+        "main": {
+          "source_px": "512x513",
+          "method": "white-background cut-out",
+          "upscale": 3.97,
+          "product_share_of_source": 0.49,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303455309/calvin-klein-obsession-for-men-eau-de-toilette-125ml-gift-set-with-aftershave-balm-and-deodorant-stick.jpg",
+          "path": "images/3616303455309/calvin-klein-obsession-for-men-eau-de-toilette-125ml-gift-set-with-aftershave-balm-and-deodorant-stick.jpg"
+        },
+        "box": {
+          "source_px": "1050x1050",
+          "method": "white-background cut-out",
+          "upscale": 1.89,
+          "product_share_of_source": 0.36,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303455309/calvin-klein-obsession-for-men-eau-de-toilette-125ml-gift-set-with-aftershave-balm-and-deodorant-stick-with-box.jpg",
+          "path": "images/3616303455309/calvin-klein-obsession-for-men-eau-de-toilette-125ml-gift-set-with-aftershave-balm-and-deodorant-stick-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8411061074855",
+      "slug": "carolina-herrera-212-heroes-forever-young-for-her-eau-de-parfum-80ml-gift-set-with-100ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 3.15,
+          "product_share_of_source": 0.43,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8411061074855/carolina-herrera-212-heroes-forever-young-for-her-eau-de-parfum-80ml-gift-set-with-100ml-body-lotion-with-box.jpg",
+          "path": "images/8411061074855/carolina-herrera-212-heroes-forever-young-for-her-eau-de-parfum-80ml-gift-set-with-100ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 8411061074855"
+      ]
+    },
+    {
+      "barcode": "8411061027981",
+      "slug": "carolina-herrera-bad-boy-cobalt-eau-de-parfum-electrique-100ml-gift-set-with-100ml-shower-gel",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.72,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8411061027981/carolina-herrera-bad-boy-cobalt-eau-de-parfum-electrique-100ml-gift-set-with-100ml-shower-gel.jpg",
+          "path": "images/8411061027981/carolina-herrera-bad-boy-cobalt-eau-de-parfum-electrique-100ml-gift-set-with-100ml-shower-gel.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 8411061027981"
+      ]
+    },
+    {
+      "barcode": "5050456007387",
+      "slug": "cerruti-1881-pour-homme-eau-de-toilette-100ml-gift-set-with-150ml-deodorant-spray",
+      "images": {
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.34,
+          "product_share_of_source": 0.7,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456007387/cerruti-1881-pour-homme-eau-de-toilette-100ml-gift-set-with-150ml-deodorant-spray-with-box.jpg",
+          "path": "images/5050456007387/cerruti-1881-pour-homme-eau-de-toilette-100ml-gift-set-with-150ml-deodorant-spray-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 5050456007387"
+      ]
+    },
+    {
+      "barcode": "5050456005680",
+      "slug": "cerruti-1881-pour-femme-eau-de-toilette-50ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 2.34,
+          "product_share_of_source": 0.74,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456005680/cerruti-1881-pour-femme-eau-de-toilette-50ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/5050456005680/cerruti-1881-pour-femme-eau-de-toilette-50ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 5050456005680"
+      ]
+    },
+    {
+      "barcode": "6281085040011",
+      "slug": "surrati-cuban-latte-extrait-de-parfum-150ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.54,
+          "product_share_of_source": 0.23,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040011/surrati-cuban-latte-extrait-de-parfum-150ml.jpg",
+          "path": "images/6281085040011/surrati-cuban-latte-extrait-de-parfum-150ml.jpg"
+        },
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.66,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040011/surrati-cuban-latte-extrait-de-parfum-150ml-with-box.jpg",
+          "path": "images/6281085040011/surrati-cuban-latte-extrait-de-parfum-150ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085039657",
+      "slug": "surrati-omniyat-eau-de-parfum-140ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.06,
+          "product_share_of_source": 0.16,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085039657/surrati-omniyat-eau-de-parfum-140ml.jpg",
+          "path": "images/6281085039657/surrati-omniyat-eau-de-parfum-140ml.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.06,
+          "product_share_of_source": 0.51,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085039657/surrati-omniyat-eau-de-parfum-140ml-with-box.jpg",
+          "path": "images/6281085039657/surrati-omniyat-eau-de-parfum-140ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085040059",
+      "slug": "surrati-purple-candy-extrait-de-parfum-150ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.49,
+          "product_share_of_source": 0.24,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040059/surrati-purple-candy-extrait-de-parfum-150ml.jpg",
+          "path": "images/6281085040059/surrati-purple-candy-extrait-de-parfum-150ml.jpg"
+        },
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.57,
+          "product_share_of_source": 0.35,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085040059/surrati-purple-candy-extrait-de-parfum-150ml-with-box.jpg",
+          "path": "images/6281085040059/surrati-purple-candy-extrait-de-parfum-150ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124002236",
+      "slug": "swiss-arabian-kashkha-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "300x250",
+          "method": "white-background cut-out",
+          "upscale": 7.23,
+          "product_share_of_source": 0.33,
+          "source_file": "MAIN.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124002236/swiss-arabian-kashkha-eau-de-parfum-50ml.jpg",
+          "path": "images/6295124002236/swiss-arabian-kashkha-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "300x250",
+          "method": "white-background cut-out",
+          "upscale": 6.42,
+          "product_share_of_source": 0.77,
+          "source_file": "BOX.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124002236/swiss-arabian-kashkha-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/6295124002236/swiss-arabian-kashkha-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124051456",
+      "slug": "swiss-arabian-patchouli-01-extrait-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 2.6,
+          "product_share_of_source": 0.46,
+          "source_file": "MAIN.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124051456/swiss-arabian-patchouli-01-extrait-de-parfum-50ml.jpg",
+          "path": "images/6295124051456/swiss-arabian-patchouli-01-extrait-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "620x620",
+          "method": "white-background cut-out",
+          "upscale": 2.56,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124051456/swiss-arabian-patchouli-01-extrait-de-parfum-50ml-with-box.jpg",
+          "path": "images/6295124051456/swiss-arabian-patchouli-01-extrait-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124030581",
+      "slug": "swiss-arabian-pure-instinct-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.41,
+          "product_share_of_source": 0.43,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124030581/swiss-arabian-pure-instinct-eau-de-parfum-100ml.jpg",
+          "path": "images/6295124030581/swiss-arabian-pure-instinct-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x715",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.98,
+          "product_share_of_source": 0.92,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124030581/swiss-arabian-pure-instinct-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295124030581/swiss-arabian-pure-instinct-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124030253",
+      "slug": "swiss-arabian-sapil-bound-for-women-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 4.26,
+          "product_share_of_source": 0.3,
+          "source_file": "main.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124030253/swiss-arabian-sapil-bound-for-women-eau-de-parfum-100ml.jpg",
+          "path": "images/6295124030253/swiss-arabian-sapil-bound-for-women-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.85,
+          "product_share_of_source": 0.34,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124030253/swiss-arabian-sapil-bound-for-women-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6295124030253/swiss-arabian-sapil-bound-for-women-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6295124053269",
+      "slug": "swiss-arabian-shaghaf-oud-marine-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 4.67,
+          "product_share_of_source": 0.11,
+          "source_file": "MAIN.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124053269/swiss-arabian-shaghaf-oud-marine-eau-de-parfum-75ml.jpg",
+          "path": "images/6295124053269/swiss-arabian-shaghaf-oud-marine-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "766x766",
+          "method": "white-background cut-out",
+          "upscale": 3.53,
+          "product_share_of_source": 0.29,
+          "source_file": "BOX.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6295124053269/swiss-arabian-shaghaf-oud-marine-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/6295124053269/swiss-arabian-shaghaf-oud-marine-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
