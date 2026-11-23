@@ -48,7 +48,7 @@ BRAND_COL = {
     "Reebok": "713726230868", "Rochas": "713807626580", "Salvatore Ferragamo": "714017997140",
     "Burberry": "669620142420", "Bvlgari": "738036285780", "Cacharel": "709361992020",
     "Calvin Klein": "669662576980", "Carolina Herrera": "668571205972", "Cerruti": "715956060500",
-    "Davidoff": "669676470612",
+    "Davidoff": "669676470612", "Bujairami": "711639531860",
 }
 
 # ---- taxonomy + Google product category ----
