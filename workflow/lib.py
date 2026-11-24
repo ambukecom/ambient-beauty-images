@@ -49,6 +49,7 @@ BRAND_COL = {
     "Burberry": "669620142420", "Bvlgari": "738036285780", "Cacharel": "709361992020",
     "Calvin Klein": "669662576980", "Carolina Herrera": "668571205972", "Cerruti": "715956060500",
     "Davidoff": "669676470612", "Bujairami": "711639531860", "Clinique": "668570288468",
+    "Diesel": "669728801108", "Dunhill": "669726605652",
 }
 
 # ---- taxonomy + Google product category ----
