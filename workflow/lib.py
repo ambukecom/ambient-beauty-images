@@ -51,6 +51,7 @@ BRAND_COL = {
     "Davidoff": "669676470612", "Bujairami": "711639531860", "Clinique": "668570288468",
     "Diesel": "669728801108", "Dunhill": "669726605652",
     "Elizabeth Taylor": "738357444948", "FCUK": "669685678420",
+    "Franck Olivier": "669610639700",
 }
 
 # ---- taxonomy + Google product category ----
