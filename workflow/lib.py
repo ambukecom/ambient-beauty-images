@@ -48,13 +48,13 @@ BRAND_COL = {
     "Reebok": "713726230868", "Rochas": "713807626580", "Salvatore Ferragamo": "714017997140",
     "Burberry": "669620142420", "Bvlgari": "738036285780", "Cacharel": "709361992020",
     "Calvin Klein": "669662576980", "Carolina Herrera": "668571205972", "Cerruti": "715956060500",
-    "Davidoff": "669676470612", "Bujairami": "711639531860",
+    "Davidoff": "669676470612", "Bujairami": "711639531860", "Clinique": "668570288468",
 }
 
 # ---- taxonomy + Google product category ----
 TAXON = {"perfume": "hb-3-2-8", "hair-perfume": "hb-3-2-8-6", "body-wash": "hb-3-2-1-5",
          "shampoo": "hb-3-10-13-3", "conditioner": "hb-3-10-13-1", "hair-treatment": "hb-3-10-14",
-         "hair-mask": "hb-3-10-14-1", "mascara": "hb-3-2-6-3-8"}
+         "hair-mask": "hb-3-10-14-1", "mascara": "hb-3-2-6-3-8", "aftershave": "hb-3-14-1"}
 GPC = {"fragrance": 479, "shampoo": 543615, "conditioner": 543616, "body-wash": 2747, "hair-care": 486, "mascara": 2834}
 
 # ---- metaobject IDs (category metafields) ----
