@@ -1,0 +1,8 @@
+# 2026-11-25 batch 1 (00:10)
+No plan existed for 25/11: planned all 40 items (Daily Plan rows 256–295) and created 40 Drive folders.
+Skincare / Haircare / Makeup / Bath and Body Clean Variant tabs empty; Fragrance (49 rows) filled every slot: top 40 (Issey Miyake L'Eau d'Issey Intense → Lalique Le Parfum).
+Duplicate checks (barcode + separate title searches): Rasasi Hawas London (barcode match, live) and Rasasi Hawas Ice for Him 100ml (title match, unlisted) are duplicates → appended to Website Stock with qty 0. Other near-matches are different sizes/editions (e.g. Eau & Cèdre 100ml, Pour Homme EDT 125/200ml, Jimmy Choo L'Eau 60ml, Lamborghini Essenza 75ml).
+Drafts (worksheet rows 372–381, all done): 10 Issey Miyake – L'Eau d'Issey EDP Intense 100ml, Pour Homme Eau & Cèdre EDT Intense 50ml, Pour Homme EDT 75ml, Pour Homme Solar Lavender EDT Intense 50ml, Pour Homme Sport EDT 50ml, Pure Pétale de Nectar EDT 50ml, Rose & Rose EDP Intense 50ml, Solar Violet EDT Intense 50ml, Pour Homme Vétiver EDT Intense 50ml ('Intense' added, '?' fixed), Nuit d'Issey Bleu Astral EDT 125ml ('Belu' corrected).
+Research via 2 subagents, 2+ sources each.
+Photos: 40 folders from 24/11 drafts renamed to barcode → job 2026-11-25-b1-photos. 33 products got photos (17 both images, 16 one image), 7 rejected (Elie Saab In White – 50ml box; ET Violet Eyes – unusable; FCUK Her + Him sets – photo is a 4x18ml Discovery Set for Her; FO Eau de Passion, Giorgia, White Touch – bad cut-outs). Several main photos were cap close-ups and were left out. See contact1-4.jpg, photo_mut.json, photo_notes.json.
+Left in Clean Variant tabs: Fragrance 37 (30 planned for batches 2–4, 7 unplanned), others 0.
