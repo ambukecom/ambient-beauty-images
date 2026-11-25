@@ -1,0 +1,6 @@
+# 2026-11-25 batch 4 (18:10)
+Used today's plan (Daily Plan rows 286–295). All 10 still in Fragrance Clean Variant with stock > 0; barcode + separate title checks found no duplicates.
+Drafts (worksheet rows 402–411): Lacoste L.12.12 Noir Intense EDT 100ml (needs-review: EAN unmatched, box photo reads "L.12.12 Noir"), L.12.12 Pour Lui French Panache EDT 100ml, L.12.12 Rose EDP 100ml (needs-review: EAN seen on 50ml listing, box photo reads "Silver Rose"), Original EDP 100ml (needs-review: photos show Original PARFUM); Lalique Amethyst Éclat EDP, Amethyst Exquise EDP (needs-review: photos show plain Amethyst), Encre Noire Sport EDT (top+base pyramid only), L'Amour EDP, White EDT 125ml, Le Parfum EDP.
+Lalique brand collection (712025145684) added to BRAND_COL. Research via 2 subagents, 2+ sources each.
+Photos: job 2026-11-25-b4-photos for the 10 new drafts. 6 products got photos (9 images); 4 rejected: Lacoste Original (Parfum edition shown), Amethyst Exquise (plain Amethyst shown), L'Amour (washed-out/cropped cut-outs), Lalique White (cap only). Older mediaCount-0 drafts: folders unchanged since their earlier jobs, not re-run.
+Left in Clean Variant tabs: Fragrance 10 (unplanned), others 0.

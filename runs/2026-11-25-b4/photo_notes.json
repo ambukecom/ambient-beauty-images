@@ -1,0 +1,30 @@
+{
+"0737052662664": [
+"box rejected: box reads 'L.12.12 Noir' (not Noir Intense) – check edition/title"
+],
+"3614228228749": [
+"box rejected: white box cut-out washed out, text blurred"
+],
+"3386460149211": [
+"box rejected: box reads 'L.12.12 Silver Rose' – edition doesn't match title"
+],
+"3386460149969": [
+"main rejected: bottle label reads 'Original PARFUM' (different concentration from this EDP)",
+"box rejected: box/bottle read 'Original PARFUM' (different concentration)"
+],
+"7640111501466": [],
+"7640171199481": [
+"main rejected: shows original Amethyst bottle, not Exquise",
+"box rejected: box reads 'Amethyst', not Exquise"
+],
+"7640111500902": [],
+"7640111499060": [
+"main rejected: cut-out washed out, bottle edges lost",
+"box rejected: box cropped and bottle washed out"
+],
+"3454960024021": [
+"main rejected: cap only (product tiny in source)",
+"box rejected: cap only, box cut-out broken"
+],
+"3454960020917": []
+}
