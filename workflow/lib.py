@@ -53,7 +53,7 @@ BRAND_COL = {
     "Elizabeth Taylor": "738357444948", "FCUK": "669685678420",
     "Franck Olivier": "669610639700",
     "Jaguar": "669659005268", "Jennifer Lopez": "711281049940", "Karl Lagerfeld": "711359234388",
-    "Kenzo": "711403929940",
+    "Kenzo": "711403929940", "Lalique": "712025145684",
 }
 
 # ---- taxonomy + Google product category ----
