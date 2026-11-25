@@ -1,0 +1,903 @@
+{
+  "job_id": "2026-11-25-b1-photos",
+  "items": [
+    {
+      "barcode": "0085715801555",
+      "slug": "dunhill-desire-blue-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.71,
+          "product_share_of_source": 0.31,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715801555/dunhill-desire-blue-eau-de-toilette-100ml.jpg",
+          "path": "images/0085715801555/dunhill-desire-blue-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.87,
+          "product_share_of_source": 0.72,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715801555/dunhill-desire-blue-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/0085715801555/dunhill-desire-blue-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0719346010115",
+      "slug": "elizabeth-taylor-passion-eau-de-toilette-74ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 2.04,
+          "product_share_of_source": 0.29,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346010115/elizabeth-taylor-passion-eau-de-toilette-74ml.jpg",
+          "path": "images/0719346010115/elizabeth-taylor-passion-eau-de-toilette-74ml.jpg"
+        },
+        "box": {
+          "source_px": "900x792",
+          "method": "white-background cut-out",
+          "upscale": 1.76,
+          "product_share_of_source": 1.0,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346010115/elizabeth-taylor-passion-eau-de-toilette-74ml-with-box.jpg",
+          "path": "images/0719346010115/elizabeth-taylor-passion-eau-de-toilette-74ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3760060761880",
+      "slug": "dumont-nitro-red-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "461x664",
+          "method": "white-background cut-out",
+          "upscale": 2.61,
+          "product_share_of_source": 0.97,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761880/dumont-nitro-red-eau-de-parfum-100ml.jpg",
+          "path": "images/3760060761880/dumont-nitro-red-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.64,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3760060761880/dumont-nitro-red-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3760060761880/dumont-nitro-red-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3605520386442",
+      "slug": "diesel-fuel-for-life-homme-eau-de-toilette-50ml",
+      "images": {
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.97,
+          "product_share_of_source": 0.51,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3605520386442/diesel-fuel-for-life-homme-eau-de-toilette-50ml-with-box.jpg",
+          "path": "images/3605520386442/diesel-fuel-for-life-homme-eau-de-toilette-50ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3605520386442"
+      ]
+    },
+    {
+      "barcode": "3614273924443",
+      "slug": "diesel-d-red-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.75,
+          "product_share_of_source": 0.34,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614273924443/diesel-d-red-eau-de-parfum-50ml.jpg",
+          "path": "images/3614273924443/diesel-d-red-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.6,
+          "product_share_of_source": 0.68,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614273924443/diesel-d-red-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/3614273924443/diesel-d-red-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3607347462583",
+      "slug": "davidoff-cool-water-woman-sea-rose-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.97,
+          "product_share_of_source": 0.34,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607347462583/davidoff-cool-water-woman-sea-rose-eau-de-toilette-100ml.jpg",
+          "path": "images/3607347462583/davidoff-cool-water-woman-sea-rose-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.04,
+          "product_share_of_source": 0.77,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607347462583/davidoff-cool-water-woman-sea-rose-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3607347462583/davidoff-cool-water-woman-sea-rose-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616302038794",
+      "slug": "davidoff-cool-water-reborn-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.87,
+          "product_share_of_source": 0.4,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302038794/davidoff-cool-water-reborn-eau-de-toilette-75ml.jpg",
+          "path": "images/3616302038794/davidoff-cool-water-reborn-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.87,
+          "product_share_of_source": 0.43,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302038794/davidoff-cool-water-reborn-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3616302038794/davidoff-cool-water-reborn-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616306130777",
+      "slug": "davidoff-cool-elixir-parfum-intense-50ml-gift-set-with-75ml-hair-body-wash",
+      "images": {
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.94,
+          "product_share_of_source": 0.41,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616306130777/davidoff-cool-elixir-parfum-intense-50ml-gift-set-with-75ml-hair-body-wash-with-box.jpg",
+          "path": "images/3616306130777/davidoff-cool-elixir-parfum-intense-50ml-gift-set-with-75ml-hair-body-wash-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3616306130777"
+      ]
+    },
+    {
+      "barcode": "0020714156893",
+      "slug": "clinique-happy-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "900x900",
+          "method": "white-background cut-out",
+          "upscale": 2.61,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714156893/clinique-happy-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0020714156893/clinique-happy-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0020714156893"
+      ]
+    },
+    {
+      "barcode": "0020714170479",
+      "slug": "clinique-happy-heart-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 10.65,
+          "product_share_of_source": 0.08,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714170479/clinique-happy-heart-eau-de-parfum-50ml.jpg",
+          "path": "images/0020714170479/clinique-happy-heart-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.49,
+          "product_share_of_source": 0.42,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714170479/clinique-happy-heart-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/0020714170479/clinique-happy-heart-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616303806101",
+      "slug": "davidoff-cool-water-woman-eau-de-toilette-30ml-gift-set-with-75ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.47,
+          "product_share_of_source": 0.66,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303806101/davidoff-cool-water-woman-eau-de-toilette-30ml-gift-set-with-75ml-body-lotion-with-box.jpg",
+          "path": "images/3616303806101/davidoff-cool-water-woman-eau-de-toilette-30ml-gift-set-with-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3616303806101"
+      ]
+    },
+    {
+      "barcode": "3414202000664",
+      "slug": "davidoff-cool-water-aftershave-lotion-125ml",
+      "images": {
+        "main": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.47,
+          "product_share_of_source": 0.39,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3414202000664/davidoff-cool-water-aftershave-lotion-125ml.jpg",
+          "path": "images/3414202000664/davidoff-cool-water-aftershave-lotion-125ml.jpg"
+        },
+        "box": {
+          "source_px": "713x713",
+          "method": "white-background cut-out",
+          "upscale": 2.39,
+          "product_share_of_source": 0.85,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3414202000664/davidoff-cool-water-aftershave-lotion-125ml-with-box.jpg",
+          "path": "images/3414202000664/davidoff-cool-water-aftershave-lotion-125ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0020714080310",
+      "slug": "clinique-happy-for-men-cologne-spray-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.87,
+          "product_share_of_source": 0.37,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714080310/clinique-happy-for-men-cologne-spray-100ml.jpg",
+          "path": "images/0020714080310/clinique-happy-for-men-cologne-spray-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.51,
+          "product_share_of_source": 0.5,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714080310/clinique-happy-for-men-cologne-spray-100ml-with-box.jpg",
+          "path": "images/0020714080310/clinique-happy-for-men-cologne-spray-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0020714711740",
+      "slug": "clinique-aromatics-in-white-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.13,
+          "product_share_of_source": 0.56,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714711740/clinique-aromatics-in-white-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0020714711740/clinique-aromatics-in-white-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0020714711740"
+      ]
+    },
+    {
+      "barcode": "0020714769987",
+      "slug": "clinique-aromatics-in-black-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1600x1600",
+          "method": "transparent source",
+          "upscale": 1.27,
+          "product_share_of_source": 0.2,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714769987/clinique-aromatics-in-black-eau-de-parfum-100ml.jpg",
+          "path": "images/0020714769987/clinique-aromatics-in-black-eau-de-parfum-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0020714769987"
+      ]
+    },
+    {
+      "barcode": "3614223379897",
+      "slug": "davidoff-cool-water-wave-eau-de-toilette-40ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 2.0,
+          "product_share_of_source": 0.18,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614223379897/davidoff-cool-water-wave-eau-de-toilette-40ml.jpg",
+          "path": "images/3614223379897/davidoff-cool-water-wave-eau-de-toilette-40ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.33,
+          "product_share_of_source": 0.75,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614223379897/davidoff-cool-water-wave-eau-de-toilette-40ml-with-box.jpg",
+          "path": "images/3614223379897/davidoff-cool-water-wave-eau-de-toilette-40ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640233340097",
+      "slug": "elie-saab-le-parfum-royal-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.9,
+          "product_share_of_source": 0.59,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340097/elie-saab-le-parfum-royal-eau-de-parfum-90ml.jpg",
+          "path": "images/7640233340097/elie-saab-le-parfum-royal-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.07,
+          "product_share_of_source": 0.58,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233340097/elie-saab-le-parfum-royal-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/7640233340097/elie-saab-le-parfum-royal-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085715807595",
+      "slug": "dunhill-mongolian-cashmere-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.21,
+          "product_share_of_source": 0.38,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715807595/dunhill-mongolian-cashmere-eau-de-parfum-100ml.jpg",
+          "path": "images/0085715807595/dunhill-mongolian-cashmere-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.05,
+          "product_share_of_source": 0.73,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715807595/dunhill-mongolian-cashmere-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0085715807595/dunhill-mongolian-cashmere-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0719346450409",
+      "slug": "elizabeth-taylor-diamonds-sapphires-eau-de-toilette-100ml",
+      "images": {
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 3.99,
+          "product_share_of_source": 0.18,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346450409/elizabeth-taylor-diamonds-sapphires-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/0719346450409/elizabeth-taylor-diamonds-sapphires-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0719346450409"
+      ]
+    },
+    {
+      "barcode": "7640233342466",
+      "slug": "elie-saab-girl-of-now-rose-petal-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.61,
+          "product_share_of_source": 0.13,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233342466/elie-saab-girl-of-now-rose-petal-eau-de-parfum-90ml.jpg",
+          "path": "images/7640233342466/elie-saab-girl-of-now-rose-petal-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.87,
+          "product_share_of_source": 0.65,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233342466/elie-saab-girl-of-now-rose-petal-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/7640233342466/elie-saab-girl-of-now-rose-petal-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0719346022705",
+      "slug": "elizabeth-taylor-white-diamonds-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "549x824",
+          "method": "white-background cut-out",
+          "upscale": 6.19,
+          "product_share_of_source": 0.04,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346022705/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml.jpg",
+          "path": "images/0719346022705/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "549x824",
+          "method": "white-background cut-out",
+          "upscale": 3.12,
+          "product_share_of_source": 0.41,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346022705/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/0719346022705/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423473997658",
+      "slug": "elie-saab-le-parfum-in-white-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.77,
+          "product_share_of_source": 0.15,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml.jpg",
+          "path": "images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.94,
+          "product_share_of_source": 0.65,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085715676733",
+      "slug": "fcuk-him-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.55,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715676733/fcuk-him-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect-with-box.jpg",
+          "path": "images/0085715676733/fcuk-him-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0085715676733"
+      ]
+    },
+    {
+      "barcode": "7640233342565",
+      "slug": "elie-saab-lhomme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 6.3,
+          "product_share_of_source": 0.31,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233342565/elie-saab-lhomme-eau-de-parfum-100ml.jpg",
+          "path": "images/7640233342565/elie-saab-lhomme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.43,
+          "product_share_of_source": 0.64,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233342565/elie-saab-lhomme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640233342565/elie-saab-lhomme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0719346158046",
+      "slug": "elizabeth-taylor-violet-eyes-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 8.04,
+          "product_share_of_source": 0.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0719346158046/elizabeth-taylor-violet-eyes-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0719346158046/elizabeth-taylor-violet-eyes-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0719346158046",
+        "box: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "0020714052959",
+      "slug": "clinique-happy-eau-de-parfum-50ml",
+      "images": {
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.94,
+          "product_share_of_source": 0.35,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0020714052959/clinique-happy-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/0020714052959/clinique-happy-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0020714052959"
+      ]
+    },
+    {
+      "barcode": "0085715807748",
+      "slug": "dunhill-driven-eau-de-toilette-60ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.49,
+          "product_share_of_source": 0.27,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715807748/dunhill-driven-eau-de-toilette-60ml.jpg",
+          "path": "images/0085715807748/dunhill-driven-eau-de-toilette-60ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.21,
+          "product_share_of_source": 0.33,
+          "source_file": "BOX.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715807748/dunhill-driven-eau-de-toilette-60ml-with-box.jpg",
+          "path": "images/0085715807748/dunhill-driven-eau-de-toilette-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0085715676726",
+      "slug": "fcuk-her-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect",
+      "images": {
+        "box": {
+          "source_px": "800x533",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.55,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715676726/fcuk-her-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect-with-box.jpg",
+          "path": "images/0085715676726/fcuk-her-eau-de-toilette-3-x-25ml-gift-set-original-friction-connect-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0085715676726"
+      ]
+    },
+    {
+      "barcode": "7640233341070",
+      "slug": "elie-saab-girl-of-now-lovely-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "720x960",
+          "method": "white-background cut-out",
+          "upscale": 4.95,
+          "product_share_of_source": 0.11,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233341070/elie-saab-girl-of-now-lovely-eau-de-parfum-90ml.jpg",
+          "path": "images/7640233341070/elie-saab-girl-of-now-lovely-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1600",
+          "method": "white-background cut-out",
+          "upscale": 1.52,
+          "product_share_of_source": 0.36,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640233341070/elie-saab-girl-of-now-lovely-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/7640233341070/elie-saab-girl-of-now-lovely-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5050456522781",
+      "slug": "cerruti-1881-eau-de-toilette-200ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 5.47,
+          "product_share_of_source": 0.15,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456522781/cerruti-1881-eau-de-toilette-200ml.jpg",
+          "path": "images/5050456522781/cerruti-1881-eau-de-toilette-200ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.04,
+          "product_share_of_source": 0.58,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456522781/cerruti-1881-eau-de-toilette-200ml-with-box.jpg",
+          "path": "images/5050456522781/cerruti-1881-eau-de-toilette-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3516641842321",
+      "slug": "franck-olivier-bella-in-paris-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 5.27,
+          "product_share_of_source": 0.09,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516641842321/franck-olivier-bella-in-paris-eau-de-parfum-75ml.jpg",
+          "path": "images/3516641842321/franck-olivier-bella-in-paris-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.76,
+          "product_share_of_source": 0.64,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516641842321/franck-olivier-bella-in-paris-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/3516641842321/franck-olivier-bella-in-paris-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3516642127120",
+      "slug": "franck-olivier-eau-de-passion-men-eau-de-toilette-75ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.87,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516642127120/franck-olivier-eau-de-passion-men-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3516642127120/franck-olivier-eau-de-passion-men-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3516642127120"
+      ]
+    },
+    {
+      "barcode": "3516642044328",
+      "slug": "franck-olivier-giorgia-eau-de-parfum-75ml",
+      "images": {
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.59,
+          "product_share_of_source": 0.68,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516642044328/franck-olivier-giorgia-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/3516642044328/franck-olivier-giorgia-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3516642044328"
+      ]
+    },
+    {
+      "barcode": "3516641926328",
+      "slug": "franck-olivier-one-kiss-eau-de-parfum-75ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.0,
+          "product_share_of_source": 0.39,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516641926328/franck-olivier-one-kiss-eau-de-parfum-75ml.jpg",
+          "path": "images/3516641926328/franck-olivier-one-kiss-eau-de-parfum-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.76,
+          "product_share_of_source": 0.69,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516641926328/franck-olivier-one-kiss-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/3516641926328/franck-olivier-one-kiss-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3516642117312",
+      "slug": "franck-olivier-white-touch-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.8,
+          "product_share_of_source": 0.56,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3516642117312/franck-olivier-white-touch-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3516642117312/franck-olivier-white-touch-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3516642117312"
+      ]
+    },
+    {
+      "barcode": "6291107015941",
+      "slug": "gulf-orchid-silver-absolute-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "730x746",
+          "method": "white-background cut-out",
+          "upscale": 8.54,
+          "product_share_of_source": 0.05,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291107015941/gulf-orchid-silver-absolute-eau-de-parfum-100ml.jpg",
+          "path": "images/6291107015941/gulf-orchid-silver-absolute-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "729x740",
+          "method": "white-background cut-out",
+          "upscale": 2.43,
+          "product_share_of_source": 0.76,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291107015941/gulf-orchid-silver-absolute-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6291107015941/gulf-orchid-silver-absolute-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290362163091",
+      "slug": "gulf-orchid-smoky-vanilla-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "689x668",
+          "method": "white-background cut-out",
+          "upscale": 2.65,
+          "product_share_of_source": 0.44,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362163091/gulf-orchid-smoky-vanilla-eau-de-parfum-100ml.jpg",
+          "path": "images/6290362163091/gulf-orchid-smoky-vanilla-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "746x676",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362163091/gulf-orchid-smoky-vanilla-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290362163091/gulf-orchid-smoky-vanilla-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222092924",
+      "slug": "issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-50ml-hand-cream",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.87,
+          "product_share_of_source": 0.7,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092924/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-50ml-hand-cream-with-box.jpg",
+          "path": "images/3423222092924/issey-miyake-a-drop-dissey-eau-de-parfum-50ml-gift-set-with-50ml-hand-cream-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423222092924"
+      ]
+    },
+    {
+      "barcode": "3423222010492",
+      "slug": "issey-miyake-fusion-dissey-igo-eau-de-toilette-80ml-with-20ml-travel-spray",
+      "images": {
+        "main": {
+          "source_px": "549x824",
+          "method": "white-background cut-out",
+          "upscale": 3.26,
+          "product_share_of_source": 0.26,
+          "source_file": "MAIN.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222010492/issey-miyake-fusion-dissey-igo-eau-de-toilette-80ml-with-20ml-travel-spray.jpg",
+          "path": "images/3423222010492/issey-miyake-fusion-dissey-igo-eau-de-toilette-80ml-with-20ml-travel-spray.jpg"
+        },
+        "box": {
+          "source_px": "1000x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.89,
+          "product_share_of_source": 0.46,
+          "source_file": "BOX.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222010492/issey-miyake-fusion-dissey-igo-eau-de-toilette-80ml-with-20ml-travel-spray-with-box.jpg",
+          "path": "images/3423222010492/issey-miyake-fusion-dissey-igo-eau-de-toilette-80ml-with-20ml-travel-spray-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222048013",
+      "slug": "issey-miyake-leau-dissey-eau-magnolia-eau-de-toilette-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 9.2,
+          "product_share_of_source": 0.03,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222048013/issey-miyake-leau-dissey-eau-magnolia-eau-de-toilette-intense-50ml.jpg",
+          "path": "images/3423222048013/issey-miyake-leau-dissey-eau-magnolia-eau-de-toilette-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.59,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222048013/issey-miyake-leau-dissey-eau-magnolia-eau-de-toilette-intense-50ml-with-box.jpg",
+          "path": "images/3423222048013/issey-miyake-leau-dissey-eau-magnolia-eau-de-toilette-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    }
+  ]
+}
