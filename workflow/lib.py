@@ -52,6 +52,7 @@ BRAND_COL = {
     "Diesel": "669728801108", "Dunhill": "669726605652",
     "Elizabeth Taylor": "738357444948", "FCUK": "669685678420",
     "Franck Olivier": "669610639700",
+    "Jaguar": "669659005268", "Jennifer Lopez": "711281049940", "Karl Lagerfeld": "711359234388",
 }
 
 # ---- taxonomy + Google product category ----
