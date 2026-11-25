@@ -1,0 +1,734 @@
+{
+  "job_id": "2026-11-25-b3-photos",
+  "items": [
+    {
+      "barcode": "3423222118341",
+      "slug": "issey-miyake-leau-dissey-eau-de-parfum-intense-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.35,
+          "product_share_of_source": 0.21,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222118341/issey-miyake-leau-dissey-eau-de-parfum-intense-100ml.jpg",
+          "path": "images/3423222118341/issey-miyake-leau-dissey-eau-de-parfum-intense-100ml.jpg"
+        },
+        "box": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 4.23,
+          "product_share_of_source": 0.07,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222118341/issey-miyake-leau-dissey-eau-de-parfum-intense-100ml-with-box.jpg",
+          "path": "images/3423222118341/issey-miyake-leau-dissey-eau-de-parfum-intense-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222048037",
+      "slug": "issey-miyake-leau-dissey-pour-homme-eau-cedre-eau-de-toilette-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 5.65,
+          "product_share_of_source": 0.15,
+          "source_file": "main.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222048037/issey-miyake-leau-dissey-pour-homme-eau-cedre-eau-de-toilette-intense-50ml.jpg",
+          "path": "images/3423222048037/issey-miyake-leau-dissey-pour-homme-eau-cedre-eau-de-toilette-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.83,
+          "product_share_of_source": 0.65,
+          "source_file": "box.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222048037/issey-miyake-leau-dissey-pour-homme-eau-cedre-eau-de-toilette-intense-50ml-with-box.jpg",
+          "path": "images/3423222048037/issey-miyake-leau-dissey-pour-homme-eau-cedre-eau-de-toilette-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423470311358",
+      "slug": "issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.25,
+          "product_share_of_source": 0.36,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423470311358/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml.jpg",
+          "path": "images/3423470311358/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.35,
+          "product_share_of_source": 0.75,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423470311358/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3423470311358/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222106201",
+      "slug": "issey-miyake-leau-dissey-pour-homme-solar-lavender-eau-de-toilette-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 5.09,
+          "product_share_of_source": 0.29,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222106201/issey-miyake-leau-dissey-pour-homme-solar-lavender-eau-de-toilette-intense-50ml.jpg",
+          "path": "images/3423222106201/issey-miyake-leau-dissey-pour-homme-solar-lavender-eau-de-toilette-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.7,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222106201/issey-miyake-leau-dissey-pour-homme-solar-lavender-eau-de-toilette-intense-50ml-with-box.jpg",
+          "path": "images/3423222106201/issey-miyake-leau-dissey-pour-homme-solar-lavender-eau-de-toilette-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423474867059",
+      "slug": "issey-miyake-leau-dissey-pour-homme-sport-eau-de-toilette-50ml",
+      "images": {
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.7,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423474867059/issey-miyake-leau-dissey-pour-homme-sport-eau-de-toilette-50ml-with-box.jpg",
+          "path": "images/3423474867059/issey-miyake-leau-dissey-pour-homme-sport-eau-de-toilette-50ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423474867059"
+      ]
+    },
+    {
+      "barcode": "3423478753754",
+      "slug": "issey-miyake-leau-dissey-pure-petale-de-nectar-eau-de-toilette-50ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.11,
+          "product_share_of_source": 0.22,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478753754/issey-miyake-leau-dissey-pure-petale-de-nectar-eau-de-toilette-50ml.jpg",
+          "path": "images/3423478753754/issey-miyake-leau-dissey-pure-petale-de-nectar-eau-de-toilette-50ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.13,
+          "product_share_of_source": 0.75,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478753754/issey-miyake-leau-dissey-pure-petale-de-nectar-eau-de-toilette-50ml-with-box.jpg",
+          "path": "images/3423478753754/issey-miyake-leau-dissey-pure-petale-de-nectar-eau-de-toilette-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423478515857",
+      "slug": "issey-miyake-leau-dissey-rose-rose-eau-de-parfum-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.07,
+          "product_share_of_source": 0.18,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478515857/issey-miyake-leau-dissey-rose-rose-eau-de-parfum-intense-50ml.jpg",
+          "path": "images/3423478515857/issey-miyake-leau-dissey-rose-rose-eau-de-parfum-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 3.01,
+          "product_share_of_source": 0.56,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478515857/issey-miyake-leau-dissey-rose-rose-eau-de-parfum-intense-50ml-with-box.jpg",
+          "path": "images/3423478515857/issey-miyake-leau-dissey-rose-rose-eau-de-parfum-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222105860",
+      "slug": "issey-miyake-leau-dissey-solar-violet-eau-de-toilette-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.66,
+          "product_share_of_source": 0.18,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222105860/issey-miyake-leau-dissey-solar-violet-eau-de-toilette-intense-50ml.jpg",
+          "path": "images/3423222105860/issey-miyake-leau-dissey-solar-violet-eau-de-toilette-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.57,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222105860/issey-miyake-leau-dissey-solar-violet-eau-de-toilette-intense-50ml-with-box.jpg",
+          "path": "images/3423222105860/issey-miyake-leau-dissey-solar-violet-eau-de-toilette-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222090715",
+      "slug": "issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 9.52,
+          "product_share_of_source": 0.14,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222090715/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml.jpg",
+          "path": "images/3423222090715/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.73,
+          "product_share_of_source": 0.64,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222090715/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-with-box.jpg",
+          "path": "images/3423222090715/issey-miyake-leau-dissey-pour-homme-vetiver-eau-de-toilette-intense-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423474889259",
+      "slug": "issey-miyake-nuit-dissey-bleu-astral-eau-de-toilette-125ml",
+      "images": {
+        "main": {
+          "source_px": "385x800",
+          "method": "transparent source",
+          "upscale": 2.37,
+          "product_share_of_source": 0.69,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423474889259/issey-miyake-nuit-dissey-bleu-astral-eau-de-toilette-125ml.jpg",
+          "path": "images/3423474889259/issey-miyake-nuit-dissey-bleu-astral-eau-de-toilette-125ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.68,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423474889259/issey-miyake-nuit-dissey-bleu-astral-eau-de-toilette-125ml-with-box.jpg",
+          "path": "images/3423474889259/issey-miyake-nuit-dissey-bleu-astral-eau-de-toilette-125ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640171194455",
+      "slug": "jaguar-era-reloaded-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.36,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171194455/jaguar-era-reloaded-eau-de-parfum-100ml.jpg",
+          "path": "images/7640171194455/jaguar-era-reloaded-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.69,
+          "product_share_of_source": 0.8,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171194455/jaguar-era-reloaded-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640171194455/jaguar-era-reloaded-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640171193069",
+      "slug": "jaguar-ultimate-power-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.53,
+          "product_share_of_source": 0.35,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171193069/jaguar-ultimate-power-eau-de-toilette-100ml.jpg",
+          "path": "images/7640171193069/jaguar-ultimate-power-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.18,
+          "product_share_of_source": 0.52,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171193069/jaguar-ultimate-power-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/7640171193069/jaguar-ultimate-power-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5050456110018",
+      "slug": "jennifer-lopez-miami-glow-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.64,
+          "product_share_of_source": 0.24,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456110018/jennifer-lopez-miami-glow-eau-de-toilette-100ml.jpg",
+          "path": "images/5050456110018/jennifer-lopez-miami-glow-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.41,
+          "product_share_of_source": 0.53,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5050456110018/jennifer-lopez-miami-glow-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/5050456110018/jennifer-lopez-miami-glow-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460073868",
+      "slug": "jimmy-choo-leau-eau-de-toilette-90ml",
+      "images": {
+        "main": {
+          "source_px": "488x488",
+          "method": "white-background cut-out",
+          "upscale": 3.59,
+          "product_share_of_source": 0.48,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460073868/jimmy-choo-leau-eau-de-toilette-90ml.jpg",
+          "path": "images/3386460073868/jimmy-choo-leau-eau-de-toilette-90ml.jpg"
+        },
+        "box": {
+          "source_px": "600x576",
+          "method": "white-background cut-out",
+          "upscale": 4.23,
+          "product_share_of_source": 0.32,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460073868/jimmy-choo-leau-eau-de-toilette-90ml-with-box.jpg",
+          "path": "images/3386460073868/jimmy-choo-leau-eau-de-toilette-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460136549",
+      "slug": "jimmy-choo-rose-passion-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.17,
+          "product_share_of_source": 0.55,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460136549/jimmy-choo-rose-passion-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460136549/jimmy-choo-rose-passion-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "900x756",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.77,
+          "product_share_of_source": 0.94,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460136549/jimmy-choo-rose-passion-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460136549/jimmy-choo-rose-passion-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460109369",
+      "slug": "jimmy-choo-urban-hero-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.3,
+          "product_share_of_source": 0.45,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460109369/jimmy-choo-urban-hero-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460109369/jimmy-choo-urban-hero-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.03,
+          "product_share_of_source": 0.57,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460109369/jimmy-choo-urban-hero-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460109369/jimmy-choo-urban-hero-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460124867",
+      "slug": "karl-lagerfeld-bois-dambre-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "296x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460124867/karl-lagerfeld-bois-dambre-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460124867/karl-lagerfeld-bois-dambre-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "634x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.62,
+          "product_share_of_source": 0.34,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460124867/karl-lagerfeld-bois-dambre-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460124867/karl-lagerfeld-bois-dambre-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460133869",
+      "slug": "karl-lagerfeld-bois-de-cypres-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 6.91,
+          "product_share_of_source": 0.15,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460133869/karl-lagerfeld-bois-de-cypres-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460133869/karl-lagerfeld-bois-de-cypres-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.75,
+          "product_share_of_source": 0.24,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460133869/karl-lagerfeld-bois-de-cypres-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460133869/karl-lagerfeld-bois-de-cypres-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460087261",
+      "slug": "karl-lagerfeld-bois-de-vetiver-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 4.51,
+          "product_share_of_source": 0.13,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460087261/karl-lagerfeld-bois-de-vetiver-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460087261/karl-lagerfeld-bois-de-vetiver-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.96,
+          "product_share_of_source": 0.64,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460087261/karl-lagerfeld-bois-de-vetiver-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460087261/karl-lagerfeld-bois-de-vetiver-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460094542",
+      "slug": "karl-lagerfeld-classic-aftershave-lotion-100ml",
+      "images": {
+        "main": {
+          "source_px": "401x1023",
+          "method": "white-background cut-out",
+          "upscale": 1.9,
+          "product_share_of_source": 0.6,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460094542/karl-lagerfeld-classic-aftershave-lotion-100ml.jpg",
+          "path": "images/3386460094542/karl-lagerfeld-classic-aftershave-lotion-100ml.jpg"
+        },
+        "box": {
+          "source_px": "620x800",
+          "method": "transparent source",
+          "upscale": 2.32,
+          "product_share_of_source": 0.73,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460094542/karl-lagerfeld-classic-aftershave-lotion-100ml-with-box.jpg",
+          "path": "images/3386460094542/karl-lagerfeld-classic-aftershave-lotion-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460161565",
+      "slug": "karl-lagerfeld-fleur-diris-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 5.2,
+          "product_share_of_source": 0.19,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460161565/karl-lagerfeld-fleur-diris-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460161565/karl-lagerfeld-fleur-diris-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.56,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460161565/karl-lagerfeld-fleur-diris-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460161565/karl-lagerfeld-fleur-diris-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460133814",
+      "slug": "karl-lagerfeld-fleur-de-pivoine-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.35,
+          "product_share_of_source": 0.37,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460133814/karl-lagerfeld-fleur-de-pivoine-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460133814/karl-lagerfeld-fleur-de-pivoine-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.93,
+          "product_share_of_source": 0.69,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460133814/karl-lagerfeld-fleur-de-pivoine-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460133814/karl-lagerfeld-fleur-de-pivoine-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460059183",
+      "slug": "karl-lagerfeld-for-him-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.79,
+          "product_share_of_source": 0.5,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460059183/karl-lagerfeld-for-him-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460059183/karl-lagerfeld-for-him-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.69,
+          "product_share_of_source": 0.77,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460059183/karl-lagerfeld-for-him-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460059183/karl-lagerfeld-for-him-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460160193",
+      "slug": "karl-lagerfeld-jeans-urban-pink-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.91,
+          "product_share_of_source": 0.68,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460160193/karl-lagerfeld-jeans-urban-pink-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460160193/karl-lagerfeld-jeans-urban-pink-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3386460160193"
+      ]
+    },
+    {
+      "barcode": "3386460149822",
+      "slug": "karl-lagerfeld-ikonik-pour-femme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "374x960",
+          "method": "white-background cut-out",
+          "upscale": 1.8,
+          "product_share_of_source": 0.98,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149822/karl-lagerfeld-ikonik-pour-femme-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460149822/karl-lagerfeld-ikonik-pour-femme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "842x964",
+          "method": "white-background cut-out",
+          "upscale": 1.77,
+          "product_share_of_source": 0.99,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149822/karl-lagerfeld-ikonik-pour-femme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460149822/karl-lagerfeld-ikonik-pour-femme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460115551",
+      "slug": "karl-lagerfeld-karl-new-york-mercer-street-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.56,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460115551/karl-lagerfeld-karl-new-york-mercer-street-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460115551/karl-lagerfeld-karl-new-york-mercer-street-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.99,
+          "product_share_of_source": 0.64,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460115551/karl-lagerfeld-karl-new-york-mercer-street-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460115551/karl-lagerfeld-karl-new-york-mercer-street-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460130011",
+      "slug": "karl-lagerfeld-karl-rome-divino-amore-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 13.49,
+          "product_share_of_source": 0.04,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460130011/karl-lagerfeld-karl-rome-divino-amore-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460130011/karl-lagerfeld-karl-rome-divino-amore-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 4.82,
+          "product_share_of_source": 0.15,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460130011/karl-lagerfeld-karl-rome-divino-amore-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460130011/karl-lagerfeld-karl-rome-divino-amore-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3274872472891",
+      "slug": "kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.39,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-with-box.jpg",
+          "path": "images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3274872472891"
+      ]
+    },
+    {
+      "barcode": "3274872423398",
+      "slug": "kenzo-homme-eau-de-parfum-110ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.2,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872423398/kenzo-homme-eau-de-parfum-110ml.jpg",
+          "path": "images/3274872423398/kenzo-homme-eau-de-parfum-110ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.18,
+          "product_share_of_source": 0.52,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872423398/kenzo-homme-eau-de-parfum-110ml-with-box.jpg",
+          "path": "images/3274872423398/kenzo-homme-eau-de-parfum-110ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3274872421554",
+      "slug": "kenzo-homme-eau-de-toilette-intense-110ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 4.09,
+          "product_share_of_source": 0.12,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872421554/kenzo-homme-eau-de-toilette-intense-110ml.jpg",
+          "path": "images/3274872421554/kenzo-homme-eau-de-toilette-intense-110ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 3.76,
+          "product_share_of_source": 0.28,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872421554/kenzo-homme-eau-de-toilette-intense-110ml-with-box.jpg",
+          "path": "images/3274872421554/kenzo-homme-eau-de-toilette-intense-110ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
