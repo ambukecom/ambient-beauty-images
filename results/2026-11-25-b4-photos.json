@@ -1,0 +1,257 @@
+{
+  "job_id": "2026-11-25-b4-photos",
+  "items": [
+    {
+      "barcode": "0737052662664",
+      "slug": "lacoste-eau-de-lacoste-l1212-noir-intense-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.9,
+          "product_share_of_source": 0.74,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0737052662664/lacoste-eau-de-lacoste-l1212-noir-intense-eau-de-toilette-100ml.jpg",
+          "path": "images/0737052662664/lacoste-eau-de-lacoste-l1212-noir-intense-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.21,
+          "product_share_of_source": 0.49,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0737052662664/lacoste-eau-de-lacoste-l1212-noir-intense-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/0737052662664/lacoste-eau-de-lacoste-l1212-noir-intense-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614228228749",
+      "slug": "lacoste-eau-de-lacoste-l1212-pour-lui-french-panache-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.52,
+          "product_share_of_source": 0.56,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614228228749/lacoste-eau-de-lacoste-l1212-pour-lui-french-panache-eau-de-toilette-100ml.jpg",
+          "path": "images/3614228228749/lacoste-eau-de-lacoste-l1212-pour-lui-french-panache-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.66,
+          "product_share_of_source": 0.53,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614228228749/lacoste-eau-de-lacoste-l1212-pour-lui-french-panache-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3614228228749/lacoste-eau-de-lacoste-l1212-pour-lui-french-panache-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460149211",
+      "slug": "lacoste-l1212-rose-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.41,
+          "product_share_of_source": 0.64,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149211/lacoste-l1212-rose-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460149211/lacoste-l1212-rose-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 4.16,
+          "product_share_of_source": 0.6,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149211/lacoste-l1212-rose-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460149211/lacoste-l1212-rose-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460149969",
+      "slug": "lacoste-original-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.68,
+          "product_share_of_source": 0.45,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149969/lacoste-original-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460149969/lacoste-original-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1100x1100",
+          "method": "white-background cut-out",
+          "upscale": 1.67,
+          "product_share_of_source": 0.55,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460149969/lacoste-original-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460149969/lacoste-original-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640111501466",
+      "slug": "lalique-amethyst-eclat-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "375x500",
+          "method": "transparent source",
+          "upscale": 3.68,
+          "product_share_of_source": 0.4,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111501466/lalique-amethyst-eclat-eau-de-parfum-100ml.jpg",
+          "path": "images/7640111501466/lalique-amethyst-eclat-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.72,
+          "product_share_of_source": 0.75,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111501466/lalique-amethyst-eclat-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640111501466/lalique-amethyst-eclat-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640171199481",
+      "slug": "lalique-amethyst-exquise-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.81,
+          "product_share_of_source": 0.2,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171199481/lalique-amethyst-exquise-eau-de-parfum-100ml.jpg",
+          "path": "images/7640171199481/lalique-amethyst-exquise-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.72,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171199481/lalique-amethyst-exquise-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640171199481/lalique-amethyst-exquise-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640111500902",
+      "slug": "lalique-encre-noire-sport-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 4.39,
+          "product_share_of_source": 0.28,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111500902/lalique-encre-noire-sport-eau-de-toilette-100ml.jpg",
+          "path": "images/7640111500902/lalique-encre-noire-sport-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.42,
+          "product_share_of_source": 0.44,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111500902/lalique-encre-noire-sport-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/7640111500902/lalique-encre-noire-sport-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640111499060",
+      "slug": "lalique-lamour-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 3.36,
+          "product_share_of_source": 0.18,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111499060/lalique-lamour-eau-de-parfum-100ml.jpg",
+          "path": "images/7640111499060/lalique-lamour-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 2.69,
+          "product_share_of_source": 0.15,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640111499060/lalique-lamour-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640111499060/lalique-lamour-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3454960024021",
+      "slug": "lalique-white-eau-de-toilette-125ml",
+      "images": {
+        "main": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 6.77,
+          "product_share_of_source": 0.03,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960024021/lalique-white-eau-de-toilette-125ml.jpg",
+          "path": "images/3454960024021/lalique-white-eau-de-toilette-125ml.jpg"
+        },
+        "box": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 3.13,
+          "product_share_of_source": 0.08,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960024021/lalique-white-eau-de-toilette-125ml-with-box.jpg",
+          "path": "images/3454960024021/lalique-white-eau-de-toilette-125ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "3454960020917",
+      "slug": "lalique-le-parfum-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.79,
+          "product_share_of_source": 0.54,
+          "source_file": "main.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960020917/lalique-le-parfum-eau-de-parfum-100ml.jpg",
+          "path": "images/3454960020917/lalique-le-parfum-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.51,
+          "product_share_of_source": 0.52,
+          "source_file": "box.png",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960020917/lalique-le-parfum-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3454960020917/lalique-le-parfum-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
