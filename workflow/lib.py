@@ -26,6 +26,7 @@ COL = {
 }
 # Skincare / Makeup category collections: look up by title the first time and add here.
 BRAND_COL = {
+    "Mercedes-Benz": "710484001108",
     "Hamidi": "716111348052", "Lattafa": "667451425108", "Maison Alhambra": "668572057940",
     "Lacoste": "711869399380", "Jean Paul Gaultier": "669660512596", "L'Oréal": "668571271508",
     "Paco Rabanne": "715110711636", "Molton Brown": "670228054356", "Moschino": "711213711700",

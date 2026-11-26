@@ -1,0 +1,6 @@
+# 2026-11-26 batch 4 (18:10)
+Used the b4 rows planned by b3 (Daily Plan rows 316–325). All 10 re-checked: still in Fragrance Clean Variant with stock > 0, no Shopify duplicate by barcode or title (Daisy / Perfect / Mercedes / Benz / vendor searches).
+Drafts (worksheet rows 432–441): Marc Jacobs Daisy Eau So Fresh EDT 125ml, Perfect EDP 100ml, Perfect EDT 100ml, Perfect Intense EDP 30ml (base tier only – top/heart disagree); Mercedes-Benz Club EDT 100ml, Eau de Toilette 120ml, Intense EDT 120ml, Land EDP 100ml, Le Parfum EDP 120ml (needs-review: supplier says Splash, every EAN match says Spray – spray/splash left out, product-form/dispenser metafields omitted), Man EDT 100ml.
+Research via 2 subagents, 2+ sources each. All userErrors empty; status DRAFT verified; collections incl. Mercedes-Benz brand collection (710484001108, added to BRAND_COL in lib.py).
+Photos: only barcode-only folders are the 5 Issey Miyake ones processed in job 2026-11-25-b3 (unchanged since) → no new photo job.
+Left in Clean Variant tabs: Fragrance 67 rows (incl. these 10, which drop out once Website Stock syncs → 57); Skincare/Haircare/Makeup/Bath and Body empty. No plan exists for 27/11 yet (b1 tomorrow plans it).
