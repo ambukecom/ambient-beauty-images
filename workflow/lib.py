@@ -54,6 +54,7 @@ BRAND_COL = {
     "Franck Olivier": "669610639700",
     "Jaguar": "669659005268", "Jennifer Lopez": "711281049940", "Karl Lagerfeld": "711359234388",
     "Kenzo": "711403929940", "Lalique": "712025145684",
+    "Lamborghini": "712126529876", "Lancôme": "714165715284", "Ralph Lauren": "636871410004",
 }
 
 # ---- taxonomy + Google product category ----
