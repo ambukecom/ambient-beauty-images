@@ -1,0 +1,30 @@
+6290361915912|Arabiyat Prestige|Arabiyat Prestige Nyla Sherbet Eau de Parfum 80ml|Eau de Parfum|80|Women|26.99|34.99|5
+6294015149371|Armaf|Armaf Odyssey Mandarin Sky Eau de Parfum 100ml|Eau de Parfum|100|Men|26.99|36.99|3
+6294015138290|Armaf|Armaf Tres Nuit Lyric Pour Homme Eau de Parfum 100ml|Eau de Parfum|100|Men|32.99|41.99|5
+6298042001909|French Avenue|French Avenue Ravine Ice Extrait de Parfum 100ml|Eau de Parfum|100|Unisex|37.49|47.99|4
+6298042001527|French Avenue|French Avenue x Aromatix Magnetiq Extrait de Parfum 100ml|Parfum|100|Unisex|39.99|52.99|2
+6290360379234|French Avenue|French Avenue X Aromatix Platinbe Blanc Extrait de Parfum 100ml|Eau de Parfum|100|Unisex|44.99|57.99|5
+6290360379227|French Avenue|French Avenue x Aromatix Royal Taboo Eau de Parfum 100ml|Eau de Parfum|100|Unisex|41.49|51.99|1
+6290360591551|Lattafa|Lattafa Perfumes Ajayeb Dubai Eau de Parfum 100ml|Eau de Parfum|100|Unisex|21.99|28.99|4
+6291108738696|Lattafa|Lattafa Perfumes Al Areeq Gold Eau de Parfum 100ml|Eau de Parfum|100|Unisex|27.99|36.99|1
+6290360591964|Lattafa|Lattafa Perfumes Art of Arabia II Eau de Parfum 100ml|Eau de Parfum|100|Unisex|32.49|44.99|1
+6290360599243|Maison Alhambra|Maison Alhambra Athena Eau de Parfum 100ml|Eau de Parfum|100|Women|27.49|36.99|2
+6290362343196|Maison Alhambra|Maison Alhambra Pacific Blue Eau de Parfum 100ml|Eau de Parfum|100|Unisex|29.49|38.99|1
+6291108736562|Maison Alhambra|Maison Alhambra Winsome Eau de Parfum 90ml|Eau de Parfum|90|Unisex|25.99|33.99|1
+3607349764289|Marc Jacobs|Marc Jacobs Daisy Dream Eau de Toilette 50ml|Eau de Toilette|50|Women|38.99|51.99|3
+3607342221208|Marc Jacobs|Marc Jacobs Daisy Eau So Fresh Eau de Toilette 125ml|Eau de Toilette|125|Women|63.99|83.99|5
+3614227086227|Marc Jacobs|Marc Jacobs Perfect Eau de Parfum 100ml|Eau de Parfum|100|Women|66.99|89.99|5
+3616303461881|Marc Jacobs|Marc Jacobs Perfect Eau de Toilette 100ml|Eau de Toilette|100|Women|49.49|66.99|5
+3616302025930|Marc Jacobs|Marc Jacobs Perfect Intense Eau de Parfum 30ml|Eau de Parfum|30|Women|35.99|46.99|5
+3595471041012|Mercedes-Benz|Mercedes-Benz Club Eau de Toilette 100ml|Eau de Toilette|100|Men|39.99|50.99|4
+3595471024718|Mercedes-Benz|Mercedes-Benz Eau de Toilette 120ml|Eau de Toilette|120|Men|39.99|53.99|4
+3595471024787|Mercedes-Benz|Mercedes-Benz Intense Eau de Toilette 120ml|Eau de Toilette|120|Men|39.99|50.99|4
+3595471026897|Mercedes-Benz|Mercedes-Benz Land Eau de Parfum 100ml|Eau de Parfum|100|Men|39.99|51.99|4
+3595471024800|Mercedes-Benz|Mercedes-Benz Le Parfum Eau de Parfum 120ml Splash|Eau de Parfum|120|Men|47.99|62.99|5
+3595471061010|Mercedes-Benz|Mercedes-Benz Man Eau de Toilette 100ml|Eau de Toilette|100|Men|39.99|53.99|3
+3595471061201|Mercedes-Benz|Mercedes-Benz Man Eau de Toilette 20ml|Eau de Toilette|20|Men|19.49|25.99|4
+3595471061096|Mercedes-Benz|Mercedes-Benz Man Private Eau de Parfum 100ml|Eau de Parfum|100|Men|39.99|51.99|5
+3595471026248|Mercedes-Benz|Mercedes-Benz Rose Eau de Toilette 90ml|Eau de Toilette|90|Women|36.99|47.99|1
+3595471081018|Mercedes-Benz|Mercedes-Benz Select Eau de Toilette 100ml|Eau de Toilette|100|Men|33.49|43.99|1
+3595471081032|Mercedes-Benz|Mercedes-Benz Select Night Eau de Parfum 100ml|Eau de Parfum|100|Men|39.99|50.99|2
+3595471111012|Mercedes-Benz|Mercedes-Benz Sign Eau de Parfum 100ml|Eau de Parfum|100|Men|39.99|53.99|5
