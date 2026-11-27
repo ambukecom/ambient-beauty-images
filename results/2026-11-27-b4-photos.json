@@ -1,0 +1,163 @@
+{
+  "job_id": "2026-11-27-b4-photos",
+  "items": [
+    {
+      "barcode": "3423222080952",
+      "slug": "narciso-rodriguez-all-of-me-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.21,
+          "product_share_of_source": 0.18,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222080952/narciso-rodriguez-all-of-me-eau-de-parfum-50ml.jpg",
+          "path": "images/3423222080952/narciso-rodriguez-all-of-me-eau-de-parfum-50ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3423222080952"
+      ]
+    },
+    {
+      "barcode": "3423222108373",
+      "slug": "narciso-rodriguez-all-of-me-eau-de-parfum-30ml-gift-set-with-50ml-body-lotion",
+      "images": {
+        "box": {
+          "source_px": "1248x1248",
+          "method": "white-background cut-out",
+          "upscale": 1.37,
+          "product_share_of_source": 0.57,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222108373/narciso-rodriguez-all-of-me-eau-de-parfum-30ml-gift-set-with-50ml-body-lotion-with-box.jpg",
+          "path": "images/3423222108373/narciso-rodriguez-all-of-me-eau-de-parfum-30ml-gift-set-with-50ml-body-lotion-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423222108373"
+      ]
+    },
+    {
+      "barcode": "3423222092528",
+      "slug": "narciso-rodriguez-all-of-me-eau-de-parfum-50ml-gift-set-with-50ml-body-lotion-and-50ml-shower-gel",
+      "images": {
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.47,
+          "product_share_of_source": 0.42,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222092528/narciso-rodriguez-all-of-me-eau-de-parfum-50ml-gift-set-with-50ml-body-lotion-and-50ml-shower-gel-with-box.jpg",
+          "path": "images/3423222092528/narciso-rodriguez-all-of-me-eau-de-parfum-50ml-gift-set-with-50ml-body-lotion-and-50ml-shower-gel-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3423222092528"
+      ]
+    },
+    {
+      "barcode": "3423478925557",
+      "slug": "narciso-rodriguez-for-her-eau-de-toilette-30ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.28,
+          "product_share_of_source": 0.35,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478925557/narciso-rodriguez-for-her-eau-de-toilette-30ml.jpg",
+          "path": "images/3423478925557/narciso-rodriguez-for-her-eau-de-toilette-30ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.64,
+          "product_share_of_source": 0.87,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423478925557/narciso-rodriguez-for-her-eau-de-toilette-30ml-with-box.jpg",
+          "path": "images/3423478925557/narciso-rodriguez-for-her-eau-de-toilette-30ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423222107611",
+      "slug": "narciso-rodriguez-for-her-musc-nude-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.83,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222107611/narciso-rodriguez-for-her-musc-nude-eau-de-parfum-50ml.jpg",
+          "path": "images/3423222107611/narciso-rodriguez-for-her-musc-nude-eau-de-parfum-50ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3423222107611"
+      ]
+    },
+    {
+      "barcode": "3423222107727",
+      "slug": "narciso-rodriguez-for-him-vetiver-musc-eau-de-toilette-50ml",
+      "images": {
+        "main": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 4.96,
+          "product_share_of_source": 0.21,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222107727/narciso-rodriguez-for-him-vetiver-musc-eau-de-toilette-50ml.jpg",
+          "path": "images/3423222107727/narciso-rodriguez-for-him-vetiver-musc-eau-de-toilette-50ml.jpg"
+        },
+        "box": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 4.2,
+          "product_share_of_source": 0.36,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423222107727/narciso-rodriguez-for-him-vetiver-musc-eau-de-toilette-50ml-with-box.jpg",
+          "path": "images/3423222107727/narciso-rodriguez-for-him-vetiver-musc-eau-de-toilette-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0608940583562",
+      "slug": "paris-hilton-love-rush-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 3.43,
+          "product_share_of_source": 0.12,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0608940583562/paris-hilton-love-rush-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0608940583562/paris-hilton-love-rush-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0608940583562"
+      ]
+    },
+    {
+      "barcode": "0608940575307",
+      "slug": "paris-hilton-platinum-rush-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.84,
+          "product_share_of_source": 0.72,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0608940575307/paris-hilton-platinum-rush-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/0608940575307/paris-hilton-platinum-rush-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0608940575307"
+      ]
+    }
+  ]
+}

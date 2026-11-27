@@ -1,0 +1,942 @@
+{
+  "job_id": "2026-11-27-b4-fixes",
+  "items": [
+    {
+      "barcode": "0085715163394",
+      "slug": "abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.48,
+          "product_share_of_source": 0.65,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash-fix20261127.jpg",
+          "path": "images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.33,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash-fix20261127-with-box.jpg",
+          "path": "images/0085715163394/abercrombie-fitch-first-instinct-eau-de-toilette-100ml-gift-set-with-200ml-body-wash-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0738678000991",
+      "slug": "american-crew-classic-daily-shampoo-450ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.92,
+          "product_share_of_source": 0.37,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678000991/american-crew-classic-daily-shampoo-450ml-fix20261127.jpg",
+          "path": "images/0738678000991/american-crew-classic-daily-shampoo-450ml-fix20261127.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0738678000991"
+      ]
+    },
+    {
+      "barcode": "0738678001042",
+      "slug": "american-crew-daily-moisturizing-conditioner-1000ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "768x1024",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.27,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0738678001042/american-crew-daily-moisturizing-conditioner-1000ml-fix20261127.jpg",
+          "path": "images/0738678001042/american-crew-daily-moisturizing-conditioner-1000ml-fix20261127.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 0738678001042"
+      ]
+    },
+    {
+      "barcode": "6290361915912",
+      "slug": "arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "484x800",
+          "method": "white-background cut-out",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-fix20261127.jpg",
+          "path": "images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x779",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.94,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-fix20261127-with-box.jpg",
+          "path": "images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6294015176100",
+      "slug": "armaf-eter-perfume-oasis-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.55,
+          "product_share_of_source": 0.39,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015176100/armaf-eter-perfume-oasis-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/6294015176100/armaf-eter-perfume-oasis-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 2.88,
+          "product_share_of_source": 0.86,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015176100/armaf-eter-perfume-oasis-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/6294015176100/armaf-eter-perfume-oasis-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "4051395412110",
+      "slug": "bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.75,
+          "product_share_of_source": 0.76,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/4051395412110/bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/4051395412110/bugatti-dynamic-move-midnight-sky-eau-de-parfum-100ml-fix20261127.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 4051395412110"
+      ]
+    },
+    {
+      "barcode": "9362014000140",
+      "slug": "bujairami-gladiator-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1445x1445",
+          "method": "white-background cut-out",
+          "upscale": 1.73,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "555x555",
+          "method": "white-background cut-out",
+          "upscale": 3.05,
+          "product_share_of_source": 0.79,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/9362014000140/bujairami-gladiator-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616304197420",
+      "slug": "davidoff-cool-water-eau-de-toilette-75ml-gift-set-with-70g-deodorant-stick-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 1.99,
+          "product_share_of_source": 0.66,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304197420/davidoff-cool-water-eau-de-toilette-75ml-gift-set-with-70g-deodorant-stick-fix20261127.jpg",
+          "path": "images/3616304197420/davidoff-cool-water-eau-de-toilette-75ml-gift-set-with-70g-deodorant-stick-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "445x318",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 5.88,
+          "product_share_of_source": 0.44,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616304197420/davidoff-cool-water-eau-de-toilette-75ml-gift-set-with-70g-deodorant-stick-fix20261127-with-box.jpg",
+          "path": "images/3616304197420/davidoff-cool-water-eau-de-toilette-75ml-gift-set-with-70g-deodorant-stick-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3423473997658",
+      "slug": "elie-saab-le-parfum-in-white-eau-de-parfum-90ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "446x800",
+          "method": "white-background cut-out",
+          "upscale": 3.42,
+          "product_share_of_source": 0.56,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-fix20261127.jpg",
+          "path": "images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x737",
+          "method": "white-background cut-out",
+          "upscale": 2.16,
+          "product_share_of_source": 0.44,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-fix20261127-with-box.jpg",
+          "path": "images/3423473997658/elie-saab-le-parfum-in-white-eau-de-parfum-90ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3454960007468",
+      "slug": "lalique-pour-homme-lion-eau-de-parfum-125ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 3.99,
+          "product_share_of_source": 0.13,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-fix20261127.jpg",
+          "path": "images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "520x520",
+          "method": "white-background cut-out",
+          "upscale": 3.03,
+          "product_share_of_source": 0.9,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-fix20261127-with-box.jpg",
+          "path": "images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0856857007101",
+      "slug": "lamborghini-invincibile-eau-de-toilette-125ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.95,
+          "product_share_of_source": 0.43,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-fix20261127.jpg",
+          "path": "images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "1200x1200",
+          "method": "white-background cut-out",
+          "upscale": 1.44,
+          "product_share_of_source": 0.6,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-fix20261127-with-box.jpg",
+          "path": "images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360591551",
+      "slug": "lattafa-ajayeb-dubai-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "2000x2000",
+          "method": "white-background cut-out",
+          "upscale": 1.11,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.74,
+          "product_share_of_source": 0.8,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360599243",
+      "slug": "maison-alhambra-athena-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "832x889",
+          "method": "white-background cut-out",
+          "upscale": 2.39,
+          "product_share_of_source": 0.59,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290362343196",
+      "slug": "maison-alhambra-pacific-blue-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "2046x2046",
+          "method": "white-background cut-out",
+          "upscale": 0.86,
+          "product_share_of_source": 0.39,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.97,
+          "product_share_of_source": 0.79,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3607349764289",
+      "slug": "marc-jacobs-daisy-dream-eau-de-toilette-50ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "406x800",
+          "method": "white-background cut-out",
+          "upscale": 3.77,
+          "product_share_of_source": 0.55,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-fix20261127.jpg",
+          "path": "images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x765",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.65,
+          "product_share_of_source": 0.38,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-fix20261127-with-box.jpg",
+          "path": "images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616302025930",
+      "slug": "marc-jacobs-perfect-intense-eau-de-parfum-30ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "456x800",
+          "method": "white-background cut-out",
+          "upscale": 2.4,
+          "product_share_of_source": 0.9,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml-fix20261127.jpg",
+          "path": "images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "783x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.99,
+          "product_share_of_source": 0.94,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml-fix20261127-with-box.jpg",
+          "path": "images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471041012",
+      "slug": "mercedes-benz-club-eau-de-toilette-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "277x800",
+          "method": "white-background cut-out",
+          "upscale": 2.88,
+          "product_share_of_source": 0.74,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-fix20261127.jpg",
+          "path": "images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "549x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.36,
+          "product_share_of_source": 0.79,
+          "source_file": "box (2).webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-fix20261127-with-box.jpg",
+          "path": "images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471061096",
+      "slug": "mercedes-benz-man-private-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "458x800",
+          "method": "white-background cut-out",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x743",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.74,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471023001",
+      "slug": "mercedes-benz-ultimate-eau-de-parfum-75ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "373x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.31,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-fix20261127.jpg",
+          "path": "images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "750x800",
+          "method": "white-background cut-out",
+          "upscale": 2.07,
+          "product_share_of_source": 0.91,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-fix20261127-with-box.jpg",
+          "path": "images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0850050174691",
+      "slug": "michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.22,
+          "product_share_of_source": 0.59,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-fix20261127.jpg",
+          "path": "images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "500x390",
+          "method": "white-background cut-out",
+          "upscale": 3.75,
+          "product_share_of_source": 0.53,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-fix20261127-with-box.jpg",
+          "path": "images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460167048",
+      "slug": "mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 2.83,
+          "product_share_of_source": 0.47,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-fix20261127.jpg",
+          "path": "images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "3000x3000",
+          "method": "white-background cut-out",
+          "upscale": 0.57,
+          "product_share_of_source": 0.52,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-fix20261127-with-box.jpg",
+          "path": "images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460139373",
+      "slug": "mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.88,
+          "product_share_of_source": 0.57,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-fix20261127.jpg",
+          "path": "images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.4,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-fix20261127-with-box.jpg",
+          "path": "images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0679602793643",
+      "slug": "police-to-be-camouflage-eau-de-toilette-75ml-gift-set-with-100ml-shower-gel-fix20261127",
+      "images": {
+        "box": {
+          "source_px": "569x329",
+          "method": "white-background cut-out",
+          "upscale": 2.97,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0679602793643/police-to-be-camouflage-eau-de-toilette-75ml-gift-set-with-100ml-shower-gel-fix20261127-with-box.jpg",
+          "path": "images/0679602793643/police-to-be-camouflage-eau-de-toilette-75ml-gift-set-with-100ml-shower-gel-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0679602793643"
+      ]
+    },
+    {
+      "barcode": "3360377022928",
+      "slug": "ralph-lauren-polo-blue-eau-de-toilette-125ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "434x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.34,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-fix20261127.jpg",
+          "path": "images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "775x800",
+          "method": "white-background cut-out",
+          "upscale": 2.01,
+          "product_share_of_source": 0.91,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-fix20261127-with-box.jpg",
+          "path": "images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060412678872",
+      "slug": "ted-baker-fusion-midnight-petal-body-hair-mist-200ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1280x1280",
+          "method": "white-background cut-out",
+          "upscale": 1.44,
+          "product_share_of_source": 0.23,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412678872/ted-baker-fusion-midnight-petal-body-hair-mist-200ml-fix20261127.jpg",
+          "path": "images/5060412678872/ted-baker-fusion-midnight-petal-body-hair-mist-200ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "2000x2000",
+          "method": "white-background cut-out",
+          "upscale": 1.17,
+          "product_share_of_source": 0.14,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060412678872/ted-baker-fusion-midnight-petal-body-hair-mist-200ml-fix20261127-with-box.jpg",
+          "path": "images/5060412678872/ted-baker-fusion-midnight-petal-body-hair-mist-200ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5060523017997",
+      "slug": "ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.13,
+          "product_share_of_source": 0.55,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-fix20261127.jpg",
+          "path": "images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 1.93,
+          "product_share_of_source": 0.48,
+          "source_file": "box.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-fix20261127-with-box.jpg",
+          "path": "images/5060523017997/ted-baker-kasia-eau-de-toilette-50ml-gift-set-with-70g-candle-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810101500060",
+      "slug": "ariana-grande-mod-blush-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "800x638",
+          "method": "white-background cut-out",
+          "upscale": 2.02,
+          "product_share_of_source": 0.9,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810101500060/ariana-grande-mod-blush-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/0810101500060/ariana-grande-mod-blush-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x510",
+          "method": "white-background cut-out",
+          "upscale": 2.06,
+          "product_share_of_source": 0.94,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810101500060/ariana-grande-mod-blush-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/0810101500060/ariana-grande-mod-blush-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3474636976058",
+      "slug": "loreal-professionnel-serie-expert-vitamino-color-mask-250ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "800x747",
+          "method": "white-background cut-out",
+          "upscale": 2.07,
+          "product_share_of_source": 0.67,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-fix20261127.jpg",
+          "path": "images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x741",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 1.99,
+          "product_share_of_source": 0.93,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-fix20261127-with-box.jpg",
+          "path": "images/3474636976058/loreal-professionnel-serie-expert-vitamino-color-mask-250ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "5030805002829",
+      "slug": "molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "296x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.31,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml-fix20261127.jpg",
+          "path": "images/5030805002829/molton-brown-mesmerising-oudh-accord-gold-bath-shower-gel-300ml-fix20261127.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 5030805002829"
+      ]
+    },
+    {
+      "barcode": "6298042001244",
+      "slug": "street-origins-berlin-rave-eau-de-parfum-75ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "435x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.32,
+          "product_share_of_source": 0.93,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-fix20261127.jpg",
+          "path": "images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "750x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.07,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-fix20261127-with-box.jpg",
+          "path": "images/6298042001244/street-origins-berlin-rave-eau-de-parfum-75ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085039978",
+      "slug": "surrati-miss-world-charisma-extrait-de-parfum-150ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "665x665",
+          "method": "white-background cut-out",
+          "upscale": 13.07,
+          "product_share_of_source": 0.03,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085039978/surrati-miss-world-charisma-extrait-de-parfum-150ml-fix20261127.jpg",
+          "path": "images/6281085039978/surrati-miss-world-charisma-extrait-de-parfum-150ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 3.21,
+          "product_share_of_source": 0.12,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085039978/surrati-miss-world-charisma-extrait-de-parfum-150ml-fix20261127-with-box.jpg",
+          "path": "images/6281085039978/surrati-miss-world-charisma-extrait-de-parfum-150ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "6290362348078",
+      "slug": "lattafa-pride-gift-set-collection-no2-eau-de-parfum-5-x-20ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "549x549",
+          "method": "white-background cut-out",
+          "upscale": 4.2,
+          "product_share_of_source": 0.38,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362348078/lattafa-pride-gift-set-collection-no2-eau-de-parfum-5-x-20ml-fix20261127.jpg",
+          "path": "images/6290362348078/lattafa-pride-gift-set-collection-no2-eau-de-parfum-5-x-20ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "549x549",
+          "method": "white-background cut-out",
+          "upscale": 3.28,
+          "product_share_of_source": 0.37,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362348078/lattafa-pride-gift-set-collection-no2-eau-de-parfum-5-x-20ml-fix20261127-with-box.jpg",
+          "path": "images/6290362348078/lattafa-pride-gift-set-collection-no2-eau-de-parfum-5-x-20ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614274797213",
+      "slug": "mugler-starlicious-berry-licorice-eau-de-toilette-75ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "180x800",
+          "method": "white-background cut-out",
+          "upscale": 8.69,
+          "product_share_of_source": 0.2,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-fix20261127.jpg",
+          "path": "images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "361x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.24,
+          "product_share_of_source": 0.96,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-fix20261127-with-box.jpg",
+          "path": "images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614274797244",
+      "slug": "mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "181x800",
+          "method": "white-background cut-out",
+          "upscale": 8.96,
+          "product_share_of_source": 0.19,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-fix20261127.jpg",
+          "path": "images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "360x800",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.34,
+          "product_share_of_source": 0.92,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-fix20261127-with-box.jpg",
+          "path": "images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3614274797220",
+      "slug": "mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "720x720",
+          "method": "white-background cut-out",
+          "upscale": 7.96,
+          "product_share_of_source": 0.06,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-fix20261127.jpg",
+          "path": "images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.59,
+          "product_share_of_source": 0.18,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-fix20261127-with-box.jpg",
+          "path": "images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "8411061044995",
+      "slug": "antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm-fix20261127",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.07,
+          "product_share_of_source": 0.53,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/8411061044995/antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm-fix20261127-with-box.jpg",
+          "path": "images/8411061044995/antonio-banderas-diavolo-for-men-eau-de-toilette-50ml-gift-set-with-75ml-aftershave-balm-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 8411061044995"
+      ]
+    },
+    {
+      "barcode": "3614274026511",
+      "slug": "cacharel-ella-ella-eau-de-parfum-100ml-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "398x800",
+          "method": "white-background cut-out",
+          "upscale": 2.35,
+          "product_share_of_source": 0.91,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-fix20261127.jpg",
+          "path": "images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "800x708",
+          "method": "white-background cut-out",
+          "upscale": 2.02,
+          "product_share_of_source": 0.85,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-fix20261127-with-box.jpg",
+          "path": "images/3614274026511/cacharel-ella-ella-eau-de-parfum-100ml-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3666057165580",
+      "slug": "clarins-ombre-skin-eyeshadow-04-matte-rosewood-1-5g-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1600x1600",
+          "method": "white-background cut-out",
+          "upscale": 0.98,
+          "product_share_of_source": 0.96,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3666057165580/clarins-ombre-skin-eyeshadow-04-matte-rosewood-1-5g-fix20261127.jpg",
+          "path": "images/3666057165580/clarins-ombre-skin-eyeshadow-04-matte-rosewood-1-5g-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "400x400",
+          "method": "white-background cut-out",
+          "upscale": 4.27,
+          "product_share_of_source": 0.86,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3666057165580/clarins-ombre-skin-eyeshadow-04-matte-rosewood-1-5g-fix20261127-with-box.jpg",
+          "path": "images/3666057165580/clarins-ombre-skin-eyeshadow-04-matte-rosewood-1-5g-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3274872472891",
+      "slug": "kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-fix20261127",
+      "images": {
+        "main": {
+          "source_px": "1425x1425",
+          "method": "white-background cut-out",
+          "upscale": 5.41,
+          "product_share_of_source": 0.03,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-fix20261127.jpg",
+          "path": "images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-fix20261127.jpg"
+        },
+        "box": {
+          "source_px": "640x640",
+          "method": "white-background cut-out",
+          "upscale": 2.98,
+          "product_share_of_source": 0.39,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-fix20261127-with-box.jpg",
+          "path": "images/3274872472891/kenzo-flower-ikebana-sakura-eau-de-parfum-75ml-gift-set-with-10ml-travel-spray-and-75ml-body-lotion-fix20261127-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    }
+  ]
+}
