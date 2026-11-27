@@ -5,12 +5,13 @@ or only one, after photos were missing or rejected. The most common issue type c
 repeated problems (wrong product photo, broken cut-out, ...) are grouped and easy to fix in bulk.
 
 Usage:
-  python3 picture_fixes.py build prod.json plan.json state.json existing.json done.json > rows.json
+  python3 picture_fixes.py build prod.json plan.json state.json existing.json photo_checks.json verified.json > pf.json
     prod.json     get_values of Products!A3:Y   ({"values": [...]})
     plan.json     get_values of 'Daily Plan'!A1:N
-    state.json    {"gid://shopify/Product/<id>": ["DRAFT"|"UNLISTED"|"ACTIVE", mediaCount], ...}
+    state.json    {"gid://shopify/Product/<id>": ["DRAFT"|"UNLISTED"|"ACTIVE", mediaCount, [media ids]], ...}
     existing.json get_values of 'Picture Fixes'!A1:K (current tab, to keep ticks and run results)
-    done.json     workflow/picture_fixes_done.json (owner-approved uploads, shown for 3 days)
+    photo_checks.json  workflow/photo_checks.json (one verdict per product for its current photos)
+    verified.json get_values of 'Picture Fixes Verified'!A1:I
   Prints {"rows", "sheet_rows" (write these with update_formulas from A1), "groups", "counts",
           "format" (update_spreadsheet requests that redo the group shading)}.
 """
@@ -19,8 +20,9 @@ import json, re, sys, datetime
 HEADER = ["Fixed ✓", "Issue", "What's wrong", "What to do", "Barcode (folder)", "Product title",
           "Drive folder", "Shopify", "Status", "Photos now", "Last run result"]
 NOTE_ROW = ("Tick 'Fixed ✓' once you have replaced the photos in the product's Drive folder (main.jpg = product, "
-            "box.jpg = with box). The next scheduled run uploads ticked photos without rejecting them, "
-            "then removes the row. Most common issues are listed first.")
+            "box.jpg = with box). The next scheduled run processes and checks them: good photos are uploaded and the "
+            "row moves to 'Picture Fixes Verified'; photos that are still wrong stay here with the new reason. "
+            "Most common issues are listed first.")
 
 # (issue name, regex on the reason text, what to do) – first match wins, in this order.
 ISSUES = [
@@ -91,7 +93,10 @@ def classify(reason, photos):
     return ONE_PHOTO if photos else NO_PHOTO
 
 
-def build(prod, plan, state, existing, done, today=None):
+def build(prod, plan, state, existing, checks, verified_existing=(), today=None):
+    """state: {"gid://shopify/Product/<id>": [status, mediaCount, [media ids (numbers)]]}
+    checks: workflow/photo_checks.json – {barcode: {"media": [ids], "verdict": ok|one|fail, "issue", "reason", "date"}}
+    verified_existing: current 'Picture Fixes Verified' values (to avoid adding a barcode twice)."""
     today = today or datetime.date.today()
     P = [pad(r, 25) for r in prod]
     D = {pad(r, 14)[6].strip().lstrip("'"): pad(r, 14) for r in plan[1:]}
@@ -100,52 +105,72 @@ def build(prod, plan, state, existing, done, today=None):
         r = pad(r, 11)
         bc = str(r[4]).strip().lstrip("'")
         if bc:
-            ex[bc] = {"tick": str(r[0]).upper() == "TRUE", "result": r[10]}
-    items = []
+            ex[bc] = {"tick": str(r[0]).upper() == "TRUE", "result": r[10], "issue": r[1], "reason": r[2]}
+    already = {str(pad(r, 9)[1]).strip().lstrip("'") for r in verified_existing[1:]}
+    items, verified, unchecked, notes = [], [], [], {}
     seen = set()
-    for r in P:
+    for i, r in enumerate(P):
         m = re.search(r"products/(\d+)", r[23])
         bc = str(r[10]).strip().lstrip("'")
         if not m or not bc or bc in seen:
             continue
+        seen.add(bc)
         gid = "gid://shopify/Product/" + m.group(1)
         st = state.get(gid)
-        if not st or st[0] not in ("DRAFT", "UNLISTED") or st[1] is None or st[1] >= 2:
+        if not st:
             continue
-        seen.add(bc)
-        reason = photo_reason(r[24], D.get(bc, pad([], 14))[12])
-        reason = re.sub(r"^1 image;\s*", "", reason)
-        if reason.count("(") > reason.count(")"):
-            reason += ")"
-        issue, todo = classify(reason, st[1])
-        if not reason:
-            reason = "No photos have been added yet" if st[1] == 0 else "Only one of the two photos is attached"
+        status, count = st[0], st[1]
+        media = sorted(str(x).split("/")[-1] for x in (st[2] if len(st) > 2 else []))
+        chk = checks.get(bc)
+        checked = bool(chk) and count > 0 and sorted(chk.get("media", [])) == media
+        link = "https://admin.shopify.com/store/f1d55c-f7/products/" + m.group(1)
         prev = ex.get(bc, {})
+        was_listed = bool(prev) and prev.get("issue") != DONE
+        if count > 0 and not checked and status in ("DRAFT", "UNLISTED"):
+            unchecked.append({"barcode": bc, "product": gid, "media": media, "title": r[4]})
+        ok = checked and chk["verdict"] == "ok"
+        if status not in ("DRAFT", "UNLISTED") or ok:
+            # Leaves the list. Fixed items that pass the photo check move to 'Picture Fixes Verified'.
+            if ok and (was_listed or prev.get("issue") == DONE) and bc not in already:
+                verified.append([today.strftime("%d/%m/%Y"), "'" + bc, r[4], prev.get("issue", ""), prev.get("reason", ""),
+                                 count, status.title(), r[19], link])
+                notes[i + 3] = f"[Photo check {today.strftime('%d/%m')}: photos correct and clean – moved to Picture Fixes Verified.]"
+            continue
+        if checked and chk["verdict"] in ("fail", "one"):
+            issue = chk.get("issue") or ONE_PHOTO[0]
+            todo = next((t for n, _, t in ISSUES if n == issue), ONE_PHOTO[1] if issue == ONE_PHOTO[0] else NO_PHOTO[1])
+            reason = chk.get("reason", "")
+            notes[i + 3] = f"[Photo check {chk.get('date', '')[:5]}: {reason} – listed in Picture Fixes.]"
+        else:
+            reason = photo_reason(r[24], D.get(bc, pad([], 14))[12])
+            reason = re.sub(r"^1 image;\s*", "", reason)
+            if reason.count("(") > reason.count(")"):
+                reason += ")"
+            issue, todo = classify(reason, count)
+            if not reason:
+                reason = "No photos have been added yet" if count == 0 else "Only one of the two photos is attached"
+            if count > 0 and not checked:
+                reason += " (attached photos not checked yet)"
         items.append([prev.get("tick", False), issue, reason[:1].upper() + reason[1:], todo, "'" + bc, r[4],
-                      r[19], "https://admin.shopify.com/store/f1d55c-f7/products/" + m.group(1),
-                      st[0].title(), st[1], prev.get("result", "")])
+                      r[19], link, status.title(), count, prev.get("result", "")])
     counts = {}
     for it in items:
         counts[it[1]] = counts.get(it[1], 0) + 1
     items.sort(key=lambda it: (-counts[it[1]], it[1], it[5].lower()))
-    # Owner-approved uploads from the last 3 days, shown at the bottom as confirmation.
-    recent = []
-    for d in done:
-        try:
-            when = datetime.datetime.strptime(d["date"], "%d/%m/%Y").date()
-        except Exception:
-            continue
-        if (today - when).days <= 3 and d["barcode"] not in seen:
-            recent.append([False, DONE, d.get("detail", "Owner-approved photos uploaded"), "Nothing – check the listing",
-                           "'" + d["barcode"], d["title"], d.get("folder", ""), d.get("shopify", ""), d.get("status", "Draft"),
-                           d.get("photos", ""), "Uploaded " + d["date"]])
-    rows = [[NOTE_ROW] + [""] * 10, HEADER] + items + recent
+    rows = [[NOTE_ROW] + [""] * 10, HEADER] + items
     groups, start = [], 2
     for i in range(2, len(rows) + 1):
         if i == len(rows) or rows[i][1] != rows[start][1]:
             groups.append([start + 1, i, rows[start][1]])   # 1-based sheet rows
             start = i
-    return {"rows": rows, "groups": groups, "counts": counts, "format": format_requests(groups, len(rows))}
+    return {"rows": rows, "groups": groups, "counts": counts, "format": format_requests(groups, len(rows)),
+            "verified": verified, "unchecked": unchecked, "notes": notes}
+
+
+def apply_note(old, sentence):
+    """Products column Y: replace an earlier [Photo check …] sentence, or append one."""
+    base = re.sub(r"\s*\[Photo check [^\]]*\]", "", old or "").rstrip()
+    return (base + " " + sentence).strip()
 
 
 def sheet_rows(rows):
@@ -177,10 +202,10 @@ def format_requests(groups, nrows, sheet_id=2300):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 7 or sys.argv[1] != "build":
+    if len(sys.argv) != 8 or sys.argv[1] != "build":
         sys.exit(__doc__)
     L = lambda p: json.load(open(p))
     V = lambda p: L(p).get("values", []) if isinstance(L(p), dict) else L(p)
-    out = build(V(sys.argv[2]), V(sys.argv[3]), L(sys.argv[4]), V(sys.argv[5]), L(sys.argv[6]))
+    out = build(V(sys.argv[2]), V(sys.argv[3]), L(sys.argv[4]), V(sys.argv[5]), L(sys.argv[6]), V(sys.argv[7]))
     out["sheet_rows"] = sheet_rows(out["rows"])
     json.dump(out, sys.stdout, ensure_ascii=False)
