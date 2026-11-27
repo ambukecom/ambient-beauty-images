@@ -1,0 +1,7 @@
+# 2026-11-27 batch 2 (06:10)
+Used plan rows 336–345 (made by b1). All 10 still in Fragrance Clean Variant with stock > 0; no Shopify duplicates (barcode + title searches) → nothing skipped.
+Drafts (worksheet rows 452–461): Mercedes-Benz The Move EDT 60ml, Ultimate EDP 75ml, Woman In Red EDP 20ml + 90ml; Michael Kors Pour Homme EDP 50ml gift set (EDP + shower gel + aftershave balm); Molton Brown Sunlit Clementine & Vetiver EDT 100ml (needs-review: EAN not found online, EDP version exists); Mont Blanc Explorer EDP 200ml + 60ml; Explorer Extreme Parfum 100ml gift set (needs-review: EAN not found, 60ml-set version exists; listed as Parfum, supplier name says EDP); Explorer Extreme Parfum 60ml (supplier form says EDP – listed as Parfum per brand + 2 retailers).
+Research via 2 subagents, 2+ sources each. productSet / metafieldsSet / collections + publish: all userErrors empty; status DRAFT.
+Records: Products A/C:Y 452–461, Website Stock 2142–2151, Drafts Stock and Price Changes 420–429, Daily Plan J:L 336–345.
+Photos: no Product Images folder renamed to barcode-only (newest changes are b1's 00:15 folder creations) → no photo job.
+Left in Clean Variant tabs: 41 Fragrance rows (20 planned for b3–b4 + 12 unplanned + the 10 drafted today until the sheet refreshes). Other category tabs empty.
