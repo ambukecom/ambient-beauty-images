@@ -4,4 +4,4 @@ Drafts (worksheet rows 452–461): Mercedes-Benz The Move EDT 60ml, Ultimate EDP
 Research via 2 subagents, 2+ sources each. productSet / metafieldsSet / collections + publish: all userErrors empty; status DRAFT.
 Records: Products A/C:Y 452–461, Website Stock 2142–2151, Drafts Stock and Price Changes 420–429, Daily Plan J:L 336–345.
 Photos: no Product Images folder renamed to barcode-only (newest changes are b1's 00:15 folder creations) → no photo job.
-Left in Clean Variant tabs: 41 Fragrance rows (20 planned for b3–b4 + 12 unplanned + the 10 drafted today until the sheet refreshes). Other category tabs empty.
+Left in Clean Variant tabs (re-read after Website Stock append): 32 Fragrance rows = 20 planned for b3–b4 + 12 unplanned (Police ×7, Porsche Design Titan, Rayhaan Aquatica, Ferragamo Amo Oriental Wood, Tommy Girl Summer, Tommy Summer 2025). Other category tabs empty.
