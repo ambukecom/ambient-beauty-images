@@ -21,7 +21,9 @@ Supplier Vs Website tabs: `Fragrance / Skincare / Haircare / Makeup / Bath and B
 `Drafts Stock and Price Changes` (sync tracking list, cols A–Q).
 
 Worksheet tabs: `Products` (A–Y; row 2 is the header; column B is a formula, never write it),
-`Daily Plan` (A–N).
+`Daily Plan` (A–N), `Picture Fixes` (sheetId 2300; row 1 note, row 2 header, data from row 3:
+A Fixed ✓ checkbox, B Issue, C What's wrong, D What to do, E Barcode, F Title, G Drive folder, H Shopify,
+I Status, J Photos now, K Last run result). Built by `workflow/picture_fixes.py`.
 
 ## Step 0 – set up
 1. Work out today's date and which run this is from the **UK time** now:
@@ -115,6 +117,31 @@ collectionsToJoin` not `collectionAddProducts`, `collectionCreate(collection:)` 
   P `Created <dd/MM/yyyy> run <n>`, Q worksheet row.
 - **Daily Plan**: J `drafted`, K product ID, L worksheet row.
 
+## Step 6a – owner-approved picture fixes (every run, BEFORE step 6)
+The owner ticks **Fixed ✓** in the `Picture Fixes` tab after replacing photos in a product's Drive folder.
+A tick means "I have checked these photos – upload them": **do not review or reject ticked photos.**
+1. Read `'Picture Fixes'!A3:K`. Take every row with A = TRUE and B ≠ `Fixed – uploaded`.
+2. For each, find the Drive folder (G link / barcode E). If the folder is not named with the barcode only,
+   rename it to the barcode (Drive `update_file`) so the image robot can find it.
+3. Add them to a robot job `jobs/<yyyy-mm-dd>-b<n>-fixes.json` (same format as step 6) with
+   **slug = `<handle>-fix<yyyymmdd>`** (a new file name, so Shopify never gets a cached old image).
+   Push, wait for `results/<job_id>.json`.
+4. For each item: if the robot produced at least one image, **replace** the product's photos:
+   read the product's `media(first:10){nodes{id}}` and detach each one with
+   `fileUpdate(files:[{id:<media id>, referencesToRemove:["<product gid>"]}])` (the old file stays in
+   Shopify's Files library; nothing is deleted), then attach the new main image first, then the with-box image
+   (same `productUpdate … media:` call as step 6). Do not look for faults: attach what was produced.
+   If the robot produced nothing (no main.*/box.* file, processing failed), leave the product alone.
+5. Record:
+   - Uploaded → worksheet Y: replace the photo sentence with "Photos attached dd/MM (owner-approved fix).";
+     Daily Plan M `attached (owner-approved)`; Drafts Stock and Price Changes N `Yes`; append
+     `{"date": "dd/mm/yyyy", "barcode", "title", "folder", "shopify", "status", "photos", "detail"}` to
+     `workflow/picture_fixes_done.json` (detail e.g. "Main + box uploaded").
+   - Not uploaded → put the reason in K, e.g. "Couldn't upload dd/MM: no main.jpg or box.jpg in the folder".
+   - Only one image produced → K "Uploaded dd/MM: box photo only – add main.jpg" (the row stays listed).
+   - **Untick every row you processed** (write FALSE in A) before step 6b re-reads the tab.
+   Never change a product's status here (drafts stay drafts).
+
 ## Step 6 – photos (every run, for all of today's and earlier drafts)
 A folder is **ready** when the user has renamed it to the **barcode only** and put the photos in it
 (`main.*` = product, `box.*` = with box).
@@ -132,16 +159,34 @@ A folder is **ready** when the user has renamed it to the **barcode only** and p
    `https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/<bc>/<file>`,
    alt text = product title [+ " with box"], mediaContentType IMAGE).
 6. Update worksheet Y note (replace "Awaiting photos." with "Photos attached dd/MM." or the reason
-   for rejection), Daily Plan M (`attached` / `rejected – reason`).
+   for rejection), Daily Plan M (`attached` / `rejected – reason`). Write rejection reasons short and
+   specific (which photo, what is wrong): they become the "What's wrong" text in Picture Fixes.
 A folder not yet renamed is simply not ready: leave it for a later run.
+Skip products handled in step 6a in this run.
+
+## Step 6b – rebuild the Picture Fixes tab (every run, after step 6)
+1. Save to files: `Products!A3:Y` (get_values), `'Daily Plan'!A1:N`, and the live Shopify state of every
+   workflow product as `{"gid://shopify/Product/<id>": [status, mediaCount]}` – query
+   `products(query:"(status:draft OR status:unlisted) AND created_at:>=2026-10-25")` with
+   `id status mediaCount{count}` (page through all; ACTIVE products don't need listing).
+2. **Re-read `'Picture Fixes'!A1:K` now** (the owner may have ticked boxes during the run), then run
+   `python3 workflow/picture_fixes.py build prod.json plan.json state.json existing.json workflow/picture_fixes_done.json > pf.json`.
+   It keeps ticks and run results, drops products that now have 2 photos or are live, adds new problem
+   drafts, sorts the most common issue first, and shows owner-approved uploads for 3 days at the bottom.
+3. Clear `'Picture Fixes'!A3:K1000` (values only), write `sheet_rows` from A1 with `update_formulas`,
+   then send the `format` requests with `update_spreadsheet`. Do not touch the checkbox validation,
+   conditional formats, column widths or filter. Read back a few rows to check (barcodes keep leading zeros).
 
 ## Step 7 – finish
 1. Commit `runs/…` and any lib.py changes, push.
 2. Send the owner one short message (SendUserMessage): batch n of 4 for <date>; drafts created (titles);
+   owner-approved picture fixes uploaded / couldn't upload (and why); Picture Fixes rows left by issue;
    skipped items and why; needs-review items and why; photos attached / rejected; items left in the
    Clean Variant tabs. If anything failed, say exactly what and what was left undone.
 
 ## Safety rules
+- Photos the owner ticked as fixed in Picture Fixes are uploaded without review (step 6a);
+  every other photo is reviewed as in step 6.
 - Create **drafts only**. Never set a product ACTIVE, never delete products, never edit products that
   this workflow did not create.
 - Never overwrite existing sheet rows; append, or update only the specific cells named above.
