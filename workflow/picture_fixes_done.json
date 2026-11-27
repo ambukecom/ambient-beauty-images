@@ -1,1 +1,392 @@
-[]
+[
+ {
+  "date": "27/11/2026",
+  "barcode": "0085715163394",
+  "title": "Abercrombie & Fitch First Instinct Eau de Toilette 100ml Gift Set with 200ml Body Wash",
+  "folder": "https://drive.google.com/drive/folders/173TIglH0dj60WnwbdoiN3aTO2zITCakb",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15991623319892",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0738678000991",
+  "title": "American Crew Classic Daily Shampoo 450ml",
+  "folder": "https://drive.google.com/drive/folders/1d5YjF8HgyQ4B0GyhWnyv_z0o-YM5jlh4",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15946745250132",
+  "status": "Draft",
+  "photos": 1,
+  "detail": "Main photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0738678001042",
+  "title": "American Crew Daily Moisturizing Conditioner 1000ml",
+  "folder": "https://drive.google.com/drive/folders/1es_fDYyBk5cpYtVE_f3Yn8gl_rEgsSd1",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15946811081044",
+  "status": "Draft",
+  "photos": 1,
+  "detail": "Main photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6290361915912",
+  "title": "Arabiyat Prestige Nyla Sherbet Eau de Parfum 80ml",
+  "folder": "https://drive.google.com/drive/folders/1YS1mLt_2e2H6sTBuoFiHjS2sWP_LBoa5",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026036666708",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6294015176100",
+  "title": "Armaf Eter Perfume Oasis Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1mgveBIc8lQhQXAtEfNmUOXcOYwi7hco2",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15960164893012",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "4051395412110",
+  "title": "Bugatti Dynamic Move Midnight Sky Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1ZfYahWwGP8C_X0GR_IualbICfC1aUcm5",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15994306625876",
+  "status": "Draft",
+  "photos": 1,
+  "detail": "Main photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "9362014000140",
+  "title": "Bujairami Gladiator Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1bLMblRSi0U2VlU_hwsz8cs7fCWud-BFQ",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15982027047252",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3616304197420",
+  "title": "Davidoff Cool Water Eau de Toilette 75ml Gift Set with 70g Deodorant Stick",
+  "folder": "https://drive.google.com/drive/folders/1n3bosWWFP897t7AagXF7OGzZPQ6BPUpa",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16013072662868",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3423473997658",
+  "title": "Elie Saab Le Parfum in White Eau de Parfum 90ml",
+  "folder": "https://drive.google.com/drive/folders/1T6x1euJIpEoMkTZzeAIXAKSFEqHV1-b_",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16016818438484",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3454960007468",
+  "title": "Lalique Pour Homme Lion Eau de Parfum 125ml",
+  "folder": "https://drive.google.com/drive/folders/1WHd_3nC1Z43zNfnbwpSKaOtDE5wIkl56",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16024140448084",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0856857007101",
+  "title": "Lamborghini Invincibile Eau de Toilette 125ml",
+  "folder": "https://drive.google.com/drive/folders/1ZnVkCw_WvUXA-HC0Txk4EYmQp1jXHpe5",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16024140579156",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6290360591551",
+  "title": "Lattafa Ajayeb Dubai Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1jmyhReRfFVD-EFls7AHQdCoaOc0gOPVO",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026036863316",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6290360599243",
+  "title": "Maison Alhambra Athena Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1HXLQGugxNjhYXYEklA9JS1fI1u3kx07D",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026038141268",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6290362343196",
+  "title": "Maison Alhambra Pacific Blue Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1oKhJYOYEl3BzljDrjwjcpJFr3j6tAe24",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026038174036",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3607349764289",
+  "title": "Marc Jacobs Daisy Dream Eau de Toilette 50ml",
+  "folder": "https://drive.google.com/drive/folders/14CsQKwEVTOiMe7GlCXauC_RQIx5ai60J",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026038272340",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3616302025930",
+  "title": "Marc Jacobs Perfect Intense Eau de Parfum 30ml",
+  "folder": "https://drive.google.com/drive/folders/18ypoeaFmRVlGaxeFHbHWTkW0Fq1z2Sp0",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026999816532",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3595471041012",
+  "title": "Mercedes-Benz Club Eau de Toilette 100ml",
+  "folder": "https://drive.google.com/drive/folders/1-Qd3XFLJfLyMXrkdJhbstAWzCEp7kOJI",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16026999849300",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3595471061096",
+  "title": "Mercedes-Benz Man Private Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1fyERhq3Uggr1YvKbfSqFlvQ53nvon-hb",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16027488059732",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3595471023001",
+  "title": "Mercedes-Benz Ultimate Eau de Parfum 75ml",
+  "folder": "https://drive.google.com/drive/folders/1jEhd6ZtRB8JQoXUsBxVk-rbtL1r0RHQX",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16027822522708",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0850050174691",
+  "title": "Michael Kors Pour Homme Eau de Parfum 50ml Gift Set with Shower Gel and Aftershave Balm",
+  "folder": "https://drive.google.com/drive/folders/1-d_QjcMJAY_csZ6gcXpGFDkwE1Stip2O",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16027822653780",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3386460167048",
+  "title": "Mont Blanc Explorer Extreme Parfum 100ml Gift Set with Shower Gel and 2 Travel Sprays",
+  "folder": "https://drive.google.com/drive/folders/1CAP48U5tJDrznbngHbPEomwwWNI1kEid",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16027822883156",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3386460139373",
+  "title": "Mont Blanc Explorer Platinum Eau de Parfum 100ml Gift Set with 30ml Eau de Parfum",
+  "folder": "https://drive.google.com/drive/folders/12MPNq2yGIbPWep2bX6H-cc3PTCLJn1V9",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16029428646228",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0679602793643",
+  "title": "Police To Be Camouflage Eau de Toilette 75ml Gift Set with 100ml Shower Gel",
+  "folder": "https://drive.google.com/drive/folders/1UmQo6_XMQqJQqt9TrvQ8XD2oKh71pTMC",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15991496507732",
+  "status": "Unlisted",
+  "photos": 1,
+  "detail": "Box photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3360377022928",
+  "title": "Ralph Lauren Polo Blue Eau de Toilette 125ml",
+  "folder": "https://drive.google.com/drive/folders/16h13CLkGc5miJTiMHb8FTRyYpmCm1iaS",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16024142053716",
+  "status": "Unlisted",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "5060412678872",
+  "title": "Ted Baker Fusion Midnight Petal Body & Hair Mist 200ml",
+  "folder": "https://drive.google.com/drive/folders/19-9rPSue-f4m8L1UAEDdcV9oB5uYt_nJ",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15988611711316",
+  "status": "Unlisted",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "5060523017997",
+  "title": "Ted Baker Kasia Eau de Toilette 50ml Gift Set with 70g Candle",
+  "folder": "https://drive.google.com/drive/folders/1TfPBNEj9D76VXvGOiqIx_rFA_hbd_RWz",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16005663719764",
+  "status": "Unlisted",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "0810101500060",
+  "title": "Ariana Grande MOD Blush Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1XUgTSenYNQ6HnI4bsy1AaCB4ys-RoEso",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15993867796820",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3474636976058",
+  "title": "L'Oréal Professionnel Serie Expert Vitamino Color Mask 250ml",
+  "folder": "https://drive.google.com/drive/folders/16aZXrL9BmRDyOUhIcCnGC0q_zD8UPjZe",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15986096079188",
+  "status": "Unlisted",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "5030805002829",
+  "title": "Molton Brown Mesmerising Oudh Accord & Gold Bath & Shower Gel 300ml",
+  "folder": "https://drive.google.com/drive/folders/1tO4jGNYHgvrX1WXMBAnBt7G-aYBMF37W",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15984990683476",
+  "status": "Active",
+  "photos": 1,
+  "detail": "Main photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6298042001244",
+  "title": "Street Origins Berlin Rave Eau de Parfum 75ml",
+  "folder": "https://drive.google.com/drive/folders/1i0xy1_spNo66BQYaKH4eV3eAjmN3Umnz",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15984842998100",
+  "status": "Unlisted",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6281085039978",
+  "title": "Surrati Miss World Charisma Extrait de Parfum 150ml",
+  "folder": "https://drive.google.com/drive/folders/1QoLohapXcOw3I8C0-ll0vaOHXcfItmDT",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16003383525716",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "6290362348078",
+  "title": "Lattafa Pride Gift Set Collection No.2 Eau de Parfum 5 x 20ml",
+  "folder": "https://drive.google.com/drive/folders/12zjPXy-rfGz2Jbh0GRkxJrFrYTVghRNu",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15988613316948",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3614274797213",
+  "title": "Mugler Starlicious Berry Licorice Eau de Toilette 75ml",
+  "folder": "https://drive.google.com/drive/folders/1zuX1HjAkc3UTTru5j04w4ZVBVPS2AZ5h",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16029428908372",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3614274797244",
+  "title": "Mugler Starlicious Pineapple Musk Eau de Toilette 75ml",
+  "folder": "https://drive.google.com/drive/folders/1M60w_RtnEUQLNGC6vPwBUvZfYOXqiW3C",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16029428941140",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3614274797220",
+  "title": "Mugler Starlicious Pistachio Praline Eau de Toilette 75ml",
+  "folder": "https://drive.google.com/drive/folders/11rWzMhJbnUncAGqb9vzjru5-aTVlLkAi",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16029429006676",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "8411061044995",
+  "title": "Antonio Banderas Diavolo for Men Eau de Toilette 50ml Gift Set with 75ml Aftershave Balm",
+  "folder": "https://drive.google.com/drive/folders/12cFIAKVSeA0R2jUOWB5Z6_PbMNHPLyiL",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15992797888852",
+  "status": "Draft",
+  "photos": 1,
+  "detail": "Box photo uploaded (only one in folder)"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3614274026511",
+  "title": "Cacharel Ella Ella Eau de Parfum 100ml",
+  "folder": "https://drive.google.com/drive/folders/1DURuH33mnSGq-kQkU2UW8aA54SMpFTK-",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16010673422676",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3666057165580",
+  "title": "Clarins Ombre Skin Eyeshadow 1.5g - 04 Matte Rosewood",
+  "folder": "https://drive.google.com/drive/folders/1tBf4lTvMa2lPXhNzfCDhyJSzFLOhucek",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/15946811113812",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ },
+ {
+  "date": "27/11/2026",
+  "barcode": "3274872472891",
+  "title": "Kenzo Flower Ikebana Sakura Eau de Parfum 75ml Gift Set with 10ml Travel Spray and 75ml Body Lotion",
+  "folder": "https://drive.google.com/drive/folders/1KaovcX-nEzFlM5nPJZBGqJHcZsj79WyV",
+  "shopify": "https://admin.shopify.com/store/f1d55c-f7/products/16021031780692",
+  "status": "Draft",
+  "photos": 2,
+  "detail": "Main + box uploaded"
+ }
+]
