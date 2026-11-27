@@ -1,0 +1,1374 @@
+{
+  "job_id": "2026-11-27-b3-photos",
+  "items": [
+    {
+      "barcode": "3386460032780",
+      "slug": "mont-blanc-legend-aftershave-lotion-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.21,
+          "product_share_of_source": 0.18,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460032780/mont-blanc-legend-aftershave-lotion-100ml.jpg",
+          "path": "images/3386460032780/mont-blanc-legend-aftershave-lotion-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1024x1024",
+          "method": "white-background cut-out",
+          "upscale": 1.87,
+          "product_share_of_source": 0.44,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460032780/mont-blanc-legend-aftershave-lotion-100ml-with-box.jpg",
+          "path": "images/3386460032780/mont-blanc-legend-aftershave-lotion-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471024008",
+      "slug": "mercedes-benz-sign-your-attitude-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "800x720",
+          "method": "white-background cut-out",
+          "upscale": 1.98,
+          "product_share_of_source": 0.91,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024008/mercedes-benz-sign-your-attitude-eau-de-toilette-100ml.jpg",
+          "path": "images/3595471024008/mercedes-benz-sign-your-attitude-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x462",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.11,
+          "product_share_of_source": 0.87,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024008/mercedes-benz-sign-your-attitude-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3595471024008/mercedes-benz-sign-your-attitude-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460028394",
+      "slug": "mont-blanc-individuel-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "520x520",
+          "method": "white-background cut-out",
+          "upscale": 4.91,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460028394/mont-blanc-individuel-eau-de-toilette-75ml.jpg",
+          "path": "images/3386460028394/mont-blanc-individuel-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "520x520",
+          "method": "white-background cut-out",
+          "upscale": 3.11,
+          "product_share_of_source": 0.73,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460028394/mont-blanc-individuel-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3386460028394/mont-blanc-individuel-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810876038010",
+      "slug": "lamborghini-millennials-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 4.25,
+          "product_share_of_source": 0.25,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810876038010/lamborghini-millennials-eau-de-toilette-75ml.jpg",
+          "path": "images/0810876038010/lamborghini-millennials-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.16,
+          "product_share_of_source": 0.18,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810876038010/lamborghini-millennials-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/0810876038010/lamborghini-millennials-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290362343196",
+      "slug": "maison-alhambra-pacific-blue-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.61,
+          "product_share_of_source": 0.27,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290362343196/maison-alhambra-pacific-blue-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 6290362343196",
+        "2 box photos found, used box.jpg"
+      ]
+    },
+    {
+      "barcode": "3614274797213",
+      "slug": "mugler-starlicious-berry-licorice-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "720x720",
+          "method": "white-background cut-out",
+          "upscale": 11.03,
+          "product_share_of_source": 0.03,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml.jpg",
+          "path": "images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.61,
+          "product_share_of_source": 0.17,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3614274797213/mugler-starlicious-berry-licorice-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "6290360379227",
+      "slug": "french-avenue-x-aromatix-royal-taboo-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.42,
+          "product_share_of_source": 0.48,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379227/french-avenue-x-aromatix-royal-taboo-eau-de-parfum-100ml.jpg",
+          "path": "images/6290360379227/french-avenue-x-aromatix-royal-taboo-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.6,
+          "product_share_of_source": 0.91,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360379227/french-avenue-x-aromatix-royal-taboo-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290360379227/french-avenue-x-aromatix-royal-taboo-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3616303461881",
+      "slug": "marc-jacobs-perfect-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 9.09,
+          "product_share_of_source": 0.15,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303461881/marc-jacobs-perfect-eau-de-toilette-100ml.jpg",
+          "path": "images/3616303461881/marc-jacobs-perfect-eau-de-toilette-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3616303461881"
+      ]
+    },
+    {
+      "barcode": "6294015138290",
+      "slug": "armaf-tres-nuit-lyric-pour-homme-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.56,
+          "product_share_of_source": 0.52,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015138290/armaf-tres-nuit-lyric-pour-homme-eau-de-parfum-100ml.jpg",
+          "path": "images/6294015138290/armaf-tres-nuit-lyric-pour-homme-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.52,
+          "product_share_of_source": 0.46,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6294015138290/armaf-tres-nuit-lyric-pour-homme-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6294015138290/armaf-tres-nuit-lyric-pour-homme-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471111012",
+      "slug": "mercedes-benz-sign-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "800x720",
+          "method": "white-background cut-out",
+          "upscale": 1.98,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471111012/mercedes-benz-sign-eau-de-parfum-100ml.jpg",
+          "path": "images/3595471111012/mercedes-benz-sign-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x460",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.11,
+          "product_share_of_source": 0.87,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471111012/mercedes-benz-sign-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3595471111012/mercedes-benz-sign-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360591551",
+      "slug": "lattafa-ajayeb-dubai-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "2000x2000",
+          "method": "white-background cut-out",
+          "upscale": 1.11,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml.jpg",
+          "path": "images/6290360591551/lattafa-ajayeb-dubai-eau-de-parfum-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 6290360591551"
+      ]
+    },
+    {
+      "barcode": "3386460032681",
+      "slug": "mont-blanc-legend-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "1500x880",
+          "method": "white-background cut-out",
+          "upscale": 2.03,
+          "product_share_of_source": 0.37,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460032681/mont-blanc-legend-eau-de-toilette-100ml.jpg",
+          "path": "images/3386460032681/mont-blanc-legend-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1500x880",
+          "method": "white-background cut-out",
+          "upscale": 2.05,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460032681/mont-blanc-legend-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3386460032681/mont-blanc-legend-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471023001",
+      "slug": "mercedes-benz-ultimate-eau-de-parfum-75ml",
+      "images": {
+        "box": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.18,
+          "product_share_of_source": 0.81,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-with-box.jpg",
+          "path": "images/3595471023001/mercedes-benz-ultimate-eau-de-parfum-75ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3595471023001"
+      ]
+    },
+    {
+      "barcode": "3595471061096",
+      "slug": "mercedes-benz-man-private-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "458x800",
+          "method": "white-background cut-out",
+          "upscale": 2.33,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml.jpg",
+          "path": "images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x743",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.74,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3595471061096/mercedes-benz-man-private-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471024800",
+      "slug": "mercedes-benz-le-parfum-eau-de-parfum-120ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.0,
+          "product_share_of_source": 0.33,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024800/mercedes-benz-le-parfum-eau-de-parfum-120ml.jpg",
+          "path": "images/3595471024800/mercedes-benz-le-parfum-eau-de-parfum-120ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.93,
+          "product_share_of_source": 0.69,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024800/mercedes-benz-le-parfum-eau-de-parfum-120ml-with-box.jpg",
+          "path": "images/3595471024800/mercedes-benz-le-parfum-eau-de-parfum-120ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460175609",
+      "slug": "mont-blanc-explorer-infinite-eau-de-parfum-60ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.72,
+          "product_share_of_source": 0.74,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460175609/mont-blanc-explorer-infinite-eau-de-parfum-60ml-with-box.jpg",
+          "path": "images/3386460175609/mont-blanc-explorer-infinite-eau-de-parfum-60ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3386460175609"
+      ]
+    },
+    {
+      "barcode": "3595471081032",
+      "slug": "mercedes-benz-select-night-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.21,
+          "product_share_of_source": 0.27,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471081032/mercedes-benz-select-night-eau-de-parfum-100ml.jpg",
+          "path": "images/3595471081032/mercedes-benz-select-night-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.84,
+          "product_share_of_source": 0.74,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471081032/mercedes-benz-select-night-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3595471081032/mercedes-benz-select-night-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471071156",
+      "slug": "mercedes-benz-woman-in-red-eau-de-parfum-20ml",
+      "images": {
+        "main": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 4.11,
+          "product_share_of_source": 0.2,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471071156/mercedes-benz-woman-in-red-eau-de-parfum-20ml.jpg",
+          "path": "images/3595471071156/mercedes-benz-woman-in-red-eau-de-parfum-20ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3595471071156"
+      ]
+    },
+    {
+      "barcode": "3614274380392",
+      "slug": "lancome-o-zenith-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 20.14,
+          "product_share_of_source": 0.01,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274380392/lancome-o-zenith-eau-de-toilette-100ml.jpg",
+          "path": "images/3614274380392/lancome-o-zenith-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "582x582",
+          "method": "white-background cut-out",
+          "upscale": 4.28,
+          "product_share_of_source": 0.34,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274380392/lancome-o-zenith-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3614274380392/lancome-o-zenith-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "3386460101042",
+      "slug": "mont-blanc-explorer-eau-de-parfum-60ml",
+      "images": {
+        "main": {
+          "source_px": "1500x880",
+          "method": "white-background cut-out",
+          "upscale": 2.11,
+          "product_share_of_source": 0.29,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460101042/mont-blanc-explorer-eau-de-parfum-60ml.jpg",
+          "path": "images/3386460101042/mont-blanc-explorer-eau-de-parfum-60ml.jpg"
+        },
+        "box": {
+          "source_px": "1500x880",
+          "method": "white-background cut-out",
+          "upscale": 1.85,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460101042/mont-blanc-explorer-eau-de-parfum-60ml-with-box.jpg",
+          "path": "images/3386460101042/mont-blanc-explorer-eau-de-parfum-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471028334",
+      "slug": "mercedes-benz-sign-your-power-eau-de-parfum-intense-100ml",
+      "images": {
+        "main": {
+          "source_px": "800x720",
+          "method": "white-background cut-out",
+          "upscale": 1.98,
+          "product_share_of_source": 0.92,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471028334/mercedes-benz-sign-your-power-eau-de-parfum-intense-100ml.jpg",
+          "path": "images/3595471028334/mercedes-benz-sign-your-power-eau-de-parfum-intense-100ml.jpg"
+        },
+        "box": {
+          "source_px": "800x460",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.11,
+          "product_share_of_source": 0.87,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471028334/mercedes-benz-sign-your-power-eau-de-parfum-intense-100ml-with-box.jpg",
+          "path": "images/3595471028334/mercedes-benz-sign-your-power-eau-de-parfum-intense-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471026897",
+      "slug": "mercedes-benz-land-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "750x750",
+          "method": "white-background cut-out",
+          "upscale": 2.48,
+          "product_share_of_source": 0.36,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471026897/mercedes-benz-land-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3595471026897/mercedes-benz-land-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3595471026897"
+      ]
+    },
+    {
+      "barcode": "0856857007101",
+      "slug": "lamborghini-invincibile-eau-de-toilette-125ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.83,
+          "product_share_of_source": 0.53,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-with-box.jpg",
+          "path": "images/0856857007101/lamborghini-invincibile-eau-de-toilette-125ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0856857007101"
+      ]
+    },
+    {
+      "barcode": "6290361915912",
+      "slug": "arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml",
+      "images": {
+        "main": {
+          "source_px": "549x824",
+          "method": "white-background cut-out",
+          "upscale": 3.5,
+          "product_share_of_source": 0.43,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml.jpg",
+          "path": "images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml.jpg"
+        },
+        "box": {
+          "source_px": "491x299",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.9,
+          "source_file": "box.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-with-box.jpg",
+          "path": "images/6290361915912/arabiyat-prestige-nyla-sherbet-eau-de-parfum-80ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "7640171199719",
+      "slug": "lalique-soleil-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "491x299",
+          "method": "white-background cut-out",
+          "upscale": 3.45,
+          "product_share_of_source": 0.9,
+          "source_file": "box.jpeg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/7640171199719/lalique-soleil-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/7640171199719/lalique-soleil-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 7640171199719"
+      ]
+    },
+    {
+      "barcode": "3454960007468",
+      "slug": "lalique-pour-homme-lion-eau-de-parfum-125ml",
+      "images": {
+        "box": {
+          "source_px": "520x520",
+          "method": "white-background cut-out",
+          "upscale": 3.03,
+          "product_share_of_source": 0.9,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-with-box.jpg",
+          "path": "images/3454960007468/lalique-pour-homme-lion-eau-de-parfum-125ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3454960007468"
+      ]
+    },
+    {
+      "barcode": "3386460118675",
+      "slug": "mont-blanc-explorer-eau-de-parfum-200ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.14,
+          "product_share_of_source": 0.4,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460118675/mont-blanc-explorer-eau-de-parfum-200ml.jpg",
+          "path": "images/3386460118675/mont-blanc-explorer-eau-de-parfum-200ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.91,
+          "product_share_of_source": 0.72,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460118675/mont-blanc-explorer-eau-de-parfum-200ml-with-box.jpg",
+          "path": "images/3386460118675/mont-blanc-explorer-eau-de-parfum-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471061201",
+      "slug": "mercedes-benz-man-eau-de-toilette-20ml",
+      "images": {
+        "main": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.84,
+          "product_share_of_source": 0.47,
+          "source_file": "main.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061201/mercedes-benz-man-eau-de-toilette-20ml.jpg",
+          "path": "images/3595471061201/mercedes-benz-man-eau-de-toilette-20ml.jpg"
+        },
+        "box": {
+          "source_px": "500x500",
+          "method": "white-background cut-out",
+          "upscale": 3.57,
+          "product_share_of_source": 0.73,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061201/mercedes-benz-man-eau-de-toilette-20ml-with-box.jpg",
+          "path": "images/3595471061201/mercedes-benz-man-eau-de-toilette-20ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460146081",
+      "slug": "mont-blanc-explorer-platinum-eau-de-parfum-200ml",
+      "images": {
+        "main": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.19,
+          "product_share_of_source": 0.45,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460146081/mont-blanc-explorer-platinum-eau-de-parfum-200ml.jpg",
+          "path": "images/3386460146081/mont-blanc-explorer-platinum-eau-de-parfum-200ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.82,
+          "product_share_of_source": 0.81,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460146081/mont-blanc-explorer-platinum-eau-de-parfum-200ml-with-box.jpg",
+          "path": "images/3386460146081/mont-blanc-explorer-platinum-eau-de-parfum-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471024787",
+      "slug": "mercedes-benz-intense-eau-de-toilette-120ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.94,
+          "product_share_of_source": 0.41,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024787/mercedes-benz-intense-eau-de-toilette-120ml.jpg",
+          "path": "images/3595471024787/mercedes-benz-intense-eau-de-toilette-120ml.jpg"
+        },
+        "box": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 2.9,
+          "product_share_of_source": 0.67,
+          "source_file": "box.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024787/mercedes-benz-intense-eau-de-toilette-120ml-with-box.jpg",
+          "path": "images/3595471024787/mercedes-benz-intense-eau-de-toilette-120ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3607342221208",
+      "slug": "marc-jacobs-daisy-eau-so-fresh-eau-de-toilette-125ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 6.88,
+          "product_share_of_source": 0.13,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607342221208/marc-jacobs-daisy-eau-so-fresh-eau-de-toilette-125ml.jpg",
+          "path": "images/3607342221208/marc-jacobs-daisy-eau-so-fresh-eau-de-toilette-125ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3607342221208"
+      ]
+    },
+    {
+      "barcode": "3614274797244",
+      "slug": "mugler-starlicious-pineapple-musk-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 7.55,
+          "product_share_of_source": 0.03,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml.jpg",
+          "path": "images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.59,
+          "product_share_of_source": 0.17,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3614274797244/mugler-starlicious-pineapple-musk-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "3595471111029",
+      "slug": "mercedes-benz-sign-eau-de-parfum-50ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.44,
+          "product_share_of_source": 0.67,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471111029/mercedes-benz-sign-eau-de-parfum-50ml.jpg",
+          "path": "images/3595471111029/mercedes-benz-sign-eau-de-parfum-50ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.51,
+          "product_share_of_source": 0.39,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471111029/mercedes-benz-sign-eau-de-parfum-50ml-with-box.jpg",
+          "path": "images/3595471111029/mercedes-benz-sign-eau-de-parfum-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471061010",
+      "slug": "mercedes-benz-man-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.21,
+          "product_share_of_source": 0.42,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061010/mercedes-benz-man-eau-de-toilette-100ml.jpg",
+          "path": "images/3595471061010/mercedes-benz-man-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.79,
+          "product_share_of_source": 0.63,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471061010/mercedes-benz-man-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3595471061010/mercedes-benz-man-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460153737",
+      "slug": "mont-blanc-explorer-extreme-parfum-60ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.35,
+          "product_share_of_source": 0.36,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460153737/mont-blanc-explorer-extreme-parfum-60ml.jpg",
+          "path": "images/3386460153737/mont-blanc-explorer-extreme-parfum-60ml.jpg"
+        },
+        "box": {
+          "source_px": "750x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.38,
+          "product_share_of_source": 0.49,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460153737/mont-blanc-explorer-extreme-parfum-60ml-with-box.jpg",
+          "path": "images/3386460153737/mont-blanc-explorer-extreme-parfum-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6291108738696",
+      "slug": "lattafa-al-areeq-gold-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "493x493",
+          "method": "white-background cut-out",
+          "upscale": 4.0,
+          "product_share_of_source": 0.42,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108738696/lattafa-al-areeq-gold-eau-de-parfum-100ml.jpg",
+          "path": "images/6291108738696/lattafa-al-areeq-gold-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "493x496",
+          "method": "white-background cut-out",
+          "upscale": 3.15,
+          "product_share_of_source": 0.99,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108738696/lattafa-al-areeq-gold-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6291108738696/lattafa-al-areeq-gold-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6281085031453",
+      "slug": "surrati-ambre-noir-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "500x650",
+          "method": "transparent source",
+          "upscale": 2.65,
+          "product_share_of_source": 0.95,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085031453/surrati-ambre-noir-extrait-de-parfum-100ml.jpg",
+          "path": "images/6281085031453/surrati-ambre-noir-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 5.58,
+          "product_share_of_source": 0.23,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6281085031453/surrati-ambre-noir-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/6281085031453/surrati-ambre-noir-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6290360599243",
+      "slug": "maison-alhambra-athena-eau-de-parfum-100ml",
+      "images": {
+        "box": {
+          "source_px": "832x889",
+          "method": "white-background cut-out",
+          "upscale": 2.39,
+          "product_share_of_source": 0.59,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/6290360599243/maison-alhambra-athena-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 6290360599243"
+      ]
+    },
+    {
+      "barcode": "3595471024718",
+      "slug": "mercedes-benz-eau-de-toilette-120ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.9,
+          "product_share_of_source": 0.23,
+          "source_file": "main.jfif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024718/mercedes-benz-eau-de-toilette-120ml.jpg",
+          "path": "images/3595471024718/mercedes-benz-eau-de-toilette-120ml.jpg"
+        },
+        "box": {
+          "source_px": "397x397",
+          "method": "white-background cut-out",
+          "upscale": 4.75,
+          "product_share_of_source": 0.63,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471024718/mercedes-benz-eau-de-toilette-120ml-with-box.jpg",
+          "path": "images/3595471024718/mercedes-benz-eau-de-toilette-120ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471071125",
+      "slug": "mercedes-benz-woman-in-red-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.57,
+          "product_share_of_source": 0.7,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471071125/mercedes-benz-woman-in-red-eau-de-parfum-90ml.jpg",
+          "path": "images/3595471071125/mercedes-benz-woman-in-red-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.55,
+          "product_share_of_source": 0.63,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471071125/mercedes-benz-woman-in-red-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/3595471071125/mercedes-benz-woman-in-red-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471081018",
+      "slug": "mercedes-benz-select-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "520x520",
+          "method": "white-background cut-out",
+          "upscale": 3.99,
+          "product_share_of_source": 0.3,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471081018/mercedes-benz-select-eau-de-toilette-100ml.jpg",
+          "path": "images/3595471081018/mercedes-benz-select-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 6.1,
+          "product_share_of_source": 0.23,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471081018/mercedes-benz-select-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3595471081018/mercedes-benz-select-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6291108736562",
+      "slug": "maison-alhambra-winsome-eau-de-parfum-90ml",
+      "images": {
+        "main": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.57,
+          "product_share_of_source": 0.21,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108736562/maison-alhambra-winsome-eau-de-parfum-90ml.jpg",
+          "path": "images/6291108736562/maison-alhambra-winsome-eau-de-parfum-90ml.jpg"
+        },
+        "box": {
+          "source_px": "832x832",
+          "method": "white-background cut-out",
+          "upscale": 2.37,
+          "product_share_of_source": 0.38,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6291108736562/maison-alhambra-winsome-eau-de-parfum-90ml-with-box.jpg",
+          "path": "images/6291108736562/maison-alhambra-winsome-eau-de-parfum-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460134965",
+      "slug": "mont-blanc-legend-red-eau-de-parfum-200ml",
+      "images": {
+        "main": {
+          "source_px": "1200x900",
+          "method": "white-background cut-out",
+          "upscale": 2.4,
+          "product_share_of_source": 0.31,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460134965/mont-blanc-legend-red-eau-de-parfum-200ml.jpg",
+          "path": "images/3386460134965/mont-blanc-legend-red-eau-de-parfum-200ml.jpg"
+        },
+        "box": {
+          "source_px": "640x500",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 2.49,
+          "product_share_of_source": 0.99,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460134965/mont-blanc-legend-red-eau-de-parfum-200ml-with-box.jpg",
+          "path": "images/3386460134965/mont-blanc-legend-red-eau-de-parfum-200ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "6298042001527",
+      "slug": "french-avenue-x-aromatix-magnetiq-extrait-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 2.04,
+          "product_share_of_source": 0.41,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001527/french-avenue-x-aromatix-magnetiq-extrait-de-parfum-100ml.jpg",
+          "path": "images/6298042001527/french-avenue-x-aromatix-magnetiq-extrait-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1080x1080",
+          "method": "white-background cut-out",
+          "upscale": 1.51,
+          "product_share_of_source": 0.76,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/6298042001527/french-avenue-x-aromatix-magnetiq-extrait-de-parfum-100ml-with-box.jpg",
+          "path": "images/6298042001527/french-avenue-x-aromatix-magnetiq-extrait-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471091079",
+      "slug": "mercedes-benz-the-move-eau-de-toilette-20ml",
+      "images": {
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.65,
+          "product_share_of_source": 0.46,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471091079/mercedes-benz-the-move-eau-de-toilette-20ml-with-box.jpg",
+          "path": "images/3595471091079/mercedes-benz-the-move-eau-de-toilette-20ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3595471091079"
+      ]
+    },
+    {
+      "barcode": "3386460167048",
+      "slug": "mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays",
+      "images": {
+        "box": {
+          "source_px": "549x823",
+          "method": "white-background cut-out",
+          "upscale": 3.82,
+          "product_share_of_source": 0.23,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-with-box.jpg",
+          "path": "images/3386460167048/mont-blanc-explorer-extreme-parfum-100ml-gift-set-with-shower-gel-and-2-travel-sprays-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3386460167048"
+      ]
+    },
+    {
+      "barcode": "3614227086227",
+      "slug": "marc-jacobs-perfect-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 9.31,
+          "product_share_of_source": 0.15,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614227086227/marc-jacobs-perfect-eau-de-parfum-100ml.jpg",
+          "path": "images/3614227086227/marc-jacobs-perfect-eau-de-parfum-100ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3614227086227"
+      ]
+    },
+    {
+      "barcode": "3386460169400",
+      "slug": "jimmy-choo-i-want-choo-midnight-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "1040x1040",
+          "method": "white-background cut-out",
+          "upscale": 9.2,
+          "product_share_of_source": 0.02,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460169400/jimmy-choo-i-want-choo-midnight-eau-de-parfum-100ml.jpg",
+          "path": "images/3386460169400/jimmy-choo-i-want-choo-midnight-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1040x1040",
+          "method": "white-background cut-out",
+          "upscale": 3.08,
+          "product_share_of_source": 0.22,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460169400/jimmy-choo-i-want-choo-midnight-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3386460169400/jimmy-choo-i-want-choo-midnight-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "main: product is tiny in the source photo, check the result"
+      ]
+    },
+    {
+      "barcode": "3616302025930",
+      "slug": "marc-jacobs-perfect-intense-eau-de-parfum-30ml",
+      "images": {
+        "main": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.41,
+          "product_share_of_source": 0.52,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml.jpg",
+          "path": "images/3616302025930/marc-jacobs-perfect-intense-eau-de-parfum-30ml.jpg"
+        }
+      },
+      "problems": [
+        "no box photo in folder 3616302025930"
+      ]
+    },
+    {
+      "barcode": "5030805024111",
+      "slug": "molton-brown-sunlit-clementine-vetiver-eau-de-toilette-100ml",
+      "images": {
+        "main": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.46,
+          "product_share_of_source": 0.35,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805024111/molton-brown-sunlit-clementine-vetiver-eau-de-toilette-100ml.jpg",
+          "path": "images/5030805024111/molton-brown-sunlit-clementine-vetiver-eau-de-toilette-100ml.jpg"
+        },
+        "box": {
+          "source_px": "1500x1500",
+          "method": "white-background cut-out",
+          "upscale": 1.18,
+          "product_share_of_source": 0.75,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/5030805024111/molton-brown-sunlit-clementine-vetiver-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/5030805024111/molton-brown-sunlit-clementine-vetiver-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3360377022928",
+      "slug": "ralph-lauren-polo-blue-eau-de-toilette-125ml",
+      "images": {
+        "main": {
+          "source_px": "600x600",
+          "method": "white-background cut-out",
+          "upscale": 3.3,
+          "product_share_of_source": 0.45,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml.jpg",
+          "path": "images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml.jpg"
+        },
+        "box": {
+          "source_px": "553x769",
+          "method": "white-background cut-out",
+          "upscale": 3.19,
+          "product_share_of_source": 0.55,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-with-box.jpg",
+          "path": "images/3360377022928/ralph-lauren-polo-blue-eau-de-toilette-125ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471091024",
+      "slug": "mercedes-benz-the-move-eau-de-toilette-60ml",
+      "images": {
+        "main": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.76,
+          "product_share_of_source": 0.57,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471091024/mercedes-benz-the-move-eau-de-toilette-60ml.jpg",
+          "path": "images/3595471091024/mercedes-benz-the-move-eau-de-toilette-60ml.jpg"
+        },
+        "box": {
+          "source_px": "700x700",
+          "method": "white-background cut-out",
+          "upscale": 2.42,
+          "product_share_of_source": 0.7,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471091024/mercedes-benz-the-move-eau-de-toilette-60ml-with-box.jpg",
+          "path": "images/3595471091024/mercedes-benz-the-move-eau-de-toilette-60ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3607349764289",
+      "slug": "marc-jacobs-daisy-dream-eau-de-toilette-50ml",
+      "images": {
+        "main": {
+          "source_px": "420x420",
+          "method": "white-background cut-out",
+          "upscale": 18.89,
+          "product_share_of_source": 0.04,
+          "source_file": "MAIN.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml.jpg",
+          "path": "images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml.jpg"
+        },
+        "box": {
+          "source_px": "640x524",
+          "method": "white-background cut-out",
+          "upscale": 2.62,
+          "product_share_of_source": 0.91,
+          "source_file": "BOX.avif",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-with-box.jpg",
+          "path": "images/3607349764289/marc-jacobs-daisy-dream-eau-de-toilette-50ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3386460139373",
+      "slug": "mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum",
+      "images": {
+        "box": {
+          "source_px": "800x800",
+          "method": "white-background cut-out",
+          "upscale": 2.34,
+          "product_share_of_source": 0.41,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-with-box.jpg",
+          "path": "images/3386460139373/mont-blanc-explorer-platinum-eau-de-parfum-100ml-gift-set-with-30ml-eau-de-parfum-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3386460139373"
+      ]
+    },
+    {
+      "barcode": "3614274797220",
+      "slug": "mugler-starlicious-pistachio-praline-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "720x720",
+          "method": "white-background cut-out",
+          "upscale": 7.96,
+          "product_share_of_source": 0.06,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml.jpg",
+          "path": "images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 2.59,
+          "product_share_of_source": 0.18,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/3614274797220/mugler-starlicious-pistachio-praline-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "0810876038119",
+      "slug": "lamborghini-millennials-dinamico-eau-de-toilette-75ml",
+      "images": {
+        "main": {
+          "source_px": "1333x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.93,
+          "product_share_of_source": 0.22,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810876038119/lamborghini-millennials-dinamico-eau-de-toilette-75ml.jpg",
+          "path": "images/0810876038119/lamborghini-millennials-dinamico-eau-de-toilette-75ml.jpg"
+        },
+        "box": {
+          "source_px": "284x322",
+          "method": "AI cut-out (birefnet-general)",
+          "upscale": 5.23,
+          "product_share_of_source": 1.0,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0810876038119/lamborghini-millennials-dinamico-eau-de-toilette-75ml-with-box.jpg",
+          "path": "images/0810876038119/lamborghini-millennials-dinamico-eau-de-toilette-75ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471026248",
+      "slug": "mercedes-benz-rose-eau-de-toilette-90ml",
+      "images": {
+        "main": {
+          "source_px": "960x960",
+          "method": "white-background cut-out",
+          "upscale": 2.21,
+          "product_share_of_source": 0.44,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471026248/mercedes-benz-rose-eau-de-toilette-90ml.jpg",
+          "path": "images/3595471026248/mercedes-benz-rose-eau-de-toilette-90ml.jpg"
+        },
+        "box": {
+          "source_px": "1000x1000",
+          "method": "white-background cut-out",
+          "upscale": 1.83,
+          "product_share_of_source": 0.54,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471026248/mercedes-benz-rose-eau-de-toilette-90ml-with-box.jpg",
+          "path": "images/3595471026248/mercedes-benz-rose-eau-de-toilette-90ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    },
+    {
+      "barcode": "3595471041012",
+      "slug": "mercedes-benz-club-eau-de-toilette-100ml",
+      "images": {
+        "box": {
+          "source_px": "550x550",
+          "method": "white-background cut-out",
+          "upscale": 3.5,
+          "product_share_of_source": 0.52,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-with-box.jpg",
+          "path": "images/3595471041012/mercedes-benz-club-eau-de-toilette-100ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 3595471041012"
+      ]
+    },
+    {
+      "barcode": "0850050174691",
+      "slug": "michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm",
+      "images": {
+        "box": {
+          "source_px": "500x390",
+          "method": "white-background cut-out",
+          "upscale": 3.75,
+          "product_share_of_source": 0.53,
+          "source_file": "box.jpg",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-with-box.jpg",
+          "path": "images/0850050174691/michael-kors-pour-homme-eau-de-parfum-50ml-gift-set-with-shower-gel-and-aftershave-balm-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0850050174691"
+      ]
+    },
+    {
+      "barcode": "0856857007194",
+      "slug": "lamborghini-essenza-eau-de-toilette-125ml",
+      "images": {
+        "box": {
+          "source_px": "1000x1004",
+          "method": "white-background cut-out",
+          "upscale": 2.17,
+          "product_share_of_source": 0.14,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/0856857007194/lamborghini-essenza-eau-de-toilette-125ml-with-box.jpg",
+          "path": "images/0856857007194/lamborghini-essenza-eau-de-toilette-125ml-with-box.jpg"
+        }
+      },
+      "problems": [
+        "no main photo in folder 0856857007194"
+      ]
+    }
+  ]
+}
