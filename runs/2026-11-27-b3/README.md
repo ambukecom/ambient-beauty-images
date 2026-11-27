@@ -1,0 +1,7 @@
+# 2026-11-27 batch 3 (12:10)
+Used plan rows 346–355 (made by b1). All 10 still in Fragrance Clean Variant with stock > 0; no Shopify duplicates (barcode + title searches) → nothing skipped.
+Drafts (worksheet rows 462–471): Mont Blanc Explorer Infinite EDP 60ml (needs-review: pyramid/family disputed), Explorer Platinum EDP 200ml, Explorer Platinum EDP 100ml + 30ml gift set (needs-review: EAN on one site only), Individuel EDT 75ml, Legend Aftershave Lotion 100ml (needs-review: splash vs spray), Legend EDT 100ml, Legend Red EDP 200ml; Mugler Starlicious Berry Licorice / Pineapple Musk / Pistachio Praline EDT 75ml.
+Research via 2 subagents, 2+ sources each. productSet / metafieldsSet / collections + publish: all userErrors empty; status DRAFT. Mugler brand collection 715128209748 added to BRAND_COL.
+Records: Products A/C:Y 462–471, Website Stock 2152–2161, Drafts Stock and Price Changes 462–471 (rows 430–431 left blank: rows 432–461 already held older entries, so appended after the last row instead of overwriting), Daily Plan J:L 346–355. Supplier stock/price from b1's sup.json (00:10 stockfile).
+Photos: owner renamed ~70 folders to barcode-only this morning. 60 belong to drafts with no media (10 are b4 items not yet drafted – left). Job 2026-11-27-b3-photos (60 items). Contact sheets reviewed: 43 products got photos (photos_decision.py), 17 rejected (wrong product/edition/size or broken cut-out) – reasons in worksheet Y + Daily Plan M 296–355.
+Left in Clean Variant tabs: 22 Fragrance rows = 10 planned for b4 + 12 unplanned. Other category tabs empty.
