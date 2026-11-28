@@ -1,0 +1,30 @@
+{
+  "job_id": "2026-11-28-b3-photos",
+  "items": [
+    {
+      "barcode": "3616303445232",
+      "slug": "roberto-cavalli-paradiso-assoluto-eau-de-parfum-100ml",
+      "images": {
+        "main": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.33,
+          "product_share_of_source": 0.48,
+          "source_file": "main.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303445232/roberto-cavalli-paradiso-assoluto-eau-de-parfum-100ml.jpg",
+          "path": "images/3616303445232/roberto-cavalli-paradiso-assoluto-eau-de-parfum-100ml.jpg"
+        },
+        "box": {
+          "source_px": "521x521",
+          "method": "white-background cut-out",
+          "upscale": 3.38,
+          "product_share_of_source": 0.68,
+          "source_file": "box.webp",
+          "url": "https://raw.githubusercontent.com/ambukecom/ambient-beauty-images/main/images/3616303445232/roberto-cavalli-paradiso-assoluto-eau-de-parfum-100ml-with-box.jpg",
+          "path": "images/3616303445232/roberto-cavalli-paradiso-assoluto-eau-de-parfum-100ml-with-box.jpg"
+        }
+      },
+      "problems": []
+    }
+  ]
+}
