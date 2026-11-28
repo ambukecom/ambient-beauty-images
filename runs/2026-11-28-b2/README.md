@@ -1,0 +1,9 @@
+# 2026-11-28 batch 2 (06:10)
+Used plan rows 376–385 (made by b1). All 10 still in Fragrance Clean Variant with stock > 0; no Shopify duplicates (barcode + individual title searches; Reebok Cool Your Body / Inspire Your Mind EDT 100ml singles and Just Cavalli 50ml / Man exist but are different products) → nothing skipped.
+Drafts (worksheet rows 490–499): Reebok Cool Your Body + Inspire Your Mind EDT 100ml gift sets with 150ml body spray; Roberto Cavalli Bloodiris EDP 100ml, Divine Oud EDP Intense 100ml (needs-review: no agreed pyramid – notes left out), Just Cavalli EDT 90ml (women), Magnetic Guaiac EDP 100ml, Paradiso Assoluto EDP 100ml + 75ml, Royal Soul **Parfum** 100ml (needs-review: supplier says EDP, every EAN page says Parfum), Signature Verde Assoluto EDP 75ml (kept supplier Unisex; retailers market it for women – noted).
+Research via 2 subagents, 2+ sources each. productSet / metafieldsSet / collections + publish: all userErrors empty; status DRAFT. Roberto Cavalli brand collection 713726984532 added to BRAND_COL.
+Records: Products A/C:Y 490–499, Website Stock 2181–2190, Drafts Stock and Price Changes 490–499, Daily Plan J:L 376–385.
+Step 6a: no rows ticked in Picture Fixes. Step 6: no Product Images folder renamed to barcode-only (no folder changes since b1's 00:19 creations) → no photo job.
+Step 6c: draft/unlisted products updated since b1 (stock/price sync) – all media ids match photo_checks.json → nothing to check.
+Step 6b: Picture Fixes rebuilt (b1 inputs + 10 new drafts) – 100 rows: Cut-out 43, Photo missing 21, Only one photo 18, Too small 9, Wrong product 6, Not a product photo 2, Watermark 1. Rows A46:K102 rewritten + group shading; rows 3–45 unchanged. No verified rows; no note changes.
+Left in Clean Variant tabs: 26 Fragrance rows (20 planned for b3–b4 + 6 unplanned Tommy Hilfiger), other tabs empty.

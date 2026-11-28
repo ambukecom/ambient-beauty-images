@@ -56,7 +56,7 @@ BRAND_COL = {
     "Jaguar": "669659005268", "Jennifer Lopez": "711281049940", "Karl Lagerfeld": "711359234388",
     "Kenzo": "711403929940", "Lalique": "712025145684",
     "Mugler": "715128209748", "Lamborghini": "712126529876", "Lancôme": "714165715284", "Ralph Lauren": "636871410004",
-    "Paris Hilton": "711505740116", "Porsche Design": "713727869268", "Rayhaan": "669611524436",
+    "Paris Hilton": "711505740116", "Roberto Cavalli": "713726984532", "Porsche Design": "713727869268", "Rayhaan": "669611524436",
 }
 
 # ---- taxonomy + Google product category ----
