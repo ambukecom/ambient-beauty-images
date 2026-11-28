@@ -1038,5 +1038,123 @@
   "reason": "Only the box photo is attached – add main.jpg",
   "date": "27/11/2026",
   "title": "Paris Hilton Platinum Rush Eau de Parfum 100ml"
+ },
+ "6298042001343": {
+  "media": [
+   "75229161652564",
+   "75229161685332"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Street Origins Amsterdam Red Eau de Parfum 75ml"
+ },
+ "6298042001398": {
+  "media": [
+   "75229824123220",
+   "75229824155988"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Street Origins Hanoi Sizzle Eau de Parfum 75ml"
+ },
+ "3386460169400": {
+  "media": [
+   "75610828996948",
+   "75610829029716"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Jimmy Choo I Want Choo Midnight Eau de Parfum 100ml"
+ },
+ "3386460149969": {
+  "media": [
+   "75610829422932",
+   "75610829455700"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Lacoste Original Eau de Parfum 100ml"
+ },
+ "7640171199719": {
+  "media": [
+   "75610829488468",
+   "75610829521236"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Lalique Soleil Eau de Parfum 100ml"
+ },
+ "3614274380392": {
+  "media": [
+   "75610829586772",
+   "75610829619540"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Lancôme Ô Zenith Eau de Toilette 100ml"
+ },
+ "3595471026897": {
+  "media": [
+   "75610829685076",
+   "75610829717844"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Mercedes-Benz Land Eau de Parfum 100ml"
+ },
+ "3386460175609": {
+  "media": [
+   "75610829979988",
+   "75610830012756"
+  ],
+  "verdict": "ok",
+  "issue": "",
+  "reason": "Photos checked: correct product, clean cut-out",
+  "date": "28/11/2026",
+  "title": "Mont Blanc Explorer Infinite Eau de Parfum 60ml"
+ },
+ "0085715676726": {
+  "media": [
+   "75610828898644"
+  ],
+  "verdict": "one",
+  "issue": "Only one photo attached",
+  "reason": "Only the set photo (main) is attached – no box.jpg in folder; add a second photo",
+  "date": "28/11/2026",
+  "title": "FCUK Her Eau de Toilette 3 x 25ml Gift Set – Original, Friction & Connect"
+ },
+ "0085715676733": {
+  "media": [
+   "75610828931412"
+  ],
+  "verdict": "one",
+  "issue": "Only one photo attached",
+  "reason": "Only the set photo (main) is attached – no box.jpg in folder; add a second photo",
+  "date": "28/11/2026",
+  "title": "FCUK Him Eau de Toilette 3 x 25ml Gift Set – Original, Friction & Connect"
+ },
+ "3595471071156": {
+  "media": [
+   "75610829783380"
+  ],
+  "verdict": "one",
+  "issue": "Only one photo attached",
+  "reason": "Only one photo attached (bottle with 20ml box) – add main.jpg of the bottle on its own",
+  "date": "28/11/2026",
+  "title": "Mercedes-Benz Woman In Red Eau de Parfum 20ml"
  }
 }
